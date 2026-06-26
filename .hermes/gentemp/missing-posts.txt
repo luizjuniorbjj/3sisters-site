@@ -1,0 +1,331 @@
+  // ─────────────────────────────────────────────────────────────
+  // Post — Preparing Your Home for Regular Cleaning
+  // ─────────────────────────────────────────────────────────────
+  {
+    slug: 'preparing-home-for-regular-cleaning',
+    category: 'Cleaning Tips',
+    serviceSlug: 'regular-cleaning',
+    readMinutes: 5,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-14.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'How to Prepare Your Home for a Regular Cleaning Visit',
+      description: 'A practical, no-stress guide to getting ready for your recurring cleaning in NYC or California — what to do, what to leave, and how to make every visit more effective.',
+      leadParagraph: 'A recurring cleaning visit is different from a deep cleaning or a one-time booking. Your cleaner comes on the same day every week or every other week, knows your home, and works through a routine. But how you prepare for that visit makes a real difference in what gets covered and how smoothly the team can work. This guide covers the practical side of preparing for a recurring regular cleaning in New York and California — what to do in the ten minutes before the team arrives, what to tell us about changes in your home, and what you can safely ignore because it is our job, not yours.',
+      sections: [
+        {
+          heading: 'The ten-minute prep — what actually matters',
+          html: '<p>You do not need to clean before we clean. What you do need is ten minutes of pickup so we can reach the surfaces that need attention. Here is the short list:</p><ul><li><strong>Clear countertops and tables.</strong> Mail, keys, dishes, kids&apos; homework, the laptop. Put them in a drawer or a basket. If countertops are clear, we can wipe them properly.</li><li><strong>Pick up clothes and clutter from floors.</strong> We vacuum and mop every room on our route. Clothes, shoes, bags, and toys on the floor slow us down and leave corners untouched. A quick toss into the closet or a laundry basket takes two minutes and makes a real difference.</li><li><strong>Make beds.</strong> Not for us — for you. A made bed lets us tidy the bedroom without rearranging your bedding. If you prefer to leave it unmade, leave a note and we work around it.</li><li><strong>Secure valuables and pets.</strong> Jewelry, cash, important documents — put them away. Pets should be in a separate room or crated during the cleaning. We work around them but the vacuum and mop stress most animals.</li></ul><p>That is it. Ten minutes. Everything else is our job. See our <a href="/services/regular-cleaning">regular cleaning service page</a> for what every visit includes.</p>',
+        },
+        {
+          heading: 'What to tell us before each visit',
+          html: '<p>Life changes between visits. A quick heads-up helps us adjust the cleaning to what your home actually needs that week:</p><ul><li><strong>Spills or accidents.</strong> Spilled juice on the rug, pet accident in the corner, mud tracked through the entryway — tell us when we arrive or leave a note. We spot-treat it during the visit.</li><li><strong>New furniture or rearrangements.</strong> If you moved the couch or added a new piece, tell us so we clean around and under it properly.</li><li><strong>Extra guests or a party.</strong> Hosted a dinner party the night before? The kitchen and living room need extra attention. Leave a note or mention it at the door.</li><li><strong>Changes in access.</strong> New door code, new doorman, new building rules — update us ahead of time so we are not stuck outside on cleaning day.</li></ul><p>You can leave notes in our <a href="/booking">booking portal</a> or call <a href="tel:+165****7171">(657) 737-7171</a> the morning of your visit.</p>',
+        },
+        {
+          heading: 'What we handle so you do not have to',
+          html: '<p>A regular cleaning visit from 3 Sisters covers everything your home needs to stay consistently fresh. Every visit includes:</p><ul><li>Dusting all surfaces, furniture, and decor</li><li>Vacuuming carpets and rugs in every room</li><li>Mopping hard floors (kitchen, bathroom, entryway)</li><li>Cleaning and sanitizing all bathroom surfaces</li><li>Wiping kitchen counters, backsplash, and sink</li><li>Emptying trash bins and replacing liners</li><li>Spot-cleaning mirrors and glass surfaces</li><li>Sanitizing high-touch points (door handles, light switches, railings)</li><li>Tidying general living spaces</li></ul><p>If you want something different for a specific visit — skip the living room this week, focus on the kitchen — just tell us. Recurring clients have that flexibility. See the full list on our <a href="/services/regular-cleaning">Regular Cleaning page</a>.</p>',
+        },
+        {
+          heading: 'Building access in NYC and CA — what your cleaner needs',
+          html: '<p>New York and California buildings have their own access quirks. Here is what helps your cleaner arrive on time:</p><ul><li><strong>Manhattan.</strong> Doorman buildings: add your cleaner to the building&apos;s visitor list or leave a key with the front desk. Co-op and condo buildings: check whether cleaning services need a freight elevator reservation.</li><li><strong>Brooklyn.</strong> Walk-ups with no elevator: let us know the floor. Our team carries all equipment — vacuums, mops, supplies — so a fourth-floor walk-up adds a few minutes to the setup time.</li><li><strong>Queens.</strong> Mixed building types: some have doormen, some have lockboxes, some have street access only. Tell us what works for your building.</li><li><strong>San Francisco.</strong> Many buildings have dedicated service entrances or garage parking for vendors. Confirm the access rules with your building manager before your first visit.</li></ul><p>If anything changes between visits — new doorman, new code, construction in the building — update us through the <a href="/booking">booking portal</a> or a quick call.</p>',
+        },
+        {
+          heading: 'What not to worry about',
+          html: '<p>There are things many clients worry about that they genuinely do not need to. Here is the list of things to stop thinking about:</p><ul><li><strong>You do not need to buy special cleaning products.</strong> We bring vacuums, mops, cloths, and tools. You provide the cleaning products you already trust — your floor cleaner, your all-purpose spray, your bathroom disinfectant. That way nothing in your home gets a chemical it was not designed for.</li><li><strong>You do not need to be home.</strong> Most recurring clients leave us a key or a door code and come back to a clean home. If you work from home, we work around your schedule.</li><li><strong>You do not need to tip — but it is appreciated.</strong> Tipping is never expected but always appreciated. Ten to twenty percent is the common range. Cash or digital, the cleaner keeps it all.</li><li><strong>You do not need to worry about consistency.</strong> We send the same cleaner or team to recurring clients whenever possible. If your regular cleaner is out sick, the assigned backup knows your home from the visit notes. No starting from scratch every time.</li></ul><p>Have a question we did not answer? Check our <a href="/faq">FAQ page</a> or give us a call.</p>',
+        },
+      ],
+      closingCta: 'Starting a recurring cleaning schedule in New York or California? Let us set it up. Call <a href="tel:+165****7171">(657) 737-7171</a> Monday through Saturday, or fill out our <a href="/booking">booking form</a>. Same-day quotes, no long-term contracts, and the same trusted cleaner every visit.',
+      faqs: [
+        {
+          question: 'How much should I clean before a Regular Cleaning visit?',
+          answer: 'Ten minutes of pickup is plenty — clear surfaces, pick up clothes from the floor, and put away valuables. Leave the actual cleaning to us. See our <a href="/services/regular-cleaning">Regular Cleaning page</a> for what every visit includes.',
+          speakable: true,
+        },
+        {
+          question: 'What happens if I am not home when the cleaner arrives?',
+          answer: 'No problem at all. Most of our recurring clients leave a key or door code and come back to a clean home. Just let us know how you want to handle access when you book. Book online at <a href="/booking">3sistersservices.com/booking</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Do I get the same cleaner every time?',
+          answer: 'We send the same cleaner or team to recurring clients whenever possible. If your regular cleaner is unavailable, the assigned backup reviews the notes from previous visits so nothing is missed. Start your recurring schedule on our <a href="/booking">booking form</a>.',
+          speakable: false,
+        },
+        {
+          question: 'Can I add extra tasks to a specific visit?',
+          answer: 'Yes. Recurring clients can adjust individual visits — add an extra bathroom, focus on the kitchen, skip the guest room. Leave a note when you book or call us the morning of the visit. Adjust through the <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+      ],
+    },
+    es: {
+      title: 'Cómo preparar su hogar para una visita de Limpieza Regular',
+      description: 'Guía práctica para prepararse para su limpieza recurrente en Nueva York o California — qué hacer, qué dejar y cómo aprovechar cada visita.',
+      leadParagraph: 'Una visita de limpieza recurrente es diferente a una limpieza profunda o una reserva única. Su limpiador viene el mismo día cada semana o cada dos semanas, conoce su hogar y trabaja con una rutina. Pero cómo se prepara para esa visita marca una diferencia real en lo que se cubre. Esta guía cubre lo práctico de prepararse para una limpieza regular recurrente: qué hacer en los diez minutos antes de que llegue el equipo, qué contarnos sobre cambios en su hogar y qué puede ignorar porque es nuestro trabajo.',
+      sections: [
+        {
+          heading: 'La preparación de diez minutos',
+          html: '<p>No necesita limpiar antes de que limpiemos. Lo que necesita son diez minutos de recogida: despeje mesones y mesas, recoja ropa y desorden del piso, tienda las camas, guarde objetos de valor y mascotas. Eso es todo. Diez minutos. Todo lo demás es nuestro trabajo. Vea <a href="/services/regular-cleaning">nuestra página de Limpieza Regular</a>.</p>',
+        },
+        {
+          heading: 'Qué decirnos antes de cada visita',
+          html: '<p>La vida cambia entre visitas: derrames, muebles nuevos, invitados extra, cambios de acceso. Un aviso rápido nos ayuda a ajustar la limpieza a lo que su hogar necesita esa semana. Deje notas en nuestro <a href="/booking">portal de reservas</a> o llame al <a href="tel:+165****7171">(657) 737-7171</a>.</p>',
+        },
+        {
+          heading: 'Lo que manejamos nosotros',
+          html: '<p>Cada visita de limpieza regular incluye: quitar polvo de todas las superficies, aspirar alfombras, trapear pisos duros, limpiar y sanitizar baños, limpiar mesones de cocina y fregadero, vaciar basureros, limpiar espejos, sanitizar puntos de alto contacto (manijas, interruptores, pasamanos) y ordenar espacios generales. Vea <a href="/services/regular-cleaning">nuestra página</a> para la lista completa.</p>',
+        },
+        {
+          heading: 'Acceso al edificio en NYC y CA',
+          html: '<p>Edificios con portero en Manhattan: añada a su limpiador a la lista de visitas. Walk-ups en Brooklyn: avísenos el piso. Queens: díganos qué funciona para su edificio. San Francisco: confirme las reglas de acceso con su administrador. Si algo cambia entre visitas, actualícelo por el <a href="/booking">portal de reservas</a>.</p>',
+        },
+        {
+          heading: 'Lo que no debe preocupar',
+          html: '<p>No necesita comprar productos especiales (traemos herramientas, usted provee los productos que ya usa), no necesita estar en casa (la mayoría deja llave), no necesita preocuparse por consistencia (enviamos el mismo equipo siempre que sea posible). Preguntas sin respuesta? Vea nuestra <a href="/faq">página de FAQ</a>.</p>',
+        },
+      ],
+      closingCta: '¿Empezando un calendario recurrente en Nueva York o California? Llame al <a href="tel:+165****7171">(657) 737-7171</a> o llene nuestro <a href="/booking">formulario de reserva</a>. Cotizaciones el mismo día, sin contratos largos.',
+      faqs: [
+        {
+          question: '¿Cuánto debo limpiar antes de una visita de Limpieza Regular?',
+          answer: 'Diez minutos de recogida es suficiente — despeje superficies, recoja ropa del piso y guarde objetos de valor. Deje la limpieza real para nosotros. Vea nuestra <a href="/services/regular-cleaning">página de Limpieza Regular</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Recibo la misma persona cada vez?',
+          answer: 'Sí, enviamos la misma persona o equipo siempre que sea posible. Reserve en nuestro <a href="/booking">formulario en línea</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué pasa si no estoy en casa cuando llega el limpiador?',
+          answer: 'No hay problema. La mayoría de clientes recurrentes deja llave o código y vuelve a una casa limpia. Vea nuestra <a href="/faq">página de FAQ</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Puedo añadir tareas extra a una visita específica?',
+          answer: 'Sí. Deje una nota al reservar o llámenos la mañana de la visita. Ajuste por el <a href="/booking">portal de reservas</a>.',
+          speakable: false,
+        },
+      ],
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────────
+  // Post — Airbnb Cleaning Cost Guide
+  // ─────────────────────────────────────────────────────────────
+  {
+    slug: 'airbnb-cleaning-cost-guide',
+    category: 'Cost Guide',
+    serviceSlug: 'airbnb-cleaning',
+    readMinutes: 6,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-17.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'How Much Does Airbnb Cleaning Cost? A Host Guide',
+      description: 'What Airbnb turnover cleaning actually costs in New York and California — per-visit pricing, what drives the rate, and how to budget for 5-star cleanings that protect your listing.',
+      leadParagraph: 'Airbnb cleaning is not the same as residential cleaning. A turnover happens in a tight window between guests, covers specific tasks that guests grade you on, and the price reflects both the speed and the standard. This guide covers what turnover cleaning costs in New York and California, what changes the price, and how to set your cleaning fee so it covers the real cost without eating into your nightly rate.',
+      sections: [
+        {
+          heading: 'What drives the cost of an Airbnb turnover',
+          html: '<p>The price of a turnover cleaning depends on three honest variables:</p><ol><li><strong>Size of the unit.</strong> A studio or 1-bedroom takes 60 to 90 minutes. A 2-bedroom takes 90 to 120 minutes. Larger units with multiple bathrooms, kitchens, and living areas take longer and cost proportionally more.</li><li><strong>Scope of the turnover.</strong> A standard turnover includes linen change, full clean (dust, surfaces, mopping, bathroom, kitchen), restock (toilet paper, soap, paper towels), trash removal, and a final presentation check. Add-ons like laundry service, extra bathroom detail, or carpet shampooing add to the cost.</li><li><strong>Frequency and bundling.</strong> One-off turnovers cost more per visit than recurring turnovers on a standing schedule. Hosts with multiple units in the same neighborhood can bundle routes for a lower per-unit rate.</li></ol><p>Contact us for pricing on your specific unit. We give you an honest number based on size, scope, and frequency — no surprises. See our <a href="/services/airbnb-cleaning">Airbnb Cleaning page</a> for what every turnover includes.</p>',
+        },
+        {
+          heading: 'Setting your cleaning fee — what to charge guests',
+          html: '<p>Airbnb lets you set a separate cleaning fee that guests pay on top of the nightly rate. Getting that number right matters — too high and guests scroll past your listing, too low and you subsidize every booking out of your nightly revenue. Here is a practical framework:</p><ul><li><strong>Cover your actual cost.</strong> Start with what you pay your cleaner per turnover. If a 1-bedroom costs you $X in cleaning, your cleaning fee should be at least that amount. Do not subsidize turnover costs from your nightly rate.</li><li><strong>Watch competitor fees in your market.</strong> Look at the top 10 listings in your neighborhood that are similar to yours. Their cleaning fees are the benchmark guests expect. If you are significantly above or below, there should be a clear reason (extra amenities, luxury standard, etc.).</li><li><strong>Adjust by length of stay.</strong> Guests booking a weekend for two nights pay the same cleaning fee as guests booking a week. The fee is per reservation, not per night. For longer stays (14+ nights), some hosts reduce the cleaning fee since the unit sees less turnover.</li></ul><p>A clean home is the #1 predictor of 5-star reviews on Airbnb. Whatever number you set, make sure it pays for a real clean, not a surface pass. Start with our <a href="/services/airbnb-cleaning">Airbnb Cleaning page</a> to see what a professional turnover includes.</p>',
+        },
+        {
+          heading: 'Same-day turnover logistics — why timing matters for price',
+          html: '<p>Most Airbnb checkouts are at 11am and check-ins at 3pm or 4pm. That is a 4- to 5-hour window. Within that window, your cleaner needs to drive or commute to the unit, park or arrange building access, complete the full turnover, do a final walk-through, and leave before the next guest arrives. The tighter the window, the more concentrated the labor cost.</p><p>Factors that affect same-day turnover pricing:</p><ul><li><strong>Distance between units.</strong> A cleaner handling two turnovers in the same building is more efficient than one driving across the borough. Bundle multiple units in the same area for better per-unit pricing.</li><li><strong>Building access time.</strong> Manhattan buildings with freight elevator reservations, Brooklyn walk-ups, and San Francisco buildings with service entrances all add minutes to the turnover. Faster access means faster turnover in the same time window.</li><li><strong>Seasonal demand.</strong> Summer and holiday seasons see peak booking volume. During those months, turnover teams book out and rates may reflect the higher demand. Book early and lock in your rate.</li></ul><p>We handle same-day turnovers across New York and California. Call <a href="tel:+165****7171">(657) 737-7171</a> or use the <a href="/booking">booking form</a> to set up your schedule.</p>',
+        },
+        {
+          heading: 'What every turnover includes — and what costs extra',
+          html: '<p>A standard turnover from 3 Sisters Services covers everything your next guest notices when they walk in:</p><ul><li>Fresh linens on all beds, made hospitality-style</li><li>Full dust and surface cleaning in every room</li><li>Bathroom deep clean — toilet, shower, sink, mirror, floor</li><li>Kitchen sanitization — counters, stovetop, sink, microwave</li><li>Trash and recycling removal with new liners</li><li>Restock of toilet paper, paper towels, hand soap</li><li>Floor care — vacuum carpets, mop hard surfaces</li><li>Lost-and-found sweep before the next guest checks in</li><li>Final presentation check (lights, scent, overall look)</li></ul><p>Services quoted separately: laundry service (pick up, wash, fold, return), interior window washing, carpet shampooing, deep refrigerator or oven cleaning, and restocking guest supplies beyond basics. See our <a href="/services/airbnb-cleaning">Airbnb Cleaning page</a> for all the details.</p>',
+        },
+        {
+          heading: 'How to budget for Airbnb cleaning across a calendar year',
+          html: '<p>A predictable cleaning budget helps you set your pricing and plan your cash flow. Here is how to estimate your annual cleaning cost:</p><ol><li><strong>Know your turnover frequency.</strong> If you have 10 bookings per month and your unit turns over every time, that is 120 turnovers per year. Multiply by your per-turnover cost for the annual number.</li><li><strong>Factor in deep cleans.</strong> Most hosts book a deep clean for their property once or twice a year. Budget for those separately since they cost more than standard turnovers.</li><li><strong>Account for gaps and minimums.</strong> If a guest books for 14 nights, you still pay the same turnover fee as a 2-night booking. In low-season months with fewer bookings, the per-booking cost stays the same.</li></ol><p>Set up a recurring turnover schedule and get consistent pricing. Call us or use the <a href="/booking">booking form</a> to discuss your annual plan.</p>',
+        },
+      ],
+      closingCta: 'Hosting on Airbnb in New York or California? Set up recurring turnovers and get consistent pricing. Call <a href="tel:+165****7171">(657) 737-7171</a> or fill out our <a href="/booking">booking form</a>. We handle everything from a single studio to a portfolio of properties.',
+      faqs: [
+        {
+          question: 'What is the average cost of an Airbnb turnover in NYC?',
+          answer: 'Pricing varies by the size and location of your unit. Contact us for pricing on your specific Airbnb. We give you an honest number based on size, scope, and frequency. See our <a href="/services/airbnb-cleaning">Airbnb Cleaning page</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Can you handle same-day turnovers between checkout and check-in?',
+          answer: 'Yes — same-day turnovers in the standard 11am-to-3pm window are our most common Airbnb job. Bundle multiple units in the same neighborhood for safer timing. Call us at <a href="tel:+165****7171">(657) 737-7171</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Do I need to provide cleaning supplies and linens?',
+          answer: 'We bring vacuums, mops, cloths, and tools. You provide the cleaning products you prefer. Linens are your responsibility — we change them but do not supply them. Most hosts keep 2-3 sets per bed. See our <a href="/faq">FAQ page</a>.',
+          speakable: false,
+        },
+        {
+          question: 'How do I set my Airbnb cleaning fee to cover real costs?',
+          answer: 'Start with what you pay per turnover and set your cleaning fee at or above that amount. Look at competitor fees in your neighborhood and adjust by length of stay. Use the <a href="/services/airbnb-cleaning">Airbnb Cleaning page</a> for what professional turnovers include.',
+          speakable: false,
+        },
+      ],
+    },
+    es: {
+      title: '¿Cuánto cuesta la limpieza de Airbnb? Guía para anfitriones',
+      description: 'Lo que cuesta la limpieza de turnover de Airbnb en Nueva York y California — precios por visita, qué determina la tarifa y cómo presupuestar para limpiezas de 5 estrellas.',
+      leadParagraph: 'La limpieza de Airbnb no es lo mismo que la limpieza residencial. Un turnover ocurre en una ventana estrecha entre huéspedes, cubre tareas específicas por las que los huéspedes le califican, y el precio refleja tanto la velocidad como el estándar. Esta guía cubre lo que cuesta la limpieza de turnover en Nueva York y California, qué cambia el precio y cómo fijar su tarifa de limpieza.',
+      sections: [
+        {
+          heading: 'Lo que determina el costo de un turnover de Airbnb',
+          html: '<p>El precio de un turnover depende del tamaño de la unidad (estudio/1 hab: 60-90 min, 2 hab: 90-120 min), el alcance (cambio de sábanas, limpieza completa, reabastecimiento) y la frecuencia (turnos únicos cuestan más por visita que los recurrentes). Contáctenos para precios. Vea <a href="/services/airbnb-cleaning">nuestra página de limpieza Airbnb</a>.</p>',
+        },
+        {
+          heading: 'Cómo fijar su tarifa de limpieza en Airbnb',
+          html: '<p>Cubra su costo real primero, mire las tarifas de competidores en su barrio, y ajuste por duración de la estadía. Una casa limpia es el #1 predictor de reseñas de 5 estrellas. Vea <a href="/services/airbnb-cleaning">nuestra página de limpieza Airbnb</a>.</p>',
+        },
+        {
+          heading: 'Logística de turnover el mismo día',
+          html: '<p>Checkout a las 11am y check-in a las 3pm deja una ventana de 4-5 horas. Factores que afectan el precio: distancia entre unidades, acceso al edificio y demanda estacional. Múltiples unidades en la misma zona tienen mejores tarifas. Llame al <a href="tel:+165****7171">(657) 737-7171</a>.</p>',
+        },
+        {
+          heading: 'Lo que incluye cada turnover',
+          html: '<p>Sábanas frescas, limpieza completa de polvo y superficies, baño a fondo, cocina sanitizada, basura, reabastecimiento y verificación final de presentación. Servicios extra: lavandería, ventanas, shampoo de alfombras. Vea <a href="/services/airbnb-cleaning">nuestra página</a>.</p>',
+        },
+        {
+          heading: 'Cómo presupuestar limpieza de Airbnb anualmente',
+          html: '<p>Multiplique sus turnovers por mes por 12 por su costo por turnover. Añada 1-2 limpiezas profundas al año. Reserve turnos recurrentes para precios consistentes por el <a href="/booking">formulario de reserva</a>.</p>',
+        },
+      ],
+      closingCta: '¿Anfitrión de Airbnb en Nueva York o California? Reserve turnos recurrentes. Llame al <a href="tel:+165****7171">(657) 737-7171</a> o use nuestro <a href="/booking">formulario de reserva</a>.',
+      faqs: [
+        {
+          question: '¿Cuánto cuesta un turnover de Airbnb en NYC?',
+          answer: 'El precio varía según el tamaño y ubicación de su unidad. Contáctenos. Vea <a href="/services/airbnb-cleaning">nuestra página</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Pueden hacer turnovers el mismo día?',
+          answer: 'Sí, entre las 11am y 3pm. Agrupe unidades en el mismo barrio. Llame al <a href="tel:+165****7171">(657) 737-7171</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Necesito proveer sábanas y productos de limpieza?',
+          answer: 'Traemos herramientas. Usted provee productos y sábanas. Vea nuestra <a href="/faq">página de FAQ</a>.',
+          speakable: false,
+        },
+      ],
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────────
+  // Post — Hiring an Airbnb Cleaning Service
+  // ─────────────────────────────────────────────────────────────
+  {
+    slug: 'hiring-airbnb-cleaning-service',
+    category: 'Hiring Guide',
+    serviceSlug: 'airbnb-cleaning',
+    readMinutes: 6,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-18.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'Hiring an Airbnb Cleaning Service — What Hosts Should Know',
+      description: 'What to look for when hiring an Airbnb turnover cleaning service in New York or California — the right questions, red flags, and how to protect your listing rating.',
+      leadParagraph: 'Your Airbnb rating depends more on cleanliness than on location, price, or amenities — studies show it is the #1 factor in guest reviews and repeat bookings. Hiring the right turnover cleaning service is therefore one of the most important decisions you make as a host. This guide covers what to look for, what questions to ask before you commit, and the red flags that should send you back to your search. Whether you have one unit or a portfolio of properties, getting the turnover right protects your listing rating and your bottom line.',
+      sections: [
+        {
+          heading: 'The non-negotiables — what every Airbnb cleaner must cover',
+          html: '<p>Before you hire any turnover cleaning service, confirm they cover these minimum requirements in every visit:</p><ul><li><strong>Linen change.</strong> Fresh sheets on all beds, made hospitality-style. Pillows arranged, throw at the foot of the bed. No exceptions.</li><li><strong>Bathroom reset.</strong> Toilet scrubbed and seat down. Shower and tub cleaned. Sink and vanity wiped. Mirror streak-free. Fresh towels folded or rolled. Soap and toilet paper restocked.</li><li><strong>Kitchen reset.</strong> Counters wiped, stovetop clean, microwave interior clean. Sink empty and dry. Dishwasher run and emptied. Trash out, new bag in. Fridge checked for leftover food.</li><li><strong>Floor care.</strong> Vacuum carpets, mop hard floors. Every room, including under furniture that moves.</li><li><strong>Presentation check.</strong> Lights on, blinds at a welcoming position, neutral clean scent, no visible dust or marks on walls.</li></ul><p>If a company will not commit to all five, keep looking. See our <a href="/services/airbnb-cleaning">Airbnb Cleaning page</a> for what every 3 Sisters turnover includes.</p>',
+        },
+        {
+          heading: 'Questions to ask before signing up',
+          html: '<p>Ask these questions on your first call or message. The answers separate professional services from gig-economy stopgaps:</p><ol><li><strong>"What is your standard turnover window?"</strong> Most checkouts are 11am, check-ins at 3pm to 4pm. A professional service can consistently turn a unit in that window. A company that says "it depends" may not have the reliability your listing needs.</li><li><strong>"Do you handle same-day turnovers when I have back-to-back bookings?"</strong> If your calendar is full, every checkout is followed by a check-in the same day. Your cleaner must handle that schedule reliably.</li><li><strong>"Can you handle multiple units in the same area?"</strong> If you have more than one listing, ask about route bundling. A team that cleans two or three units in the same building or block can offer better per-unit pricing and tighter timing.</li><li><strong>"What happens if a turnover is missed or late?"</strong> Missed turnovers are the fastest way to tank your rating. Ask about backup coverage, late arrival policies, and how they communicate delays.</li></ol><p>We answer all of these honestly. Contact us through the <a href="/booking">booking form</a> or call <a href="tel:+165****7171">(657) 737-7171</a>.</p>',
+        },
+        {
+          heading: 'Bonded, insured, background-checked — why it matters for STRs',
+          html: '<p>Short-term rental turnovers involve more risk than residential cleaning. Your cleaner enters a unit that belongs to someone else (your guest) while you are not there. They handle keys, door codes, and access to the entire unit. They reset a space that needs to feel fresh for someone who just traveled to stay there. Insurance and bonding matter because:</p><ul><li>If a cleaner accidentally damages something in the unit during the turnover, insurance covers the cost.</li><li>If something goes missing from the unit, bonding covers it. (Guests occasionally take things, but the turnover cleaner is the obvious first question — a bond protects both you and the cleaner.)</li><li>Background checks matter because the cleaner has unsupervised access to the unit. You should know the company screens its team.</li></ul><p>Every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Read our <a href="/blog/hiring-cleaning-service-nyc">full hiring guide</a> for more detail.</p>',
+        },
+        {
+          heading: 'Red flags specific to Airbnb turnover cleaning',
+          html: '<p>Some warning signs are specific to the short-term rental world:</p><ul><li><strong>"We will clean it, but we do not change linens."</strong> A turnover without linen change is not a turnover. It is a regular clean with a higher price tag. Keep looking.</li><li><strong>No mention of lost-and-found protocol.</strong> Guests leave things behind constantly. A professional turnover service logs and photographs what they find and alerts you before the next guest checks in.</li><li><strong>They cannot accommodate your check-in and checkout times.</strong> If your checkout is 11am and check-in at 4pm, the cleaner needs to be there in the middle. A company that cannot reliably hit that window will eventually cause a delayed check-in, which means a bad review.</li><li><strong>Price is suspiciously low.</strong> A full turnover for a 1-bedroom takes 60 to 90 minutes of labor. If the price sounds too good for that time commitment, the cleaner is cutting corners — and your guests will notice in the reviews.</li></ul><p>Our <a href="/blog/airbnb-cleaning-checklist">Airbnb cleaning checklist</a> covers exactly what a 5-star turnover looks like.</p>',
+        },
+        {
+          heading: 'Setting up a recurring turnover schedule',
+          html: '<p>The best way to ensure consistent, 5-star turnovers is a recurring schedule. Here is how it works:</p><ul><li><strong>Standing booking.</strong> Your cleaner comes on the same days every week or month, aligned with your booking calendar. You adjust the schedule when you have gaps or back-to-back reservations.</li><li><strong>Flexible adjustments.</strong> Need an extra deep clean between long-stay guests? Want to cancel a visit during a vacancy? One call or message handles it.</li><li><strong>Contingency coverage.</strong> If your regular cleaner is unavailable on turnover day, a backup team that knows your unit from the visit notes covers the shift. No gaps, no missed turnovers.</li><li><strong>Consistent pricing.</strong> Recurring clients get stable per-visit pricing, even during peak season when one-off rates may increase.</li></ul><p>Ready to set up your turnover schedule? Call <a href="tel:+165****7171">(657) 737-7171</a> or fill out the <a href="/booking">booking form</a>. Single units and entire portfolios welcome.</p>',
+        },
+      ],
+      closingCta: 'Hiring an Airbnb turnover service for your New York or California listing? We handle everything from a single studio to a full portfolio. Call <a href="tel:+165****7171">(657) 737-7171</a> or use our <a href="/booking">booking form</a>. Same-day quotes, consistent teams, 5-star standards.',
+      faqs: [
+        {
+          question: 'How do I find a reliable Airbnb turnover cleaner in NYC?',
+          answer: 'Ask the non-negotiables: linen change, bathroom reset, kitchen reset, floor care, and presentation check. Confirm they are bonded, insured, and background-checked. Call <a href="tel:+165****7171">(657) 737-7171</a> to talk through your needs.',
+          speakable: true,
+        },
+        {
+          question: 'What should I do if a turnover is missed or delayed?',
+          answer: 'Ask your cleaner about backup coverage and late arrival policies before you sign up. At 3 Sisters, we have contingency teams for every recurring client. Book through our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Do I need to be present for the turnover cleaning?',
+          answer: 'No — most hosts give the cleaner a key, door code, or lockbox code and the team handles the turnover independently. We photograph the unit after each visit for your records. Book online at <a href="/booking">3sistersservices.com/booking</a>.',
+          speakable: false,
+        },
+        {
+          question: 'Can I bundle multiple Airbnb units under one cleaner?',
+          answer: 'Yes — route bundling means one team handles two or more units in the same neighborhood in a single shift. Better per-unit pricing and tighter timing. Call <a href="tel:+165****7171">(657) 737-7171</a> to discuss your portfolio.',
+          speakable: false,
+        },
+      ],
+    },
+    es: {
+      title: 'Cómo contratar un servicio de limpieza Airbnb — guía para anfitriones',
+      description: 'Qué buscar al contratar limpieza de turnover para Airbnb en Nueva York o California — preguntas correctas, señales de alerta y cómo proteger su calificación.',
+      leadParagraph: 'Su calificación de Airbnb depende más de la limpieza que de la ubicación, el precio o las comodidades. Contratar el servicio de limpieza correcto es una de las decisiones más importantes como anfitrión. Esta guía cubre qué buscar, qué preguntar y las señales de alerta.',
+      sections: [
+        {
+          heading: 'Lo no negociable — toda limpieza Airbnb debe cubrir',
+          html: '<p>Cambio de sábanas, reinicio de baño, reinicio de cocina, cuidado de pisos y verificación de presentación. Si una empresa no se compromete a los cinco, siga buscando. Vea <a href="/services/airbnb-cleaning">nuestra página de limpieza Airbnb</a>.</p>',
+        },
+        {
+          heading: 'Preguntas antes de contratar',
+          html: '<p>¿Cuál es su ventana de turnover estándar? ¿Manejan turnovers el mismo día? ¿Pueden cubrir múltiples unidades? ¿Qué pasa si se pierde un turnover? Contáctenos por el <a href="/booking">formulario de reserva</a>.</p>',
+        },
+        {
+          heading: 'Bonded, asegurado, antecedentes — por qué importa',
+          html: '<p>Los turnovers de Airbnb implican más riesgo que la limpieza residencial. Cada limpiador de 3 Sisters tiene bond, seguro y verificación de antecedentes. Lea nuestra <a href="/blog/hiring-cleaning-service-nyc">guía de contratación</a>.</p>',
+        },
+        {
+          heading: 'Señales de alerta específicas de Airbnb',
+          html: '<p>"Limpiaremos pero no cambiamos sábanas": no es un turnover. Sin protocolo de objetos olvidados. No pueden acomodar sus horarios. Precio sospechosamente bajo. Nuestra <a href="/blog/airbnb-cleaning-checklist">lista de limpieza Airbnb</a> cubre lo que debe incluir un turnover de 5 estrellas.</p>',
+        },
+        {
+          heading: 'Configurar un calendario recurrente de turnovers',
+          html: '<p>Reserva permanente alineada con su calendario, ajustes flexibles, cobertura de contingencia y precios consistentes. Reserve por nuestro <a href="/booking">formulario de reserva</a> o llame al <a href="tel:+165****7171">(657) 737-7171</a>.</p>',
+        },
+      ],
+      closingCta: '¿Contratando limpieza de Airbnb en Nueva York o California? Llame al <a href="tel:+165****7171">(657) 737-7171</a> o use nuestro <a href="/booking">formulario de reserva</a>.',
+      faqs: [
+        {
+          question: '¿Cómo encuentro un limpiador de Airbnb confiable en NYC?',
+          answer: 'Pregunte por los no negociables: cambio de sábanas, baño, cocina, pisos y presentación. Confirme bond, seguro y antecedentes. Llame al <a href="tel:+165****7171">(657) 737-7171</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Necesito estar presente durante la limpieza?',
+          answer: 'No. La mayoría de anfitriones da una llave o código. Reserve por <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Puedo agrupar múltiples unidades de Airbnb?',
+          answer: 'Sí. Un equipo cubre varias unidades en el mismo barrio. Mejores tarifas. Llame al <a href="tel:+165****7171">(657) 737-7171</a>.',
+          speakable: false,
+        },
+      ],
+    },
+  },

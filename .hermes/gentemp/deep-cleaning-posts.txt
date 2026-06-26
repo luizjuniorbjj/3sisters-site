@@ -1,0 +1,218 @@
+  // Post 6 — Deep Cleaning Cost Guide
+  {
+    slug: 'deep-cleaning-cost-guide',
+    category: 'Cost Guide',
+    serviceSlug: 'deep-cleaning',
+    readMinutes: 6,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-15.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'How Much Does a Deep Cleaning Cost? A Straight Guide',
+      description: 'What a deep cleaning actually costs in New York and California, what drives the price, and how to get an accurate quote that matches your home.',
+      leadParagraph: 'A deep cleaning is not a regular cleaning — it is a full reset of your home, and the price reflects that. A 2-bedroom deep cleaning in Brooklyn takes more hours than a weekly visit, covers things a standard clean never touches, and carries a different price tag. This guide walks through what drives that price, what add-ons cost, how frequency changes the rate if you bundle it with recurring regulars, and the one question you should always ask before booking: "What is excluded?" If the answer is "nothing," you are probably getting a surface job, not a deep one.',
+      sections: [
+        {
+          heading: 'Deep cleaning vs regular cleaning — why the price is different',
+          html: '<p>A Regular Cleaning maintains a home that is already in decent shape — dust surfaces, vacuum floors, clean bathrooms, wipe counters. A Deep Cleaning is a reset: everything a regular clean does, plus inside the kitchen cabinets, behind the refrigerator, inside the oven, inside the fridge, every window track, every baseboard, every vent cover, every ceiling corner, behind and under furniture, the walls and doors, the grout in the bathrooms, and the inside of every closet. It is a full-day service. A studio or 1-bedroom deep cleaning takes our team four to six hours. A 2-bedroom runs six to eight hours. A 3-bedroom or larger can take two teams a full day. The price difference between a regular and a deep is not a markup — it is more hours, more attention, and more supplies.</p><p>See what is included in every deep cleaning on our <a href="/services/deep-cleaning">Deep Cleaning service page</a>.</p>',
+        },
+        {
+          heading: 'What drives the cost — size, condition, and extras',
+          html: '<p>Three variables determine the final number on your deep cleaning quote:</p><ol><li><strong>Square footage and room count.</strong> A 1-bedroom, 1-bath takes four to six hours. A 3-bedroom, 2-bath with a den, home office, and dining room takes eight hours or more. The base price grows with the size of the space.</li><li><strong>Condition.</strong> A home that gets regular maintenance cleanings needs less deep work than a home that has not been touched in six months. We quote honestly based on what we see — contact us for pricing on your specific home.</li><li><strong>Add-ons.</strong> Inside the oven, inside the refrigerator, inside cabinets, window washing (interior and exterior), laundry service, and carpet shampooing are extras. Each add-on adds 30 to 90 minutes to the visit. We list every add-on in your quote so nothing is a surprise.</li></ol><p>Not sure which add-ons you need? Browse our <a href="/faq">FAQ page</a> for common questions, or call us to walk through it.</p>',
+        },
+        {
+          heading: 'Seasonal and location factors',
+          html: '<p>Deep cleaning demand spikes in spring (post-winter reset) and late fall (pre-holiday preparation). During those months, teams book out further and rates may be slightly higher due to demand. Book at least one to two weeks ahead during spring and fall seasons to secure your preferred date.</p><p>Location matters too — Manhattan and San Francisco tend to run at the higher end of the range, while Queens, Brooklyn, and parts of inland California typically sit at mid-range. We serve all of these areas and price honestly by location. Check our <a href="/cities">service areas</a> to see if we cover your neighborhood.</p>',
+        },
+        {
+          heading: 'What is included in every deep cleaning — and what is not',
+          html: '<p>A standard deep cleaning from 3 Sisters Services includes:</p><ul><li>Dusting and wiping all surfaces, including blinds and ceiling fans</li><li>Cleaning inside and outside all kitchen cabinets</li><li>Behind and under kitchen appliances (fridge, stove, dishwasher)</li><li>Inside the oven, stovetop, and range hood — degreased</li><li>Inside the refrigerator — shelves, drawers, exterior</li><li>All baseboards, door frames, and window sills wiped</li><li>Windows cleaned on the interior side</li><li>Walls spot-cleaned for smudges and marks</li><li>All bathrooms scrubbed from top to bottom — tile, grout, fixtures</li><li>All vents and air returns cleaned</li><li>Behind and under all movable furniture</li><li>Ceiling corners and light fixtures dusted</li></ul><p>Services excluded unless added on: exterior window washing, carpet shampooing, interior of wall ovens or built-in microwaves, furniture assembly, and biohazard cleanup. We will always tell you what is excluded before you book so there are no surprises on cleaning day.</p>',
+        },
+        {
+          heading: 'How to get an accurate quote for your home',
+          html: '<p>An honest quote starts with accurate information from you. When you reach out, tell us:</p><ol><li><strong>Square footage and number of rooms.</strong> Bedrooms, bathrooms, and total approximate footage.</li><li><strong>Condition.</strong> Is it a maintained home that needs a seasonal reset, or a home that has not been deep cleaned in a year or more? We do not judge — we just need to know to send the right team and the right time estimate.</li><li><strong>Any add-ons you want.</strong> Oven, refrigerator, windows, carpet, laundry — let us know upfront and the quote is final.</li></ol><p>Call <a href="tel:+165****7171">(657) 737-7171</a> or fill out our <a href="/booking">booking form</a> with those details. We reply with a clear, itemized quote the same business day — no obligation, no bait-and-switch.</p>',
+        },
+      ],
+      closingCta: 'Ready to give your home the deep reset it needs? Call <a href="tel:+165****7171">(657) 737-7171</a> Monday through Saturday, or send your details through our <a href="/booking">booking form</a>. Same-day quotes, real pricing, and every deep cleaning backed by our family guarantee.',
+      faqs: [
+        {
+          question: 'How much should I expect to pay for a deep cleaning in NYC?',
+          answer: 'Pricing for a deep cleaning varies by the size and condition of your home, so contact us for pricing on your specific space. We give you an itemized quote before any work starts — no surprises. See our <a href="/services/deep-cleaning">Deep Cleaning page</a> for what is included in every booking.',
+          speakable: true,
+        },
+        {
+          question: 'How often should I schedule a deep cleaning?',
+          answer: 'Most clients book a deep cleaning once or twice a year and maintain it with bi-weekly Regular Cleanings in between. Post-renovation, after a long winter, before the holidays, or when moving into or out of a home are natural times to schedule one. Book online at <a href="/booking">3sistersservices.com/booking</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Can I bundle a deep cleaning with regular cleanings for a discount?',
+          answer: 'Yes — if you book a deep cleaning followed by recurring regular cleanings, we offer a frequency discount on the regular visits. Ask when you reach out and we will walk through the numbers. Start with our <a href="/booking">booking form</a>.',
+          speakable: false,
+        },
+        {
+          question: 'Do I need to be home during the deep cleaning?',
+          answer: 'No — most clients leave us a door code or key and come back to a fresh home. If you prefer to be there, that is also fine. We will work around your routine. See our <a href="/faq">FAQ page</a> for more on scheduling and access.',
+          speakable: false,
+        },
+      ],
+    },
+    es: {
+      title: '¿Cuánto cuesta una Limpieza Profunda? Guía directa',
+      description: 'Lo que cuesta una limpieza profunda en Nueva York y California, qué influye en el precio y cómo obtener una cotización precisa.',
+      leadParagraph: 'Una limpieza profunda no es una limpieza regular — es un reinicio completo de su casa, y el precio lo refleja. Una limpieza profunda de 2 habitaciones en Brooklyn toma más horas que una visita semanal, cubre cosas que una limpieza estándar nunca toca, y tiene un precio diferente. Esta guía explica qué impulsa ese precio, qué extras cuestan más, y la pregunta que siempre debe hacer antes de reservar: "¿Qué está excluido?"',
+      sections: [
+        {
+          heading: 'Limpieza profunda vs regular — por qué el precio es diferente',
+          html: '<p>Una Limpieza Regular mantiene una casa que ya está en buen estado — quitar polvo, aspirar, limpiar baños, pasar el trapo. Una Limpieza Profunda es un reinicio: todo lo que hace una regular, más dentro de los gabinetes, detrás del refrigerador, dentro del horno, dentro de la nevera, cada riel de ventana, cada zócalo, cada rejilla de ventilación, cada esquina del techo, detrás y debajo de los muebles, las paredes y puertas, la lechada en los baños, y el interior de cada closet. Es un servicio de día completo. Una limpieza profunda de estudio o 1 habitación toma de cuatro a seis horas. Una de 2 habitaciones toma de seis a ocho horas. El precio no es un margen — son más horas, más atención y más insumos.</p><p>Vea lo que está incluido en <a href="/services/deep-cleaning">nuestra página de Limpieza Profunda</a>.</p>',
+        },
+        {
+          heading: 'Lo que determina el costo — tamaño, condición y extras',
+          html: '<p>Tres variables determinan el número final de su cotización:</p><ol><li><strong>Tamaño y número de habitaciones.</strong> Una de 1 habitación, 1 baño toma 4 a 6 horas. Una de 3 habitaciones, 2 baños toma 8 horas o más.</li><li><strong>Condición.</strong> Una casa con limpiezas regulares necesita menos trabajo que una que no se ha tocado en 6 meses. Contáctenos para precios basados en su hogar.</li><li><strong>Extras.</strong> Horno, refrigerador, gabinetes, ventanas, alfombras. Cada extra añade 30 a 90 minutos.</li></ol><p>Vea nuestra <a href="/faq">página de preguntas frecuentes</a> para más detalles.</p>',
+        },
+        {
+          heading: 'Qué incluye cada Limpieza Profunda — y qué no',
+          html: '<p>Una limpieza profunda estándar de 3 Sisters Services incluye: quitar polvo de todas las superficies incluyendo persianas y ventiladores de techo, limpiar dentro y fuera de todos los gabinetes de cocina, detrás y debajo de los electrodomésticos, dentro del horno y la campana, dentro del refrigerador, todos los zócalos y marcos de puertas, ventanas por dentro, paredes limpiadas de manchas, todos los baños tallados de arriba a abajo, todas las rejillas de ventilación, detrás y debajo de todos los muebles movibles, y las esquinas del techo y lámparas.</p><p>Servicios excluidos a menos que se añadan: lavado exterior de ventanas, shampoo de alfombras, limpieza de hornos de pared o microondas empotrados, ensamblaje de muebles y limpieza de residuos biológicos.</p>',
+        },
+        {
+          heading: 'Cómo obtener una cotización precisa',
+          html: '<p>Cuando nos contacte, díganos: (1) metros cuadrados y número de habitaciones, (2) condición de la casa (mantenida o necesita reseteo profundo), (3) los extras que desea. Llame al <a href="tel:+165****7171">(657) 737-7171</a> o use nuestro <a href="/booking">formulario de reserva</a>.</p>',
+        },
+        {
+          heading: 'Temporada y ubicación — cómo afectan el precio',
+          html: '<p>La demanda de limpiezas profundas aumenta en primavera (reinicio post-invierno) y finales de otoño (preparación para fiestas). Reserve con 1-2 semanas de anticipación en esas temporadas. Manhattan y San Francisco tienden a estar en el rango más alto, mientras que Queens, Brooklyn y partes de California inland suelen estar en el rango medio. Vea nuestras <a href="/cities">áreas de servicio</a> para ver si cubrimos su vecindario.</p>',
+        },
+      ],
+      closingCta: '¿Listo para darle a su hogar el reinicio profundo que necesita? Llame al <a href="tel:+165****7171">(657) 737-7171</a> o envíe sus datos por nuestro <a href="/booking">formulario de reserva</a>.',
+      faqs: [
+        {
+          question: '¿Cuánto debo esperar pagar por una Limpieza Profunda en NYC?',
+          answer: 'El precio varía según el tamaño y condición de su hogar. Contáctenos para precios basados en su espacio específico. Le damos una cotización detallada antes de empezar. Vea <a href="/services/deep-cleaning">nuestra página de Limpieza Profunda</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Con qué frecuencia debo agendar una Limpieza Profunda?',
+          answer: 'La mayoría de clientes reserva una o dos veces al año y la mantiene con Limpiezas Regulares quincenales. Reserve en <a href="/booking">nuestro formulario en línea</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Puedo combinar una Limpieza Profunda con limpiezas regulares para descuento?',
+          answer: 'Sí — reserve una limpieza profunda seguida de limpiezas regulares recurrentes y ofrecemos descuento por frecuencia. Pregunte al contactarnos. Use nuestro <a href="/booking">formulario de reserva</a>.',
+          speakable: false,
+        },
+        {
+          question: 'Tengo que estar en casa durante la Limpieza Profunda?',
+          answer: 'No — la mayoría de clientes nos deja una llave o código y vuelve a una casa fresca. Vea nuestra <a href="/faq">página de FAQ</a> para más información.',
+          speakable: false,
+        },
+      ],
+    },
+  },
+
+  // Post 7 — Hiring a Deep Cleaning Service
+  {
+    slug: 'hiring-deep-cleaning-service',
+    category: 'Hiring Guide',
+    serviceSlug: 'deep-cleaning',
+    readMinutes: 6,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-16.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'Hiring a Deep Cleaning Service — What to Ask Before You Book',
+      description: 'What to look for when hiring a deep cleaning service in New York or California — the right questions, red flags, and how to know you are getting a real deep clean, not a surface pass.',
+      leadParagraph: 'A deep cleaning costs more than a regular cleaning because it covers more. But not every company that offers "deep cleaning" actually does the work. Some run a regular clean with a different name and a higher price. Others skip half the tasks and leave you wondering why you paid extra for a dusting. Hiring the right deep cleaning service means knowing what to ask before you book, what a real deep cleaning checklist looks like, and which red flags mean the company is not serious about the work. This guide gives you that checklist — the same one we give each other when a friend asks for a recommendation.',
+      sections: [
+        {
+          heading: 'What a real deep cleaning includes — use this as your checklist',
+          html: '<p>When a company calls itself a deep cleaning service, this is the list it should cover without you asking twice. If any item is "not included in the base price," reconsider whether it is a deep cleaning or a renamed regular cleaning:</p><ul><li>All surfaces dusted and wiped — including ceiling fans, blinds, window sills, and light fixtures</li><li>Inside and outside all kitchen cabinets and drawers</li><li>Behind and under all kitchen appliances — fridge, stove, dishwasher, microwave cart</li><li>Inside the oven, stovetop, and range hood, degreased</li><li>Inside the refrigerator — shelves, drawers, exterior wiped</li><li>All baseboards, door frames, and window frames wiped clean</li><li>Windows cleaned on the interior side</li><li>Walls spot-cleaned for marks and smudges</li><li>All vents, air returns, and ceiling corners dusted</li><li>All bathrooms scrubbed top to bottom — tile, grout, fixtures, behind the toilet</li><li>Behind and under all movable furniture</li><li>Doors, handles, and switch plates wiped down</li></ul><p>That is what a deep cleaning is. If a company offers a deep cleaning but will not confirm at least ten of these items, keep looking. See our <a href="/services/deep-cleaning">Deep Cleaning page</a> for what we include in every booking.</p>',
+        },
+        {
+          heading: 'The questions that separate real deep cleaners from surface passers',
+          html: '<p>Ask these four questions before you commit to a deep cleaning company. The answers tell you everything:</p><ol><li><strong>"What is included in your deep cleaning that is not in your regular cleaning?"</strong> A real deep cleaner has a separate checklist. A company that stumbles or says "more attention to detail" probably runs the same regular clean with a different label.</li><li><strong>"How long does a deep cleaning take for my size home?"</strong> A 1-bedroom should take four to six hours. A 2-bedroom six to eight hours. Anything less, they are skipping steps. Anything significantly more, they may be inefficient or inexperienced with the work.</li><li><strong>"What add-ons cost extra?"</strong> Oven, fridge, windows, carpets — these are legitimate add-ons. If everything is included in the base price, ask for specific examples. If the base price sounds too low for a full-day job, there are almost certainly exclusions.</li><li><strong>"What is your prep list for clients?"</strong> A real deep cleaner asks you to declutter, not clean. If they expect you to have the kitchen counters cleared, the floors vacuumed, and the bathrooms wiped before they arrive, you are paying for less than you think. Read our <a href="/blog/how-to-prepare-for-deep-cleaning">preparation guide</a> for what you actually need to do.</li></ol>',
+        },
+        {
+          heading: 'Red flags in deep cleaning pricing',
+          html: '<p>Some pricing signals should make you pause before you book:</p><ul><li><strong>A flat "deep cleaning from $X" number</strong> with no follow-up about your home size or condition. A real deep cleaning quote depends on square footage, rooms, and what you want cleaned. A flat number without questions is a bait-and-switch or a surface job dressed up.</li><li><strong>"Everything included" at a suspiciously low price.</strong> If a deep cleaning for a 2-bedroom costs the same as a regular cleaning, someone is cutting corners. A real deep clean takes four to eight hours of focused labor — that time costs what it costs.</li><li><strong>No mention of what is excluded.</strong> Every reputable company has exclusions — exterior windows, carpet shampooing, biohazard, furniture assembly. If a company claims "we clean everything," ask for the exclusion list. If they cannot produce one, they have not thought through the scope.</li></ul><p>Our <a href="/booking">booking form</a> gives you a clear quote upfront — no guessing, no surprises.</p>',
+        },
+        {
+          heading: 'Bonded, insured, background-checked — why it matters for deep cleaning',
+          html: '<p>A deep cleaning puts your home through more movement than a regular cleaning. Furniture gets shifted. Appliances get pulled out. Cabinets and closets get fully emptied. The risk of accidental damage is low but real. That is why insurance matters: if a lamp gets knocked over while we are moving furniture to reach behind it, the insurance handles it. If a cleaner gets injured while deep cleaning your kitchen, liability stays with us, not you.</p><p>Bonding matters because deep cleaning involves more handling of your things — opening every cabinet, touching every surface, moving items on shelves. A bond covers you if anything goes missing. Background checks matter because deep cleaning gives the team access to every room of your home for hours at a time. You should know who is in your space. Every 3 Sisters cleaner is fully bonded, insured, and background-checked. We share our certificate of insurance on request. Read our <a href="/blog/hiring-cleaning-service-nyc">full hiring guide</a> for more detail on what to look for.</p>',
+        },
+        {
+          heading: 'When to book a deep cleaning — timing your first visit',
+          html: '<p>The best time to book a deep cleaning depends on your situation:</p><ul><li><strong>Seasonal reset.</strong> Spring (April–May) for post-winter recovery. Late fall (October–November) before holiday hosting. Both are high-demand windows — book two weeks ahead.</li><li><strong>Post-renovation.</strong> After any construction work, even small jobs. Drywall dust gets everywhere — vents, cabinets, behind appliances. A deep cleaning after renovation is non-negotiable. Book as soon as the contractors finish.</li><li><strong>Before or after travel.</strong> Before a trip to come home to a clean house. After a trip when the house has sat closed up for a week or more.</li><li><strong>Before starting recurring cleaning.</strong> Many clients start with a deep cleaning to reset the home, then switch to bi-weekly or weekly regulars to maintain it. Ask about bundling when you <a href="/booking">book your deep cleaning</a>.</li></ul>',
+        },
+      ],
+      closingCta: 'Ready for a real deep cleaning? Call <a href="tel:+165****7171">(657) 737-7171</a> Monday through Saturday, or send the details about your home through our <a href="/booking">booking form</a>. We will walk through exactly what is included, give you an honest quote the same day, and send a bonded, background-checked team to reset your home properly.',
+      faqs: [
+        {
+          question: 'How do I know if a deep cleaning service is legitimate?',
+          answer: 'Ask for their certificate of insurance (COI), confirm they are bonded, and ask for a specific checklist of what their deep cleaning covers. A legitimate company shares all three before you book. See our <a href="/faq">FAQ page</a> for more.', 
+          speakable: true,
+        },
+        {
+          question: 'Can I get a deep cleaning without being home?',
+          answer: 'Yes — most clients leave us a key or door code and come back to a fresh home. If you prefer to be there, that is fine too. Book online at <a href="/booking">3sistersservices.com/booking</a>.',
+          speakable: true,
+        },
+        {
+          question: 'How often should I get a deep cleaning?',
+          answer: 'Once or twice a year is typical for most homes, combined with bi-weekly Regular Cleanings in between. Post-renovation, post-winter, and pre-holiday are natural trigger points. Schedule through our <a href="/booking">booking form</a>.',
+          speakable: false,
+        },
+        {
+          question: 'What if something gets damaged during the deep cleaning?',
+          answer: 'We are bonded and insured. If accidental damage occurs during a deep cleaning, our insurance covers it. We also photograph and log the condition of every room before we start. Call <a href="tel:+165****7171">(657) 737-7171</a> with any concerns.',
+          speakable: false,
+        },
+      ],
+    },
+    es: {
+      title: 'Cómo contratar un servicio de Limpieza Profunda — qué preguntar',
+      description: 'Qué buscar al contratar una limpieza profunda en Nueva York o California — las preguntas correctas, señales de alerta y cómo saber que recibe una limpieza real.',
+      leadParagraph: 'Una limpieza profunda cuesta más que una regular porque cubre más. Pero no todas las empresas que ofrecen "limpieza profunda" realmente hacen el trabajo. Algunas hacen una limpieza regular con otro nombre y un precio más alto. Otras se saltan la mitad de las tareas. Contratar el servicio correcto significa saber qué preguntar, qué incluye una lista real de limpieza profunda y qué señales de alerta indican que la empresa no es seria.',
+      sections: [
+        {
+          heading: 'Lo que incluye una Limpieza Profunda real — use esto como su lista',
+          html: '<p>Cuando una empresa se llama servicio de limpieza profunda, esta es la lista que debe cubrir sin que usted pregunte dos veces: todas las superficies quitadas y limpiadas incluyendo ventiladores de techo, persianas y lámparas, dentro y fuera de todos los gabinetes de cocina, detrás y debajo de los electrodomésticos, dentro del horno y campana desengrasados, dentro del refrigerador, todos los zócalos y marcos de puertas, ventanas por dentro, paredes limpiadas de manchas, todas las rejillas de ventilación, todos los baños tallados de arriba abajo — azulejos, lechada, accesorios, detrás del inodoro, y detrás y debajo de todos los muebles movibles. Vea <a href="/services/deep-cleaning">nuestra página de Limpieza Profunda</a>.</p>',
+        },
+        {
+          heading: 'Las preguntas que separan a los verdaderos profesionales',
+          html: '<p>Haga estas preguntas: (1) ¿Qué incluye su limpieza profunda que no esté en su limpieza regular? (2) ¿Cuánto toma una limpieza profunda para mi tamaño de casa? (3) ¿Qué extras cuestan más? (4) ¿Cuál es su lista de preparación para clientes? Lea nuestra <a href="/blog/how-to-prepare-for-deep-cleaning">guía de preparación</a>.</p>',
+        },
+        {
+          heading: 'Señales de alerta en precios de limpieza profunda',
+          html: '<p>Un precio fijo "desde $X" sin preguntas sobre su hogar, "todo incluido" a un precio sospechosamente bajo, o ninguna mención de exclusiones son señales de alerta. Una limpieza profunda real toma 4-8 horas de trabajo enfocado — ese tiempo cuesta lo que cuesta. Use nuestro <a href="/booking">formulario de reserva</a> para una cotización clara.</p>',
+        },
+        {
+          heading: 'Bonded, asegurado, antecedentes — por qué importa',
+          html: '<p>Una limpieza profunda mueve más cosas en su hogar: muebles, electrodomésticos, gabinetes. El riesgo de daño accidental es bajo pero real. El seguro cubre si algo se rompe. El bond cubre si algo falta. Las verificaciones de antecedentes aseguran quién está en su espacio. Cada limpiador de 3 Sisters tiene bond completo, seguro y verificación de antecedentes. Lea nuestra <a href="/blog/hiring-cleaning-service-nyc">guía de contratación</a>.</p>',
+        },
+        {
+          heading: 'Cuándo reservar una limpieza profunda',
+          html: '<p>Primavera (abril-mayo) para reinicio post-invierno, otoño (octubre-noviembre) antes de fiestas, post-renovación, o antes de empezar limpiezas regulares recurrentes. Reserve con 2 semanas de anticipación en temporada alta. <a href="/booking">Reserve su limpieza</a>.</p>',
+        },
+      ],
+      closingCta: '¿Listo para una limpieza profunda real? Llame al <a href="tel:+165****7171">(657) 737-7171</a> o envíe los datos de su hogar por nuestro <a href="/booking">formulario de reserva</a>.',
+      faqs: [
+        {
+          question: '¿Cómo sé si un servicio de limpieza profunda es legítimo?',
+          answer: 'Pida su certificado de seguro (COI), confirme que tienen bond y pida una lista específica de lo que cubre su limpieza profunda. Vea nuestra <a href="/faq">página de FAQ</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Con qué frecuencia debo hacer una limpieza profunda?',
+          answer: 'Una o dos veces al año es típico, combinado con limpiezas regulares quincenales. Reserve en <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué pasa si algo se daña durante la limpieza profunda?',
+          answer: 'Tenemos bond y seguro completos. Si ocurre un daño accidental, nuestro seguro lo cubre. Llame al <a href="tel:+165****7171">(657) 737-7171</a>.',
+          speakable: false,
+        },
+      ],
+    },
+  },

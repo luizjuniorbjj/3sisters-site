@@ -1,0 +1,383 @@
+  // ─────────────────────────────────────────────────────────────
+  // POST 4 — Move-In / Move-Out Cleaning Cost Guide
+  // ─────────────────────────────────────────────────────────────
+  {
+    slug: 'move-in-out-cleaning-cost-guide',
+    category: 'Cost Guide',
+    serviceSlug: 'move-in-out-cleaning',
+    readMinutes: 6,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-4.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'Move-In / Move-Out Cleaning Cost Guide — What to Expect in 2026',
+      description:
+        'What a professional move-in or move-out cleaning actually costs in New York and California, what changes the price, and how to avoid surprise charges from under-qualified cleaners.',
+      leadParagraph:
+        'The biggest shock when you book a move-in or move-out cleaning is usually the price difference between a quick online search and what the actual quote says once the team shows up. A Move-Out Cleaning in a Brooklyn 2-bedroom costs what it costs because of hours worked, not a flat national average. We explain what drives the price, what add-ons cost extra, what questions to ask before you book, and one thing you should never do: hire the cheapest person on a gig app for a job that ties to your security deposit or your first night in a new home.',
+      sections: [
+        {
+          heading: 'Why move-in/out cleaning costs more than regular cleaning',
+          html: '<p>A Regular Cleaning visits a home that is already lived in — surfaces are clear, the fridge is stocked, the beds are made. A Move-In or Move-Out Cleaning arrives at a home that is either empty or half-packed, and the job is not surface cleaning; it is everything: inside the oven, inside the fridge and freezer, inside all cabinets, every window track, every baseboard, every ceiling corner cobweb, every bathroom from top to bottom, behind and under appliances in the kitchen, and often the walls and doors themselves.</p><p>That takes more hours. More hands. More attention to corners a weekly cleaner never touches. The price reflects the labor, not a premium because it is a move. If you see a flat $199 “Move-Out Special” anywhere, read the fine print — it almost certainly excludes half of what your landlord or new homeowner expects to be clean.</p><p>See our <a href=\"/services/move-in-out-cleaning\">Move-In / Move-Out Cleaning service page</a> for what is included in every booking.</p>',
+        },
+        {
+          heading: 'What drives the price — square footage, rooms, and condition',
+          html: '<p>Three things determine the cost of your move-in or move-out cleaning:</p><ol><li><strong>Size and layout.</strong> A Manhattan studio takes less time than a 3-bedroom single-family in Queens. We price per hour or per home based on square footage and the number of bathrooms. A 1-bedroom, 1-bath apartment is a different job than a 1-bedroom + den with a powder room.</li><li><strong>Condition.</strong> A home that was maintained with bi-weekly Regular Cleanings before the move needs less work than a home that has not been touched in six months. Post-tenant move-outs with years of buildup, grease, grime, and pet stains take more labor. We will let you know honestly — contact us for pricing based on your home&apos;s actual condition.</li><li><strong>Add-ons.</strong> Inside the refrigerator, inside cabinets, window washing (interior and exterior), laundry service, and carpet shampooing are all extras. Every add-on adds 30 to 90 minutes of labor. We list every add-on clearly in the quote so nothing is a surprise.</li></ol><p>Not sure which add-ons you need? Our <a href=\"/faq\">FAQ page</a> covers the most common ones clients ask about.</p>',
+        },
+        {
+          heading: 'Security deposits, lease clauses, and what the landlord expects',
+          html: '<p>New York and California are tenant-friendly states, but your lease still says you must return the unit in “broom-clean” or “professionally cleaned” condition. Those are different standards:</p><ul><li><strong>Broom-clean</strong> means swept, no trash, no personal property left behind. You can do that yourself with a push broom and a trash bag — but most landlords expect more.</li><li><strong>Professionally cleaned</strong> means the unit looks ready for the next tenant to move in the same afternoon: oven scrubbed, fridge empty and clean, bathroom disinfected, floors mopped, windows clear, walls free of smudges and marks. This is the standard that protects your full security deposit.</li></ul><p>If you send us your lease clause or a move-out checklist from your landlord before we arrive, we clean to that list. No guessing. You get the sign-off you need to close your move with your deposit intact. Ready to <a href=\"/booking\">book your cleaning</a>?</p>',
+        },
+        {
+          heading: 'How to get an accurate quote — what we need from you',
+          html: '<p>A quote you can trust starts with three pieces of information:</p><ol><li><strong>Square footage and room count.</strong> Number of bedrooms, number of bathrooms, total approximate square footage. A 1,200-sq-ft 2-bedroom, 2-bath home is different from a 700-sq-ft 2-bedroom.</li><li><strong>Move-in or move-out?</strong> Move-outs often need more elbow grease because of tenant wear and tear. Move-ins depend on whether the previous occupant left the unit clean or not — we have seen both extremes in the same building.</li><li><strong>Add-ons you want.</strong> Inside fridge, inside stove, cabinets, windows, laundry, carpets. Tell us up front and the quote is final.</li></ol><p>Call <a href=\"tel:+165****7171\">(657) 737-7171</a> or fill out our <a href=\"/booking\">booking form</a> with those details and we reply with a clear, itemized quote the same day — no obligation, no bait-and-switch.</p>',
+        },
+        {
+          heading: 'When to book — timing matters for pricing and availability',
+          html: '<p>Move-in and move-out cleaning demand peaks at two times each year: June through August (student and family relocations) and December through January (lease-end cycles in most of New York and California). During those months, teams book out one to two weeks in advance. Off-peak months — March, April, September, October — are easier to schedule mid-week and usually at standard rates.</p><p>Book as soon as you have a closing date or lease-end date. We recommend at least seven days ahead during peak season and three to four days during off-peak. Rush bookings (less than 48 hours) are possible, but availability is first-come. <a href=\"/booking\">Book early and secure your spot.</a></p>',
+        },
+      ],
+      closingCta:
+        'Moving and need the cleaning squared away so you can focus on the boxes? Call <a href="tel:+165****7171">(657) 737-7171</a> Monday through Saturday, or send your home details through our <a href="/booking">booking form</a>. Same-day quotes, no hidden fees, and every job backed by our family guarantee.',
+      faqs: [
+        {
+          question: 'How much does a move-out cleaning cost for a 1-bedroom apartment in NYC?',
+          answer:
+            'Every home is different, so contact us for pricing based on your specific apartment. The cost depends on square footage, condition, and what add-ons you need. We give you an itemized quote before any work starts — no surprises. See our <a href="/services/move-in-out-cleaning">Move-In / Move-Out Cleaning page</a> for what is included in the base service.',
+          speakable: true,
+        },
+        {
+          question: 'Will a move-out cleaning help me get my full security deposit back?',
+          answer:
+            'Yes — a professional move-out cleaning is the single best thing you can do to protect your security deposit. Most leases require a “professionally cleaned” standard, and we clean to whatever checklist your landlord or management company provides. Send us the list and we match it. Read more on our <a href="/faq">FAQ page</a> about how we handle landlord-specific requirements.',
+          speakable: true,
+        },
+        {
+          question: 'What is usually NOT included in a standard move-in/out cleaning?',
+          answer:
+            'Standard move-in/out cleaning covers the entire home — kitchen, bathrooms, bedrooms, living areas, floors, windows, baseboards. Not included are carpet shampooing, interior oven cleaning beyond the basic wipe, refrigerator defrosting or interior cleaning, exterior window washing, and laundry. Each of these is available as an add-on. Check our <a href="/services/move-in-out-cleaning">service page</a> for the full list of what is included and what costs extra.',
+          speakable: false,
+        },
+        {
+          question: 'How far in advance should I book a move-in or move-out cleaning?',
+          answer:
+            'Book at least one week ahead during peak moving season (June through August and December through January). Off-peak, three to four days is usually enough. We can handle rush bookings inside 48 hours when we have availability — just call <a href="tel:+165****7171">(657) 737-7171</a> and ask. The earlier you <a href="/booking">book</a>, the easier it is to get your preferred day and time.',
+          speakable: false,
+        },
+      ],
+    },
+    es: {
+      title: 'Guía de Costos de Limpieza de Mudanza — Qué Esperar en 2026',
+      description:
+        'Lo que realmente cuesta una limpieza profesional de mudanza en Nueva York y California, qué cambia el precio y cómo evitar cargos sorpresa.',
+      leadParagraph:
+        'La sorpresa más grande cuando reserva una limpieza de mudanza suele ser la diferencia entre lo que encontró en internet y la cotización real cuando el equipo llega. Una Limpieza de Mudanza de Salida en un 2-dormitorios en Brooklyn cuesta lo que cuesta por las horas trabajadas, no por un promedio nacional fijo. Le explicamos qué impulsa el precio, qué extras cuestan más, qué preguntas hacer antes de reservar y una cosa que nunca debe hacer: contratar a la persona más barata en una app para un trabajo que está atado a su depósito de garantía o a su primera noche en un hogar nuevo.',
+      sections: [
+        {
+          heading: 'Por qué la limpieza de mudanza cuesta más que la limpieza regular',
+          html: '<p>Una Limpieza Regular visita un hogar donde ya se vive — las superficies están despejadas, la nevera está llena, las camas están hechas. Una Limpieza de Mudanza llega a un hogar que está vacío o medio empacado, y el trabajo no es superficial: es todo: dentro del horno, dentro de la nevera y el congelador, dentro de todos los gabinetes, cada riel de ventana, cada zócalo, cada telaraña en las esquinas del techo, cada baño de arriba a abajo, detrás y debajo de los electrodomésticos en la cocina, y a menudo las paredes y puertas.</p><p>Eso toma más horas. Más manos. Más atención a rincones que una limpieza semanal nunca toca. El precio refleja la mano de obra, no una prima porque es mudanza. Si ve una oferta fija de $199 de “Especial Mudanza” en cualquier lado, lea la letra pequeña — casi seguro excluye la mitad de lo que su arrendador o el nuevo dueño espera que esté limpio.</p><p>Vea nuestra <a href=\"/services/move-in-out-cleaning\">página de Limpieza de Mudanza</a> para lo que está incluido en cada reserva.</p>',
+        },
+        {
+          heading: 'Qué determina el precio — metros cuadrados, habitaciones y condición',
+          html: '<p>Tres cosas determinan el costo de su limpieza de mudanza:</p><ol><li><strong>Tamaño y distribución.</strong> Un estudio en Manhattan toma menos tiempo que una casa de 3 dormitorios en Queens. Cotizamos por hora o por hogar según los metros cuadrados y el número de baños. Un 1-dormitorio, 1-baño es un trabajo diferente a un 1-dormitorio con estudio y medio baño.</li><li><strong>Condición.</strong> Un hogar mantenido con Limpiezas Regulares quincenales antes de la mudanza necesita menos trabajo que uno que no se ha tocado en seis meses. Las mudanzas de salida con años de acumulación, grasa y manchas de mascotas toman más trabajo. Le diremos honestamente — contáctenos para precios según la condición real de su hogar.</li><li><strong>Extras.</strong> Interior de refrigerador, interior de gabinetes, lavado de ventanas (interior y exterior), servicio de lavandería y limpieza de alfombras son todos extras. Cada extra añade 30 a 90 minutos de trabajo. Listamos cada extra claramente en la cotización para que nada sea sorpresa.</li></ol><p>¿No sabe qué extras necesita? Nuestra <a href=\"/faq\">página de FAQ</a> cubre los más comunes que preguntan los clientes.</p>',
+        },
+        {
+          heading: 'Depósitos de garantía, cláusulas del contrato y qué espera el arrendador',
+          html: '<p>Nueva York y California son estados favorables al inquilino, pero su contrato aún dice que debe devolver la unidad en condición “barrido” o “limpieza profesional”. Son estándares diferentes:</p><ul><li><strong>Barrido</strong> significa barrido, sin basura, sin pertenencias personales. Puede hacerlo usted mismo con una escoba y una bolsa — pero la mayoría de arrendadores espera más.</li><li><strong>Limpieza profesional</strong> significa que la unidad se ve lista para que el próximo inquilino se mude esa misma tarde: horno tallado, nevera vacía y limpia, baño desinfectado, pisos trapeados, ventanas claras, paredes sin manchas ni marcas. Este es el estándar que protege su depósito de garantía completo.</li></ul><p>Si nos envía su cláusula de contrato o la lista de verificación de su arrendador antes de que lleguemos, limpiamos según esa lista. Sin adivinar. Obtiene la aprobación que necesita para cerrar su mudanza con el depósito intacto. ¿Listo para <a href=\"/booking\">reservar su limpieza</a>?</p>',
+        },
+        {
+          heading: 'Cómo obtener una cotización precisa — qué necesitamos de usted',
+          html: '<p>Una cotización confiable comienza con tres datos:</p><ol><li><strong>Metros cuadrados y número de cuartos.</strong> Número de dormitorios, número de baños, metros cuadrados aproximados. Un hogar de 110 m² con 2 dormitorios y 2 baños es diferente de uno de 65 m² con 2 dormitorios.</li><li><strong>¿Mudanza de entrada o salida?</strong> Las mudanzas de salida suelen necesitar más esfuerzo por el desgaste del inquilino. Las de entrada dependen de si el ocupante anterior dejó la unidad limpia o no — hemos visto ambos extremos en el mismo edificio.</li><li><strong>Extras que quiere.</strong> Interior de nevera, interior de horno, gabinetes, ventanas, lavandería, alfombras. Díganos de antemano y la cotización es final.</li></ol><p>Llame al <a href=\"tel:+165****7171\">(657) 737-7171</a> o llene nuestro <a href=\"/booking\">formulario de reserva</a> con esos datos y le respondemos con una cotización clara e itemizada el mismo día — sin compromiso, sin cebo y cambio.</p>',
+        },
+        {
+          heading: 'Cuándo reservar — el tiempo importa para precio y disponibilidad',
+          html: '<p>La demanda de limpieza de mudanza alcanza su punto máximo dos veces al año: de junio a agosto (mudanzas de estudiantes y familias) y de diciembre a enero (fin de contratos en la mayor parte de Nueva York y California). Durante esos meses, los equipos se agotan con una a dos semanas de antelación. Los meses de menor actividad — marzo, abril, septiembre, octubre — son más fáciles de agendar entre semana y generalmente a tarifas estándar.</p><p>Reserve tan pronto como tenga una fecha de cierre o fin de contrato. Recomendamos al menos siete días de anticipación en temporada alta y tres o cuatro días en temporada baja. Las reservas de último minuto (menos de 48 horas) son posibles cuando hay disponibilidad. <a href=\"/booking\">Reserve temprano y asegure su lugar.</a></p>',
+        },
+      ],
+      closingCta:
+        '¿Se muda y necesita la limpieza lista para enfocarse en las cajas? Llame al <a href="tel:+165****7171">(657) 737-7171</a> de lunes a sábado, o envíe los datos de su hogar por nuestro <a href="/booking">formulario de reserva</a>. Cotizaciones el mismo día, sin cargos ocultos y cada trabajo respaldado por nuestra garantía familiar.',
+      faqs: [
+        {
+          question: '¿Cuánto cuesta una limpieza de mudanza de salida para un apartamento de 1 habitación en NYC?',
+          answer:
+            'Cada hogar es diferente, así que contáctenos para precios según su apartamento específico. El costo depende de los metros cuadrados, la condición y los extras que necesite. Le damos una cotización itemizada antes de comenzar — sin sorpresas. Vea nuestra <a href="/services/move-in-out-cleaning">página de Limpieza de Mudanza</a> para lo que está incluido en el servicio base.',
+          speakable: true,
+        },
+        {
+          question: '¿Una limpieza de mudanza de salida me ayudará a recuperar mi depósito de garantía completo?',
+          answer:
+            'Sí — una limpieza profesional de mudanza es lo mejor que puede hacer para proteger su depósito. La mayoría de contratos requieren un estándar de “limpieza profesional” y limpiamos según cualquier lista que su arrendador o administrador proporcione. Envíenos la lista y la igualamos. Lea más en nuestra <a href="/faq">página de FAQ</a> sobre cómo manejamos requisitos específicos del arrendador.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué NO está incluido típicamente en una limpieza de mudanza estándar?',
+          answer:
+            'La limpieza estándar de mudanza cubre todo el hogar — cocina, baños, dormitorios, salas, pisos, ventanas, zócalos. No incluye lavado de alfombras, limpieza interior del horno más allá del limpiado básico, descongelación o limpieza interior del refrigerador, lavado exterior de ventanas ni lavandería. Cada uno está disponible como extra. Consulte nuestra <a href="/services/move-in-out-cleaning">página de servicio</a> para la lista completa de lo incluido y lo que cuesta extra.',
+          speakable: false,
+        },
+        {
+          question: '¿Con cuánta anticipación debo reservar una limpieza de mudanza?',
+          answer:
+            'Reserve al menos una semana antes durante temporada alta (junio a agosto y diciembre a enero). Fuera de temporada, tres o cuatro días suele ser suficiente. Podemos manejar reservas de último minuto dentro de 48 horas cuando tenemos disponibilidad — solo llame al <a href="tel:+165****7171">(657) 737-7171</a> y pregunte. Mientras más temprano <a href="/booking">reserve</a>, más fácil es obtener el día y la hora que prefiere.',
+          speakable: false,
+        },
+      ],
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────────
+  // POST 5 — Move-In Prep Guide: What to Clean Before You Unpack
+  // ─────────────────────────────────────────────────────────────
+  {
+    slug: 'move-in-out-move-in-prep-guide',
+    category: 'Cleaning Tips',
+    serviceSlug: 'move-in-out-cleaning',
+    readMinutes: 5,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-5.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'Move-In Prep Guide: What to Clean Before You Unpack — Not After',
+      description:
+        'A room-by-room checklist of what to clean before you move your furniture into a new home in New York or California, including kitchen, bathrooms, floors, and the corners most people miss.',
+      leadParagraph:
+        'The golden rule of moving into a new place: clean everything before the furniture arrives, not after. Once the bed frame is in the bedroom and the couch is against the living room wall, you are never getting behind that baseboard again without a team and a day off. We have cleaned hundreds of move-ins across New York and California, from Brooklyn pre-wars to San Francisco Victorians. This is the order we recommend — what to hit first, what to skip, and what will matter most to your piece of mind on night one.',
+      sections: [
+        {
+          heading: 'Kitchen first — appliances inside and out',
+          html: '<p>The kitchen is the hardest room to clean once it is full of boxes, dishes, and food. Do it first, before you bring in a single grocery bag.</p><ul><li><strong>Oven and stove.</strong> Even a “clean” apartment often has baked-on residue from the last tenant. Run the self-clean cycle if the oven has one, or let us handle the manual scrub. Inside the oven is included in our <a href=\"/services/move-in-out-cleaning\">Move-In Cleaning package</a>.</li><li><strong>Refrigerator.</strong> Pull it out. Clean the coils, the floor underneath, the walls on both sides. Wipe every shelf and drawer. If it smells musty, leave the door open with baking soda for an hour.</li><li><strong>Cabinets.</strong> Every shelf, every drawer, inside and out. The previous tenant&apos;s crumbs, grease, and dust live in cabinet corners. Wipe with warm water and mild soap — do not use bleach on wood or laminate.</li><li><strong>Counters, backsplash, sink.</strong> Scrub the grout if there is tile. Descale the faucet. Run the garbage disposal with ice and lemon if the unit has one.</li></ul><p>Once the kitchen is clean, put down shelf liner and then unload the boxes. You will thank yourself the first time you open a cabinet to grab a coffee cup.</p>',
+        },
+        {
+          heading: 'Bathrooms — deep clean before the shower curtain goes up',
+          html: '<p>Bathrooms are where move-in cleaning pays off fastest. You use them within hours of arrival, and a truly clean bathroom sets the tone for the whole move.</p><ul><li><strong>Toilet.</strong> Behind, beneath, and around the base. Most move-in cleanings miss the back of the toilet bowl rim and the floor behind the pedestal.</li><li><strong>Shower and tub.</strong> Clean the track of sliding doors — it collects hair and soap scum from years of use. Scrub the grout and recaulk if the old caulk is black. Clean the showerhead by soaking it in white vinegar if there is mineral buildup.</li><li><strong>Vanity and mirror.</strong> Empty every drawer and wipe it down. Clean the mirror with a streak-free glass cleaner, not a paper towel that leaves lint.</li><li><strong>Vent fan.</strong> Pop off the cover and wash it. The fan itself is usually caked with dust. A clean vent moves air the way it is supposed to and prevents mold over time.</li></ul><p>We tackle all of this as part of our standard <a href=\"/services/move-in-out-cleaning\">Move-In Cleaning</a>. If you are doing it yourself, budget at least 45 minutes per bathroom.</p>',
+        },
+        {
+          heading: 'Floors before furniture — every inch matters',
+          html: '<p>Floors are the most visible surface in an empty home, and the easiest to clean when nothing is on them. Do not wait until the couch is in place.</p><ol><li><strong>Vacuum or sweep first.</strong> Get all the loose dirt, dust, plaster flecks from any recent paintwork, and pet hair left by the previous occupant. Pay special attention to corners and edges.</li><li><strong>Mop with the right cleaner for your floor type.</strong> Hardwood needs a pH-neutral cleaner, not vinegar or water that strips the finish. Tile needs a degreaser. Laminate needs a damp mop only — standing water warps it.</li><li><strong>Let floors dry fully before any furniture goes down.</strong> If you have rugs, lay them after the floor is completely dry. Trapped moisture under a rug leads to mildew and a smell you will chase for months.</li></ol><p>If you are moving into a carpeted apartment, have the carpets professionally shampooed before you move in. Wait for them to dry completely — typically 8 to 12 hours — before the movers arrive. We offer carpet shampooing as an add-on to any <a href=\"/booking\">Move-In Cleaning booking</a>.</p>',
+        },
+        {
+          heading: 'Walls, windows, and the things nobody looks at — until they do',
+          html: '<p>Move-in is your only chance to clean these before they are blocked by furniture:</p><ul><li><strong>Walls and doors.</strong> Wipe down every wall with a sponge and warm water. Focus on light switches, door frames, and the area around the kitchen counters. These collect oil and dirt from hands over years. A Magic Eraser works for scuff marks on painted walls but test an inconspicuous spot first.</li><li><strong>Window tracks and sills.</strong> Vacuum the tracks with a brush attachment, then wipe with a damp cloth. Clean the glass inside and out if you can reach. Dirty window tracks are the first thing a landlord inspects on move-out — and the first thing you will notice on a sunny morning.</li><li><strong>Baseboards and crown molding.</strong> Run a microfiber cloth along every inch. Baseboards in New York apartments collect a shocking amount of black dust. Do them before the bed or sofa goes against the wall.</li><li><strong>Light fixtures and ceiling fans.</strong> Dust the blades and bulbs before you turn them on the first night. Otherwise you will get a face full of dust the first time you flip the switch.</li></ul><p>Our <a href=\"/services/move-in-out-cleaning\">Move-In / Move-Out Cleaning</a> includes all of these. You move, we clean, you walk into a home that is ready to live in.</p>',
+        },
+        {
+          heading: 'Closets and storage spaces — the forgotten zones',
+          html: '<p>Closets are almost never cleaned between tenants, and they hold smells, dust, and debris that transfer to your clothes and linens.</p><p>Wipe every shelf and rod. Vacuum the floor and corners. If the closet smells musty, leave the door open for a day with a box of baking soda inside. Check for signs of pests — droppings, shed skins, chewed cardboard — and flag them to your landlord or property manager before you move your belongings in. A clean closet means your clothes come out of the boxes smelling fresh, not musty.</p><p>Not sure if your new home needs a full cleaning before you move in? <a href=\"/booking\">Contact us for a quote</a> and we will walk through what makes sense for your space.</p>',
+        },
+      ],
+      closingCta:
+        'Moving into a new home in New York or California? Let us clean it before the truck arrives. Call <a href="tel:+165****7171">(657) 737-7171</a> or send your new address through our <a href="/booking">booking form</a>. We will quote you the same day, no obligation.',
+      faqs: [
+        {
+          question: 'Should I clean before I move in or after the movers leave?',
+          answer:
+            'Clean before the movers arrive. Once furniture is in place, you cannot reach the baseboards, corners, or floors underneath. A move-in cleaning before furniture arrives is faster, more thorough, and costs less than a deep clean later. Check our <a href="/services/move-in-out-cleaning">Move-In Cleaning page</a> for what we cover before you unbox a single thing.',
+          speakable: true,
+        },
+        {
+          question: 'How long does a move-in cleaning take for a 2-bedroom apartment?',
+          answer:
+            'A standard move-in cleaning for a 2-bedroom apartment takes our team 3 to 5 hours, depending on condition and add-ons. If the previous tenant left the place in rough shape, it may take longer. We give you an honest time estimate when you <a href="/booking">request a quote</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Do you move furniture during a move-in cleaning?',
+          answer:
+            'We clean behind and under furniture when it is possible. But the best approach is to clean the empty home completely before any furniture is moved in — that is what we recommend to every client, and it is the most effective use of your cleaning budget. Read our <a href="/faq">FAQ</a> for more details on what we can and cannot move during a cleaning.',
+          speakable: false,
+        },
+        {
+          question: 'Can you clean the previous tenant&apos;s mess even if the apartment was “professionally cleaned”?',
+          answer:
+            'Yes. A “professionally cleaned” apartment from a building management company is not always the same standard as our cleaning. We have walked into plenty of “just cleaned” apartments that still had crumbs, dust, and fingerprints everywhere. We clean to our standard, not the landlord&apos;s minimum. <a href=\"/booking\">Book us</a> and we will make it right.',
+          speakable: false,
+        },
+      ],
+    },
+    es: {
+      title: 'Guía de Preparación de Mudanza de Entrada: Qué Limpiar Antes de Desempacar',
+      description:
+        'Lista por habitación de qué limpiar antes de mover los muebles a su nuevo hogar en Nueva York o California — cocina, baños, pisos y los rincones que la mayoría olvida.',
+      leadParagraph:
+        'La regla de oro al mudarse a un lugar nuevo: limpie todo antes de que lleguen los muebles, no después. Una vez que la cama está en el dormitorio y el sofá contra la pared de la sala, nunca volverá a alcanzar ese zócalo sin un equipo y un día libre. Hemos limpiado cientos de mudanzas de entrada en Nueva York y California, desde pre-wars de Brooklyn hasta Victorianas de San Francisco. Este es el orden que recomendamos — qué hacer primero, qué saltarse y qué importará más para su tranquilidad la primera noche.',
+      sections: [
+        {
+          heading: 'Cocina primero — electrodomésticos por dentro y fuera',
+          html: '<p>La cocina es el cuarto más difícil de limpiar una vez que está lleno de cajas, platos y comida. Hágalo primero, antes de meter una sola bolsa del supermercado.</p><ul><li><strong>Horno y estufa.</strong> Incluso un apartamento “limpio” suele tener residuos horneados del último inquilino. Use el ciclo de autolimpieza si el horno tiene uno, o déjenos hacer el tallado manual. El interior del horno está incluido en nuestro <a href=\"/services/move-in-out-cleaning\">paquete de Limpieza de Mudanza de Entrada</a>.</li><li><strong>Refrigerador.</strong> Sáquelo. Limpie las serpentinas, el piso debajo, las paredes en ambos lados. Limpie cada estante y cajón. Si huele a humedad, deje la puerta abierta con bicarbonato por una hora.</li><li><strong>Gabinetes.</strong> Cada estante, cada cajón, por dentro y por fuera. Las migas, grasa y polvo del inquilino anterior viven en las esquinas de los gabinetes. Limpie con agua tibia y jabón suave — no use cloro en madera o laminado.</li><li><strong>Mesones, salpicadero, fregadero.</strong> Restriegue la lechada si hay azulejo. Descale el grifo. Use el triturador de basura con hielo y limón si la unidad tiene uno.</li></ul><p>Una vez que la cocina esté limpia, ponga protectores de estante y luego desempaque las cajas. Se lo agradecerá la primera vez que abra un gabinete para buscar una taza de café.</p>',
+        },
+        {
+          heading: 'Baños — limpieza profunda antes de poner la cortina de baño',
+          html: '<p>Los baños son donde la limpieza de mudanza de entrada rinde más rápido. Los usa dentro de horas de llegar, y un baño realmente limpio marca el tono de toda la mudanza.</p><ul><li><strong>Inodoro.</strong> Atrás, debajo y alrededor de la base. La mayoría de limpiezas de mudanza olvidan la parte trasera del borde del inodoro y el piso detrás del pedestal.</li><li><strong>Ducha y tina.</strong> Limpie el riel de las puertas corredizas — acumula pelo y sarro de años de uso. Restriegue la lechada y vuelva a sellar si el sellador viejo está negro. Limpie el cabezal de la ducha sumergiéndolo en vinagre blanco si hay acumulación mineral.</li><li><strong>Vanidad y espejo.</strong> Vacíe cada cajón y límpielo. Limpie el espejo con un limpiacristales sin rayas, no con toalla de papel que deja pelusa.</li><li><strong>Ventilador de extracción.</strong> Quite la cubierta y lávela. El ventilador mismo suele estar cubierto de polvo. Un respiradero limpio mueve el aire como debe y previene moho con el tiempo.</li></ul><p>Hacemos todo esto como parte de nuestra <a href=\"/services/move-in-out-cleaning\">Limpieza de Mudanza de Entrada</a> estándar. Si lo hace usted mismo, presupueste al menos 45 minutos por baño.</p>',
+        },
+        {
+          heading: 'Pisos antes de los muebles — cada centímetro importa',
+          html: '<p>Los pisos son la superficie más visible en un hogar vacío, y lo más fácil de limpiar cuando no hay nada encima. No espere hasta que el sofá esté en su lugar.</p><ol><li><strong>Aspire o barra primero.</strong> Saque toda la tierra suelta, polvo, motas de yeso de pintura reciente y pelo de mascotas del ocupante anterior. Preste especial atención a esquinas y bordes.</li><li><strong>Trapee con el producto correcto para su tipo de piso.</strong> La madera dura necesita un limpiador pH neutro, no vinagre o agua que quitan el acabado. El azulejo necesita un desengrasante. El laminado necesita solo un trapeador húmedo — el agua estancada lo deforma.</li><li><strong>Deje secar los pisos completamente antes de poner cualquier mueble.</strong> Si tiene alfombras, colóquelas después de que el piso esté totalmente seco. La humedad atrapada bajo una alfombra causa moho y un olor que perseguirá por meses.</li></ol><p>Si se muda a un apartamento alfombrado, haga limpiar las alfombras profesionalmente antes de mudarse. Espere a que se sequen completamente — típicamente 8 a 12 horas — antes de que lleguen los mudanceros. Ofrecemos limpieza de alfombras como extra en cualquier <a href=\"/booking\">reserva de Limpieza de Mudanza de Entrada</a>.</p>',
+        },
+        {
+          heading: 'Paredes, ventanas y lo que nadie mira — hasta que lo miran',
+          html: '<p>La mudanza de entrada es su única oportunidad de limpiar esto antes de que los muebles lo bloqueen:</p><ul><li><strong>Paredes y puertas.</strong> Limpie cada pared con una esponja y agua tibia. Enfoque en interruptores de luz, marcos de puertas y el área alrededor de las mesones de cocina. Estos acumulan aceite y suciedad de las manos durante años. Un Magic Eraser funciona para marcas en paredes pintadas, pero pruebe en un lugar discreto primero.</li><li><strong>Rieles y repisas de ventanas.</strong> Aspire los rieles con un cepillo, luego limpie con un paño húmedo. Limpie el vidrio por dentro y por fuera si puede alcanzar. Los rieles sucios son lo primero que un arrendador inspecciona al mudarse — y lo primero que notará en una mañana soleada.</li><li><strong>Zócalos y molduras de techo.</strong> Pase un paño de microfibra por cada centímetro. Los zócalos en apartamentos de Nueva York acumulan una cantidad impactante de polvo negro. Hágalos antes de que la cama o el sofá vayan contra la pared.</li><li><strong>Lámparas y ventiladores de techo.</strong> Quite el polvo de las aspas y bombillas antes de encenderlos la primera noche. Si no, recibirá una cara llena de polvo la primera vez que oprima el interruptor.</li></ul><p>Nuestra <a href=\"/services/move-in-out-cleaning\">Limpieza de Mudanza de Entrada y Salida</a> incluye todo esto. Usted se muda, nosotros limpiamos, usted llega a un hogar listo para vivir.</p>',
+        },
+        {
+          heading: 'Closets y espacios de almacenamiento — las zonas olvidadas',
+          html: '<p>Los closets casi nunca se limpian entre inquilinos, y retienen olores, polvo y residuos que se transfieren a su ropa y sábanas.</p><p>Limpie cada estante y barra. Aspire el piso y las esquinas. Si el closet huele a humedad, deje la puerta abierta por un día con una caja de bicarbonato adentro. Revise señales de plagas — excrementos, pieles mudadas, cartón masticado — e indíqueselo a su arrendador o administrador antes de meter sus pertenencias. Un closet limpio significa que su ropa sale de las cajas oliendo fresca, no a humedad.</p><p>¿No está seguro si su nuevo hogar necesita una limpieza completa antes de mudarse? <a href=\"/booking\">Contáctenos para una cotización</a> y revisaremos qué tiene sentido para su espacio.</p>',
+        },
+      ],
+      closingCta:
+        '¿Se muda a un nuevo hogar en Nueva York o California? Déjenos limpiarlo antes de que llegue el camión. Llame al <a href="tel:+165****7171">(657) 737-7171</a> o envíe su nueva dirección por nuestro <a href="/booking">formulario de reserva</a>. Le cotizamos el mismo día, sin compromiso.',
+      faqs: [
+        {
+          question: '¿Debo limpiar antes de mudarme o después de que los mudanceros se vayan?',
+          answer:
+            'Limpie antes de que lleguen los mudanceros. Una vez que los muebles están en su lugar, no puede alcanzar los zócalos, esquinas ni pisos debajo. Una limpieza de mudanza de entrada antes de los muebles es más rápida, más profunda y cuesta menos que una limpieza profunda después. Vea nuestra <a href="/services/move-in-out-cleaning">página de Limpieza de Mudanza de Entrada</a> para lo que cubrimos antes de que desempaque una sola cosa.',
+          speakable: true,
+        },
+        {
+          question: '¿Cuánto toma una limpieza de mudanza de entrada para un apartamento de 2 dormitorios?',
+          answer:
+            'Una limpieza estándar de mudanza de entrada para un apartamento de 2 dormitorios toma a nuestro equipo de 3 a 5 horas, según la condición y los extras. Si el inquilino anterior dejó el lugar en mal estado, puede tomar más. Le damos un estimado de tiempo honesto cuando <a href=\"/booking\">solicite una cotización</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Mueven los muebles durante una limpieza de mudanza de entrada?',
+          answer:
+            'Limpiamos detrás y debajo de los muebles cuando es posible. Pero el mejor enfoque es limpiar el hogar vacío completamente antes de meter cualquier mueble — eso es lo que recomendamos a cada cliente, y es el uso más efectivo de su presupuesto de limpieza. Lea nuestra <a href=\"/faq\">página de FAQ</a> para más detalles sobre qué podemos y no podemos mover durante una limpieza.',
+          speakable: false,
+        },
+        {
+          question: '¿Pueden limpiar el desorden del inquilino anterior incluso si el apto fue “limpieza profesional”?',
+          answer:
+            'Sí. Un apartamento con “limpieza profesional” de la administración del edificio no siempre tiene el mismo estándar que el nuestro. Hemos entrado a muchos apartamentos “recién limpios” que aún tenían migas, polvo y huellas por todas partes. Limpiamos a nuestro estándar, no al mínimo del arrendador. <a href=\"/booking\">Resérvenos</a> y lo dejaremos bien.',
+          speakable: false,
+        },
+      ],
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────────
+  // POST 6 — Hiring Move-In / Move-Out Cleaning: What to Look For
+  // ─────────────────────────────────────────────────────────────
+  {
+    slug: 'hiring-move-in-out-cleaning',
+    category: 'Hiring Guide',
+    serviceSlug: 'move-in-out-cleaning',
+    readMinutes: 7,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-6.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'Hiring a Move-In / Move-Out Cleaning Service: What to Look For',
+      description:
+        'A honest guide to hiring movers for the cleaning part — what to ask, who to trust, the red flags that cost you deposits, and how to set yourself up for a smooth transition.',
+      leadParagraph:
+        'Move-in and move-out cleaning is different from every other type of cleaning. It is the only one where the quality of the work is directly tied to money you have already paid — your security deposit — or money you are about to spend on movers and temporary housing. Hiring the wrong person for this job costs more than the refund. We wrote this so you know exactly what to ask, what to look for, and what should make you walk away. Whether you are moving out of a Manhattan rental or into a San Francisco condo, these questions will get you the right team.',
+      sections: [
+        {
+          heading: 'The difference between a cleaning company and a gig-economy cleaner',
+          html: '<p>The single biggest mistake people make when hiring a move-in or move-out cleaner is treating it like a regular home cleaning. A regular cleaner is fine for bi-weekly visits. A move-in or move-out needs a team, a system, and someone who understands security deposit inspections, landlord standards, and the specific checklist of a move.</p><ul><li><strong>Cleaning company.</strong> Bonded, insured, background-checked staff. Sends a team, not a single person with a spray bottle. Carries its own equipment (mops, vacuums, ladders, specialty tools). Has a clear scope of work and an itemized quote in writing. If something goes wrong, you have a business to call — not a phone number that goes to voicemail.</li><li><strong>Gig-app cleaner.</strong> Inexpensive up front. Usually a single person with basic supplies, working for the app&apos;s rating system, not a repeat client relationship. No insurance, no bond, no guarantee. If they break something, scratch a floor, or miss half the checklist — and they are gone at the end of the day — you have nowhere to go.</li></ul><p>We are a family-owned company, not an app. We show up with a team, the right tools, and a checklist we stand behind. See the difference on our <a href=\"/services/move-in-out-cleaning\">Move-In / Move-Out page</a>.</p>',
+        },
+        {
+          heading: 'Questions to ask before you book — the must-ask list',
+          html: '<p>Before you send a deposit or confirm a time, ask these five questions. The answer determines whether you are hiring professionals or rolling the dice:</p><ol><li><strong>Are you bonded and insured?</strong> And can you send a certificate of insurance? If they hesitate, move on.</li><li><strong>Do you provide the cleaning supplies, or do I need to buy everything?</strong> Most reputable companies bring vacuums, mops, and tools. Some ask you to provide cleaning products — that is normal. But if they expect you to buy everything, including the mop, that is a red flag.</li><li><strong>What is included in the base price, and what costs extra?</strong> A honest quote lists every service and every add-on. If the base price sounds too good, it probably covers only a surface wipe.</li><li><strong>Do you clean to a landlord-specific checklist?</strong> If you send your move-out checklist from the management company, they should be able to work from it. If they say “we have our own system and do not do custom lists,” your deposit is at risk.</li><li><strong>What happens if something breaks or gets damaged?</strong> A bonded and insured company has a clear process. An uninsured gig worker has nothing to offer but an apology.</li></ol><p>Our <a href=\"/faq\">FAQ page</a> has more detail on each of these if you want to dig deeper before calling.</p>',
+        },
+        {
+          heading: 'Security deposit reality — what landlords actually check',
+          html: '<p>Landlords in New York and California look at specific things before signing off on a security deposit return. Knowing these before the cleaner arrives means you can tell them exactly where to spend extra time:</p><ul><li><strong>Kitchen.</strong> Oven interior, stovetop burners, refrigerator interior (including freezer, ice maker, and drip tray underneath), inside every cabinet and drawer, the sink and garbage disposal. Grease buildup anywhere is an automatic deduction from many landlords.</li><li><strong>Bathrooms.</strong> Toilet behind and beneath the base, shower grout and caulk condition, vent fan cleanliness, mirror streaks, soap scum on the tub or shower door tracks. Any mold or mildew is a deduction.</li><li><strong>Floors.</strong> Stains, scratches, sticky spots under the refrigerator and stove. Carpet condition — stains, smells, wear patterns beyond normal use.</li><li><strong>Walls and baseboards.</strong> Marks, smudges, nail holes that were not patched, dust on baseboards. Some landlords run a white glove along the top of baseboards.</li><li><strong>Windows.</strong> Clean glass, no cobwebs or dust in the tracks, functioning locks and blinds.</li></ul><p>We clean to landlord standards, not cosmetic standards. Send us the move-out checklist and we match it. <a href=\"/booking\">Book your move-out cleaning</a> and protect your deposit.</p>',
+        },
+        {
+          heading: 'Timing your cleaning around movers, keys, and closing dates',
+          html: '<p>The logistics of moving are a puzzle, and the cleaning piece needs to fit in the right slot. Here is the timing we have seen work best for thousands of clients:</p><ul><li><strong>Move-out cleaning.</strong> Schedule it the day after your movers take the furniture. The home is empty, all surfaces are accessible, and we can work fast. If the lease requires a walk-through after the cleaning, schedule the cleaning early enough that the landlord or super can inspect the same day or next morning.</li><li><strong>Move-in cleaning.</strong> Schedule it the day before the movers arrive, or early in the morning on moving day before the truck shows up. Cleaning an empty home takes a fraction of the time it takes to clean around furniture — and costs less.</li><li><strong>Same-day transitions.</strong> If you are moving out of one place and into another on the same day, you need two teams or a very precise schedule. We can coordinate a morning move-out and an afternoon move-in if both properties are within our service area. Call <a href=\"tel:+165****7171\">(657) 737-7171</a> to talk through the logistics.</li></ul><p>We always confirm access details 24 hours before the cleaning and send a reminder so there are no surprises on the day of the move.</p>',
+        },
+        {
+          heading: 'Red flags that should send you to a different company',
+          html: '<p>Some signals are subtle. These are not:</p><ol><li><strong>Flat “starting at” price with no details.</strong> A real quote needs square footage, bedroom count, bathroom count, and add-ons. A price without those details is a teaser, not a quote.</li><li><strong>Cash only or “Zelle/Venmo only.”</strong> No traceability, no paper trail, no recourse. A legitimate business takes credit or debit cards and charges after the work is done.</li><li><strong>No written scope of work.</strong> If they cannot tell you in writing exactly what they will clean and what they will not, assume they will clean the minimum and charge for the rest.</li><li><strong>No phone number or no one answers.</strong> A real cleaning company has business hours and a phone someone picks up. A chatbot, a text-only number, or a lead-gen form with no reply means you are talking to a broker, not the team doing the cleaning.</li><li><strong>“We do not need to see the space first.”</strong> For a move-in or move-out, a video call or in-person walk-through is the right way to quote. A quote sight unseen is either wildly overpriced or assumes the absolute minimum work.</li></ol><p>If you see any of these, save yourself the headache and look at a company that checks all the boxes — like ours. <a href=\"/booking\">Reach out and see what a real quote looks like.</a></p>',
+        },
+      ],
+      closingCta:
+        'Moving and need a cleaning team you can actually trust? Call <a href="tel:+165****7171">(657) 737-7171</a> Monday through Saturday, 8am to 6pm, or send your details through our <a href="/booking">booking form</a>. We will send you an itemized quote the same day — no gimmicks, no hidden fees.',
+      faqs: [
+        {
+          question: 'Is move-in or move-out cleaning more expensive?',
+          answer:
+            'Move-out cleaning is usually more expensive than move-in because of the condition of the home — years of tenant wear, grease buildup, and potential stains. Move-in cleaning varies depending on how clean the previous occupant left the unit. Contact us for pricing for your specific situation, and we will give you an honest comparison. See what is included on our <a href="/services/move-in-out-cleaning">Move-In / Move-Out Cleaning page</a>.',
+          speakable: true,
+        },
+        {
+          question: 'How do I know if a move-out cleaning company is legitimate and insured?',
+          answer:
+            'Ask for a certificate of insurance (COI) and a business name with a real address. Verify the phone number during business hours. Check for online reviews that mention security deposit outcomes specifically — not just general satisfaction. A legitimate company sends a COI within one business day. Read more on our <a href="/faq">FAQ page</a> about what to look for in a cleaning contract.',
+          speakable: true,
+        },
+        {
+          question: 'Can I stay in the apartment during the move-out cleaning?',
+          answer:
+            'You can, but we recommend being out of the way. Move-out cleaning is intensive — we move through every room with equipment, ladders, and cleaning solutions. The team works fastest and most thoroughly when the home is empty and there are no interruptions. Many clients leave a key with the doorman or share a smart-lock code. Check our <a href="/faq">FAQ</a> for more on access and scheduling.',
+          speakable: false,
+        },
+        {
+          question: 'What if the cleaning misses something my landlord requires?',
+          answer:
+            'If you send us your landlord&apos;s move-out checklist or walk-through requirements before the cleaning, we work directly from that list. If something on that list is missed, let us know within 24 hours and we come back to fix it at no charge. That is our family guarantee. <a href=\"/booking\">Book with confidence</a> — we stand behind the work until your landlord signs off.',
+          speakable: false,
+        },
+      ],
+    },
+    es: {
+      title: 'Cómo Contratar una Limpieza de Mudanza: Lo Que Debe Buscar',
+      description:
+        'Guía honesta para contratar limpiadores de mudanza — qué preguntar, en quién confiar, banderas rojas que le cuestan depósitos y cómo prepararse para una transición sin problemas.',
+      leadParagraph:
+        'La limpieza de mudanza de entrada y salida es diferente a cualquier otro tipo de limpieza. Es la única donde la calidad del trabajo está directamente atada a dinero que ya pagó — su depósito de garantía — o dinero que está por gastar en mudanceros y vivienda temporal. Contratar a la persona equivocada para este trabajo cuesta más que el reembolso. Escribimos esto para que sepa exactamente qué preguntar, qué buscar y qué debería hacerlo buscar otra opción. Ya sea que esté mudándose de un alquiler en Manhattan o entrando a un condominio en San Francisco, estas preguntas le conseguirán el equipo correcto.',
+      sections: [
+        {
+          heading: 'La diferencia entre una empresa de limpieza y un limpiador de apps de trabajo',
+          html: '<p>El error más grande que la gente comete al contratar una limpieza de mudanza es tratarlo como una limpieza de hogar normal. Un limpiador regular está bien para visitas quincenales. Una mudanza necesita un equipo, un sistema y alguien que entienda inspecciones de depósito de garantía, estándares del arrendador y la lista de verificación específica de una mudanza.</p><ul><li><strong>Empresa de limpieza.</strong> Con seguro, bonded y personal verificado. Envía un equipo, no una sola persona con un atomizador. Lleva su propio equipo (trapeadores, aspiradoras, escaleras, herramientas especializadas). Tiene un alcance de trabajo claro y una cotización itemizada por escrito. Si algo sale mal, tiene un negocio al que llamar — no un número que va al buzón de voz.</li><li><strong>Limpiador de app.</strong> Barato al principio. Generalmente una sola persona con suministros básicos, trabajando para el sistema de calificación de la app, no para una relación con un cliente recurrente. Sin seguro, sin bond, sin garantía. Si rompen algo, rayan un piso o se saltan la mitad de la lista — y desaparecen al final del día — no tiene a dónde recurrir.</li></ul><p>Somos una empresa familiar, no una app. Llegamos con un equipo, las herramientas correctas y una lista de verificación que respaldamos. Vea la diferencia en nuestra <a href=\"/services/move-in-out-cleaning\">página de Mudanza</a>.</p>',
+        },
+        {
+          heading: 'Preguntas que hacer antes de reservar — la lista obligatoria',
+          html: '<p>Antes de enviar un depósito o confirmar una hora, haga estas cinco preguntas. La respuesta determina si está contratando profesionales o jugando a los dados:</p><ol><li><strong>¿Tienen seguro y bond?</strong> ¿Y pueden enviar un certificado de seguro? Si dudan, siga buscando.</li><li><strong>¿Proveen los suministros de limpieza o necesito comprar todo?</strong> La mayoría de empresas serias traen aspiradoras, trapeadores y herramientas. Algunas piden que usted provea los productos de limpieza — eso es normal. Pero si esperan que usted compre todo, incluyendo el trapeador, eso es bandera roja.</li><li><strong>¿Qué está incluido en el precio base y qué cuesta extra?</strong> Una cotización honesta lista cada servicio y cada extra. Si el precio base suena demasiado bueno, probablemente cubre solo una limpiada superficial.</li><li><strong>¿Limpian según una lista específica del arrendador?</strong> Si envía su lista de verificación de mudanza de la administración, deberían poder trabajar desde ella. Si dicen “tenemos nuestro propio sistema y no hacemos listas personalizadas”, su depósito está en riesgo.</li><li><strong>¿Qué pasa si algo se rompe o se daña?</strong> Una empresa con seguro y bond tiene un proceso claro. Un trabajador de app no asegurado no tiene nada que ofrecer más que una disculpa.</li></ol><p>Nuestra <a href=\"/faq\">página de FAQ</a> tiene más detalle sobre cada una de estas si quiere profundizar antes de llamar.</p>',
+        },
+        {
+          heading: 'Realidad del depósito de garantía — qué revisan los arrendadores realmente',
+          html: '<p>Los arrendadores en Nueva York y California miran cosas específicas antes de aprobar la devolución del depósito. Saber esto antes de que llegue el limpiador significa que puede decirles exactamente dónde gastar tiempo extra:</p><ul><li><strong>Cocina.</strong> Interior del horno, quemadores de la estufa, interior del refrigerador (incluyendo congelador, hielera y bandeja de goteo debajo), dentro de cada gabinete y cajón, el fregadero y el triturador. La acumulación de grasa en cualquier lugar es deducción automática para muchos arrendadores.</li><li><strong>Baños.</strong> Inodoro atrás y debajo de la base, condición de la lechada y sellador de la ducha, limpieza del ventilador de extracción, rayas en espejos, sarro en la tina o rieles de la puerta de la ducha. Cualquier moho u hongo es deducción.</li><li><strong>Pisos.</strong> Manchas, rayones, puntos pegajosos debajo del refrigerador y la estufa. Condición de la alfombra — manchas, olores, patrones de desgaste más allá del uso normal.</li><li><strong>Paredes y zócalos.</strong> Marcas, manchas, agujeros de clavos sin parchar, polvo en zócalos. Algunos arrendadores pasan un guante blanco por la parte superior de los zócalos.</li><li><strong>Ventanas.</strong> Vidrio limpio, sin telarañas ni polvo en los rieles, cerraduras y persianas funcionando.</li></ul><p>Limpiamos al estándar del arrendador, no al estándar cosmético. Envíenos la lista de verificación de mudanza y la igualamos. <a href=\"/booking\">Reserve su limpieza de mudanza de salida</a> y proteja su depósito.</p>',
+        },
+        {
+          heading: 'Sincronizando la limpieza con mudanceros, llaves y fechas de cierre',
+          html: '<p>La logística de una mudanza es un rompecabezas, y la pieza de la limpieza debe encajar en el lugar correcto. Aquí está la sincronización que hemos visto funcionar mejor para miles de clientes:</p><ul><li><strong>Limpieza de salida.</strong> Agéndela el día después de que los mudanceros saquen los muebles. El hogar está vacío, todas las superficies están accesibles, y podemos trabajar rápido. Si el contrato requiere una inspección después de la limpieza, agende la limpieza suficientemente temprano para que el arrendador o super pueda inspeccionar el mismo día o la mañana siguiente.</li><li><strong>Limpieza de entrada.</strong> Agéndela el día antes de que lleguen los mudanceros, o temprano en la mañana del día de la mudanza antes de que llegue el camión. Limpiar un hogar vacío toma una fracción del tiempo que toma limpiar alrededor de los muebles — y cuesta menos.</li><li><strong>Transiciones el mismo día.</strong> Si sale de un lugar y entra a otro el mismo día, necesita dos equipos o un horario muy preciso. Podemos coordinar una limpieza de salida por la mañana y una de entrada por la tarde si ambas propiedades están en nuestra área de servicio. Llame al <a href=\"tel:+165****7171\">(657) 737-7171</a> para hablar de la logística.</li></ul><p>Siempre confirmamos los detalles de acceso 24 horas antes de la limpieza y enviamos un recordatorio para que no haya sorpresas el día de la mudanza.</p>',
+        },
+        {
+          heading: 'Banderas rojas que deberían enviarlo a otra empresa',
+          html: '<p>Algunas señales son sutiles. Estas no:</p><ol><li><strong>Precio fijo “desde” sin detalles.</strong> Una cotización real necesita metros cuadrados, número de dormitorios, baños y extras. Un precio sin esos detalles es un gancho, no una cotización.</li><li><strong>Solo efectivo o “solo Zelle/Venmo.”</strong> Sin rastro, sin papel, sin recurso. Un negocio legítimo acepta tarjetas de crédito o débito y cobra después del trabajo.</li><li><strong>Sin alcance de trabajo por escrito.</strong> Si no pueden decirle por escrito exactamente qué limpiarán y qué no, asuma que limpiarán el mínimo y cobrarán por el resto.</li><li><strong>Sin número de teléfono o nadie contesta.</strong> Una empresa de limpieza real tiene horario de atención y un teléfono que alguien contesta. Un chatbot, un número solo texto o un formulario sin respuesta significa que habla con un intermediario, no con el equipo que limpia.</li><li><strong>“No necesitamos ver el espacio primero.”</strong> Para una mudanza, una videollamada o visita en persona es la forma correcta de cotizar. Una cotización sin ver el espacio es o exageradamente cara o asume el mínimo absoluto de trabajo.</li></ol><p>Si ve alguna de estas, ahorrese el dolor de cabeza y busque una empresa que marque todas las casillas — como la nuestra. <a href=\"/booking\">Comuníquese y vea cómo se ve una cotización real.</a></p>',
+        },
+      ],
+      closingCta:
+        '¿Se muda y necesita un equipo de limpieza en el que pueda confiar? Llame al <a href="tel:+165****7171">(657) 737-7171</a> de lunes a sábado, 8am a 6pm, o envíe sus datos por nuestro <a href="/booking">formulario de reserva</a>. Le enviaremos una cotización itemizada el mismo día — sin trucos, sin cargos ocultos.',
+      faqs: [
+        {
+          question: '¿Es más cara la limpieza de salida o la de entrada?',
+          answer:
+            'La limpieza de salida suele ser más cara que la de entrada por la condición del hogar — años de desgaste del inquilino, acumulación de grasa y posibles manchas. La limpieza de entrada varía según qué tan limpio dejó la unidad el ocupante anterior. Contáctenos para precios según su situación específica y le daremos una comparación honesta. Vea lo que está incluido en nuestra <a href="/services/move-in-out-cleaning">página de Limpieza de Mudanza</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Cómo sé si una empresa de limpieza de mudanza es legítima y tiene seguro?',
+          answer:
+            'Pida un certificado de seguro (COI) y un nombre de empresa con dirección real. Verifique el teléfono durante el horario de atención. Busque reseñas en línea que mencionen resultados de depósitos de garantía específicamente — no solo satisfacción general. Una empresa legítima envía un COI en un día hábil. Lea más en nuestra <a href="/faq">página de FAQ</a> sobre qué buscar en un contrato de limpieza.',
+          speakable: true,
+        },
+        {
+          question: '¿Puedo quedarme en el apartamento durante la limpieza de salida?',
+          answer:
+            'Puede, pero recomendamos no estar en medio. La limpieza de salida es intensiva — nos movemos por cada cuarto con equipo, escaleras y soluciones de limpieza. El equipo trabaja más rápido y más a fondo cuando el hogar está vacío y sin interrupciones. Muchos clientes dejan una llave con el conserje o comparten un código de cerradura inteligente. Consulte nuestra <a href="/faq">página de FAQ</a> para más sobre acceso y horarios.',
+          speakable: false,
+        },
+        {
+          question: '¿Qué pasa si la limpieza no cubre algo que mi arrendador requiere?',
+          answer:
+            'Si nos envía la lista de verificación de mudanza de su arrendador o los requisitos de la inspección antes de la limpieza, trabajamos directamente de esa lista. Si algo de esa lista se omite, avísenos dentro de 24 horas y volvemos a arreglarlo sin costo. Esa es nuestra garantía familiar. <a href=\"/booking\">Reserve con confianza</a> — respaldamos el trabajo hasta que su arrendador lo apruebe.',
+          speakable: false,
+        },
+      ],
+    },
+  },

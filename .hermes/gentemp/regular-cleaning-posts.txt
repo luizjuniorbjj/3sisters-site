@@ -1,0 +1,265 @@
+Two new blog post entries for regular-cleaning service — to be added to the `BLOG_POSTS` array in src/data/blog-posts.ts.
+
+────────────────────────────────────────────────────────────────────────────
+POST 4 — Regular Cleaning Cost Guide (slug: 'regular-cleaning-cost-guide')
+────────────────────────────────────────────────────────────────────────────
+
+  // ─────────────────────────────────────────────────────────────
+  // POST 4 — Regular Cleaning Cost Guide: What You Pay For
+  // ─────────────────────────────────────────────────────────────
+  {
+    slug: 'regular-cleaning-cost-guide',
+    category: 'Pricing Guide',
+    serviceSlug: 'regular-cleaning',
+    readMinutes: 6,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-13.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'Regular Cleaning Cost Guide: What You Pay For',
+      description:
+        'An honest breakdown of what goes into a Regular Cleaning quote — square footage, frequency, add-ons, and the one question you should ask before booking.',
+      leadParagraph:
+        'Pricing a Regular Cleaning should not feel like negotiating a used-car deal. You tell us the size of your home, how often you want us there, and any extras you need. We give you a clear number — the same number you pay, every visit, no surprises. This guide walks through exactly what that number is based on, so when you get a quote from us or anyone else, you know what to look for and what to ask. We have been cleaning homes in New York and California long enough that we can tell you what is fair and what is not.',
+      sections: [
+        {
+          heading: 'What a Regular Cleaning quote actually includes',
+          html: '<p>A Regular Cleaning quote is built on a few simple inputs. Square footage is the biggest one — more space means more time, and time is the main cost. Number of bedrooms and bathrooms matters because bathrooms need more detailed work per square foot than a living room does. Frequency matters because recurring clients pay less per visit than one-time clients — the team can plan the route, the schedule, and the supplies more efficiently when you come back every two weeks.</p><p>Every quote from 3 Sisters Services lists what is included by default: dusting and wiping all reachable surfaces, vacuuming and mopping all floors, cleaning and sanitizing all bathrooms, cleaning the kitchen including countertops, sink, stovetop, and exterior of appliances, taking out trash, and making beds if linens are available. Everything else is an add-on, and add-ons are listed separately so there are no surprises.</p>',
+        },
+        {
+          heading: 'Frequency and what it means for your wallet',
+          html: '<p>Weekly, bi-weekly, monthly — each option changes the quote because the job changes. A home cleaned every week stays consistently tidy, so each visit is lighter. A home cleaned once a month has more dust, more fingerprints, more bathrooms that need real scrubbing. The cost per visit goes down as frequency goes up, but the monthly total is what most families actually budget around.</p><p>Bi-weekly is the sweet spot for most of our clients. It keeps the home presentable without the cost of weekly visits. That is especially true in New York City apartments where space is tight and dust settles fast. If you are not sure what frequency fits your home and budget, look at our <a href=\"/services/regular-cleaning/\">Regular Cleaning page</a> or call <a href=\"tel:+165****7171\">(657) 737-7171</a> — we can recommend based on homes like yours.</p>',
+        },
+        {
+          heading: 'Add-ons — what costs extra and why',
+          html: '<p>Add-ons are things we do not include in the base Regular Cleaning because not every home needs them every visit. Inside the oven, inside the refrigerator, inside cabinets, window washing, inside the dishwasher, and laundry service are the most common ones. Each add-on has a flat fee that is listed on your quote before you ever confirm the booking. No one springs an extra charge on you after the cleaning is done.</p><p>The base cleaning is designed to be thorough but fast so the team can move on to the next home on the route. Add-ons are the items that take extra time — scrubbing baked-on grease in the oven, sorting through fridge shelves, washing windows inside and out. If you want certain add-ons rotated every few visits, tell us at booking and we set a reminder in the system so it happens without you having to ask each time.</p>',
+        },
+        {
+          heading: 'Pricing differences between NYC and California',
+          html: '<p>Cleaning costs are not the same in every market. In New York City — Manhattan, Brooklyn, Queens — overhead is higher. Parking for the team vehicle, tolls, building access logistics, and the general cost of running a business in the five boroughs all factor into the quote. In California, the rates reflect different costs: drive time between homes, parking availability in San Francisco versus the East Bay, and the local minimum wage.</p><p>We do not hide behind market adjustments or fine-print surcharges. Our quote states the price, the frequency discount, and any add-on costs in plain language. If you live in a walk-up in Brooklyn, we account for the stairs in the route planning — not in the price. See our <a href=\"/faq\">FAQ page</a> for the common pricing questions clients ask, or send your home details through the <a href=\"/booking\">booking form</a> for a quote specific to your address.</p>',
+        },
+        {
+          heading: 'The one question you should ask before booking',
+          html: '<p>When you are comparing quotes from different cleaning companies, ask this: <em>Is that the final price you charge, or is there a travel fee, a booking fee, or a surcharge for my borough?</em> The answer tells you everything about how the company handles pricing. Some companies advertise a low base rate and then add travel surcharges, weekend fees, equipment fees, or parking fees that push the real price forty to fifty percent higher than advertised. Others — us included — quote the real price up front.</p><p>Honest pricing means you see the number, you agree to it, and that is the number on your card after the cleaning. If you have questions about how we price homes in your area, call <a href=\"tel:+165****7171\">(657) 737-7171</a> and ask. We answer the phone Monday through Saturday, and we give straight answers.</p>',
+        },
+      ],
+      closingCta:
+        'Ready to see what a Regular Cleaning costs for your home? Fill out the <a href=\"/booking\">booking form</a> with your address, square footage, and how often you want us — or call <a href=\"tel:+165****7171\">(657) 737-7171</a> Monday through Saturday. Same-day quotes, no obligation, no hidden fees.',
+      faqs: [
+        {
+          question: 'How much does a bi-weekly Regular Cleaning cost for a 2-bedroom apartment?',
+          answer:
+            'The price depends on your building type, borough, and any add-ons you want. Send your details through our <a href=\"/booking\">booking form</a> for a quote specific to your home — we respond the same business day with a clear number that will not change.',
+          speakable: true,
+        },
+        {
+          question: 'Do you charge extra for walk-ups or buildings without an elevator?',
+          answer:
+            'We account for stairs in our route planning, not in additional fees. The quote you see is the quote you pay, regardless of floor or building type. That is true for walk-ups in Brooklyn, elevator buildings in Manhattan, and everything in between. Check our <a href=\"/faq\">FAQ page</a> for more on how we handle building logistics.',
+          speakable: false,
+        },
+        {
+          question: 'Is there a discount for booking recurring cleanings?',
+          answer:
+            'Yes. Recurring cleanings cost less per visit than one-time cleanings because we can plan the team schedule around your regular visits. The exact discount depends on your frequency and the home size — we show it clearly on the quote. See our <a href=\"/services/regular-cleaning/\">Regular Cleaning page</a> for more details on the different frequency options.',
+          speakable: true,
+        },
+        {
+          question: 'What happens if the cleaning takes longer than the quote said?',
+          answer:
+            'The quote we give you is the price you pay. If a cleaning takes longer than expected for reasons on our side — a new cleaner learning the space, unexpected complexity — we do not charge extra. Our <a href=\"/faq\">FAQ page</a> has more on our satisfaction and billing policies.',
+          speakable: false,
+        },
+      ],
+    },
+    es: {
+      title: 'Guía de precios de limpieza regular: lo que paga',
+      description:
+        'Una explicación honesta de lo que compone una cotización de Limpieza Regular — metros cuadrados, frecuencia, extras y la única pregunta que debe hacer antes de reservar.',
+      leadParagraph:
+        'El precio de una Limpieza Regular no debería sentirse como negociar un carro usado. Usted nos dice el tamaño de su casa, la frecuencia y los extras que necesita. Le damos un número claro — el mismo número que paga, cada visita, sin sorpresas. Esta guía explica exactamente en qué se basa ese número, para que cuando reciba una cotización de nosotros o de cualquier otro, sepa qué buscar y qué preguntar. Llevamos limpiando casas en Nueva York y California el tiempo suficiente para decirle qué es justo y qué no.',
+      sections: [
+        {
+          heading: 'Lo que incluye una cotización de Limpieza Regular',
+          html: '<p>Una cotización de Limpieza Regular se construye con unos pocos datos simples. Los metros cuadrados son el más importante — más espacio significa más tiempo, y el tiempo es el costo principal. El número de habitaciones y baños importa porque los baños requieren trabajo más detallado por metro cuadrado que una sala. La frecuencia importa porque los clientes recurrentes pagan menos por visita que los de una sola vez — el equipo puede planear la ruta, el horario y los suministros más eficientemente cuando usted regresa cada dos semanas.</p><p>Cada cotización de 3 Sisters Services lista lo que está incluido por defecto: quitar polvo y limpiar superficies, aspirar y trapear todos los pisos, limpiar y sanitizar todos los baños, limpiar la cocina incluyendo mesones, fregadero, estufa y exterior de electrodomésticos, sacar la basura y tender camas si hay sábanas disponibles. Todo lo demás es un extra, y los extras se listan por separado para que no haya sorpresas.</p>',
+        },
+        {
+          heading: 'Frecuencia y lo que significa para su bolsillo',
+          html: '<p>Semanal, quincenal, mensual — cada opción cambia la cotización porque el trabajo cambia. Una casa limpia cada semana se mantiene consistentemente ordenada, así que cada visita es más ligera. Una casa limpia una vez al mes tiene más polvo, más huellas, más baños que necesitan restregado de verdad. El costo por visita baja a medida que la frecuencia sube, pero el total mensual es alrededor de lo que la mayoría de familias presupuestan.</p><p>La opción quincenal es el punto ideal para la mayoría de nuestros clientes. Mantiene la casa presentable sin el costo de las visitas semanales. Esto es especialmente cierto en apartamentos de Nueva York donde el espacio es limitado y el polvo se acumula rápido. Si no está seguro de qué frecuencia se ajusta a su casa y presupuesto, vea nuestra <a href=\"/services/regular-cleaning/\">página de Limpieza Regular</a> o llame al <a href=\"tel:+165****7171\">(657) 737-7171</a> — podemos recomendarle basado en casas como la suya.</p>',
+        },
+        {
+          heading: 'Extras — qué cuesta adicional y por qué',
+          html: '<p>Los extras son cosas que no incluimos en la Limpieza Regular base porque no todas las casas las necesitan cada visita. Limpieza interior del horno, interior del refrigerador, interior de gabinetes, lavado de ventanas, interior del lavavajillas y servicio de lavandería son los más comunes. Cada extra tiene una tarifa fija que aparece en su cotización antes de que confirme la reserva. Nadie le cobra un extra después de terminar la limpieza.</p><p>La limpieza base está diseñada para ser completa pero rápida, para que el equipo pueda pasar a la siguiente casa de la ruta. Los extras son los trabajos que toman tiempo extra — restregar grasa horneada en el horno, separar estantes del refrigerador, lavar ventanas por dentro y por fuera. Si quiere ciertos extras rotados cada ciertas visitas, díganos al reservar y ponemos un recordatorio en el sistema para que pase sin que tenga que pedirlo cada vez.</p>',
+        },
+        {
+          heading: 'Diferencias de precios entre NYC y California',
+          html: '<p>Los costos de limpieza no son iguales en cada mercado. En Nueva York — Manhattan, Brooklyn, Queens — los gastos generales son más altos. El estacionamiento para el vehículo del equipo, los peajes, la logística de acceso a edificios y el costo general de operar un negocio en los cinco condados influyen en la cotización. En California, las tarifas reflejan costos distintos: tiempo de traslado entre casas, disponibilidad de estacionamiento en San Francisco versus el East Bay, y el salario mínimo local.</p><p>No nos escondemos detrás de ajustes de mercado o recargos en letra pequeña. Nuestra cotización indica el precio, el descuento por frecuencia y los costos adicionales en lenguaje claro. Si vive en un walk-up en Brooklyn, consideramos las escaleras en la planificación de la ruta — no en el precio. Vea nuestra <a href=\"/faq\">página de FAQ</a> para las preguntas comunes sobre precios, o envíe los detalles de su casa por el <a href=\"/booking\">formulario de reserva</a> para una cotización específica para su dirección.</p>',
+        },
+        {
+          heading: 'La única pregunta que debe hacer antes de reservar',
+          html: '<p>Cuando compare cotizaciones de distintas empresas de limpieza, pregunte esto: <em>¿Ese es el precio final que cobran, o hay tarifa de traslado, tarifa de reserva o recargo por mi condado?</em> La respuesta le dice todo sobre cómo maneja la empresa los precios. Algunas anuncian una tarifa base baja y luego añaden recargos por traslado, fines de semana, equipo o estacionamiento que empujan el precio real cuarenta o cincuenta por ciento más arriba de lo anunciado. Otras — nosotros incluidos — cotizan el precio real desde el principio.</p><p>Precios honestos significa que ve el número, lo acepta, y ese es el número que aparece en su tarjeta después de la limpieza. Si tiene preguntas sobre cómo cotizamos casas en su área, llame al <a href=\"tel:+165****7171\">(657) 737-7171</a> y pregunte. Contestamos el teléfono de lunes a sábado, y damos respuestas directas.</p>',
+        },
+      ],
+      closingCta:
+        '¿Listo para ver cuánto cuesta una Limpieza Regular para su casa? Llene el <a href=\"/booking\">formulario de reserva</a> con su dirección, metros cuadrados y frecuencia — o llame al <a href=\"tel:+165****7171\">(657) 737-7171</a> de lunes a sábado. Cotizaciones el mismo día, sin compromiso, sin cargos ocultos.',
+      faqs: [
+        {
+          question: '¿Cuánto cuesta una Limpieza Regular quincenal para un apartamento de 2 habitaciones?',
+          answer:
+            'El precio depende del tipo de edificio, condado y los extras que quiera. Envíe sus datos por nuestro <a href=\"/booking\">formulario de reserva</a> para una cotización específica para su casa — respondemos el mismo día hábil con un número claro que no cambiará.',
+          speakable: true,
+        },
+        {
+          question: '¿Cobran extra por walk-ups o edificios sin elevador?',
+          answer:
+            'Consideramos las escaleras en la planificación de la ruta, no en cargos adicionales. La cotización que ve es la que paga, sin importar el piso o tipo de edificio. Eso aplica para walk-ups en Brooklyn, edificios con elevador en Manhattan y todo lo demás. Consulte nuestra <a href=\"/faq\">página de FAQ</a> para más información sobre logística de edificios.',
+          speakable: false,
+        },
+        {
+          question: '¿Hay descuento por reservar limpiezas recurrentes?',
+          answer:
+            'Sí. Las limpiezas recurrentes cuestan menos por visita que las de una sola vez porque podemos planear el horario del equipo alrededor de sus visitas regulares. El descuento exacto depende de la frecuencia y el tamaño de la casa — lo mostramos claramente en la cotización. Vea nuestra <a href=\"/services/regular-cleaning/\">página de Limpieza Regular</a> para más detalles sobre las opciones de frecuencia.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué pasa si la limpieza toma más tiempo del que decía la cotización?',
+          answer:
+            'La cotización que le damos es el precio que paga. Si una limpieza toma más tiempo del esperado por razones de nuestro lado — una persona nueva aprendiendo el espacio, complejidad inesperada — no cobramos extra. Nuestra <a href=\"/faq\">página de FAQ</a> tiene más sobre nuestras políticas de satisfacción y facturación.',
+          speakable: false,
+        },
+      ],
+    },
+  },
+
+────────────────────────────────────────────────────────────────────────────
+POST 5 — Preparing Your Home for Regular Cleaning (slug: 'preparing-home-for-regular-cleaning')
+────────────────────────────────────────────────────────────────────────────
+
+  // ─────────────────────────────────────────────────────────────
+  // POST 5 — Preparing Your Home for a Regular Cleaning Visit
+  // ─────────────────────────────────────────────────────────────
+  {
+    slug: 'preparing-home-for-regular-cleaning',
+    category: 'Cleaning Tips',
+    serviceSlug: 'regular-cleaning',
+    readMinutes: 5,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-14.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'Preparing Your Home for a Regular Cleaning Visit',
+      description:
+        'What to do before our team arrives for your Regular Cleaning — a short checklist that takes ten minutes and makes every visit more effective.',
+      leadParagraph:
+        'A Regular Cleaning visit works best when the house is ready to be cleaned — not picked up. You do not need to pre-clean anything. But a few small things make a big difference in what we can get done in the time we are there. Think of it as getting the stage ready before the actors show up. This is exactly what we tell every client before their first Regular Cleaning with us, whether they live in a one-bedroom in San Francisco or a three-bedroom in Queens.',
+      sections: [
+        {
+          heading: 'Ten minutes of pickup, zero minutes of cleaning',
+          html: '<p>The single most helpful thing you can do before a Regular Cleaning is a quick pickup, not a cleaning. Put away the things that are sitting on flat surfaces — mail, school papers, toys, clothes, dishes in the sink, the pile of things by the door. If a surface is covered in stuff, we have to clean around it or move it, and that takes time away from the actual cleaning.</p><p>This is different from a Deep Cleaning where we move furniture and get into corners. Regular Cleaning is about maintaining the surfaces you use every day. Ten focused minutes — one per room — is usually enough. Walk through with a basket, toss in the things that belong elsewhere, and put the basket away before we arrive. That simple habit makes the biggest difference in how thorough your Regular Cleaning visit can be.</p>',
+        },
+        {
+          heading: 'Pets, kids, and where everyone should be',
+          html: '<p>Vacuums, mops, and cleaning products are noisy and unfamiliar to most pets. Dogs bark at the vacuum. Cats find a hiding spot and stay there until we leave. The best setup is a closed door between your pet and the rooms being cleaned — a bedroom with a bowl of water and a toy, a crate in a quiet corner, or a friend\'s house for the couple of hours we are there. Tell us where your pet will be so we do not accidentally let them out.</p><p>For kids, the same idea applies. If the children are home, a contained play area or a bedroom with a movie works well. We work around nap schedules and activities if you tell us in advance. The more we know about your household rhythm, the better we can match it. Check our <a href=\"/services/regular-cleaning/\">Regular Cleaning page</a> for more on how we handle homes with kids and pets.</p>',
+        },
+        {
+          heading: 'What to leave out vs what to put away',
+          html: '<p>Some things should stay out because we clean them. Other things should be put away because they get in the way. Here is the simple rule: personal items you use daily go in drawers or cabinets. Decorative items, small appliances on the counter, and things on bathroom vanities we can work around — but the cleaner the surface, the better the clean.</p><p>Specifically: put away toothpaste, toothbrushes, makeup, and hair tools from bathroom counters. Clear the kitchen sink of dishes and wipe obvious food off the stovetop (we handle the rest). Close closet doors and bedroom drawers so we can vacuum the floor around them. If you have valuables — jewelry, important documents, cash — put them in a drawer or safe before any service visit. That goes for any cleaner entering your home, not just us. Our <a href=\"/faq\">FAQ page</a> has more on how we handle valuables and security during visits.</p>',
+        },
+        {
+          heading: 'Access, parking, and building details',
+          html: '<p>For the team to arrive on time and start working immediately, we need three things confirmed the day before: access to the building, a place to park the work van, and a heads-up on anything unusual about your home that day. Door codes, doorman names, lockbox combinations, or smart-lock codes — send it once in the booking system and the assigned cleaner sees it privately for your visit only. No one else on the team has access to it.</p><p>Parking matters especially in New York. Brooklyn and Manhattan have alternate-side parking rules, and San Francisco has its own street-cleaning schedules. If you know your block is getting swept on Tuesday morning, tell us so we can adjust the arrival time or route the team differently. Every piece of local knowledge helps us show up on time and ready to work. The <a href=\"/booking\">booking form</a> has a notes field for exactly this kind of detail.</p>',
+        },
+        {
+          heading: 'What you do not need to worry about',
+          html: '<p>You do not need to buy special cleaning products. You do not need to have all the lights on when we arrive. You do not need to be home. You do not need to make coffee for the team (though it is always appreciated). And you absolutely do not need to clean before we get there.</p><p>What you booked is a Regular Cleaning. That means we handle the vacuuming, mopping, dusting, bathroom scrubbing, kitchen cleaning, trash removal, and bed-making. Your only job before we arrive is to make sure the things we clean around are not in the way. That is it. If you have questions about what to expect during your first visit, our <a href=\"/faq\">FAQ page</a> covers the common ones, or call <a href=\"tel:+165****7171\">(657) 737-7171</a> and ask.</p>',
+        },
+      ],
+      closingCta:
+        'First Regular Cleaning coming up? Book your spot through the <a href=\"/booking\">booking form</a> or call <a href=\"tel:+165****7171\">(657) 737-7171</a>. We will send you a pre-visit checklist when we confirm your appointment, so you know exactly what to expect.',
+      faqs: [
+        {
+          question: 'Do I need to be home during a Regular Cleaning?',
+          answer:
+            'No. Most of our Regular Cleaning clients leave us a key with the doorman, give us a lockbox code, or share a smart-lock code, and come back to a clean home. If you want to be home, that is fine too — we work around your routine. Check our <a href=\"/faq\">FAQ page</a> for more on access options and security.',
+          speakable: true,
+        },
+        {
+          question: 'Should I pick up toys and clutter before the cleaner arrives?',
+          answer:
+            'Yes — a quick pickup of toys, clothes, mail, and dishes makes a real difference. You do not need to clean anything. Just clear the surfaces so we can actually clean them. A ten-minute walk-through with a basket is usually enough. For more tips on prepping, see our <a href=\"/services/regular-cleaning/\">Regular Cleaning page</a>.',
+          speakable: true,
+        },
+        {
+          question: 'What if I forgot to tell you about something before the visit?',
+          answer:
+            'No problem at all. Leave a note on the counter or send us a text — we check messages throughout the day. The team is trained to adapt to whatever they find. The <a href=\"/booking\">booking form</a> also has a notes section you can update anytime before the visit.',
+          speakable: false,
+        },
+        {
+          question: 'Do you move furniture during Regular Cleanings?',
+          answer:
+            'We move lightweight furniture like dining chairs and small end tables to clean underneath them. Heavy furniture — sofas, beds, large dressers — we clean around unless you request a deeper move at booking. If there is a specific piece you want us to move and clean behind, add a note when you <a href=\"/booking\">book your visit</a> and we include it.',
+          speakable: false,
+        },
+      ],
+    },
+    es: {
+      title: 'Cómo preparar su casa para una visita de limpieza regular',
+      description:
+        'Qué hacer antes de que llegue nuestro equipo para su Limpieza Regular — una lista corta que toma diez minutos y hace cada visita más efectiva.',
+      leadParagraph:
+        'Una visita de Limpieza Regular funciona mejor cuando la casa está lista para ser limpiada — no recogida. No necesita pre-limpiar nada. Pero unas pocas cosas pequeñas marcan una gran diferencia en lo que podemos hacer en el tiempo que estamos allí. Piense en preparar el escenario antes de que lleguen los actores. Esto es exactamente lo que decimos a cada cliente antes de su primera Limpieza Regular con nosotros, ya sea en un departamento de una habitación en San Francisco o una casa de tres habitaciones en Queens.',
+      sections: [
+        {
+          heading: 'Diez minutos de recoger, cero minutos de limpiar',
+          html: '<p>Lo más útil que puede hacer antes de una Limpieza Regular es recoger, no limpiar. Guarde las cosas que están sobre las superficies planas — cartas, papeles del colegio, juguetes, ropa, trastes en el fregadero, la pila de cosas junto a la puerta. Si una superficie está cubierta de cosas, tenemos que limpiar alrededor o moverlas, y eso toma tiempo de la limpieza real.</p><p>Esto es diferente a una Limpieza Profunda donde movemos muebles y entramos en rincones. La Limpieza Regular se trata de mantener las superficies que usa a diario. Diez minutos enfocados — uno por cuarto — generalmente bastan. Camine con una canasta, eche las cosas que no están en su lugar, y guarde la canasta antes de que lleguemos. Ese hábito simple marca la mayor diferencia en qué tan completa puede ser su visita de Limpieza Regular.</p>',
+        },
+        {
+          heading: 'Mascotas, niños y dónde debería estar cada quien',
+          html: '<p>Las aspiradoras, trapeadores y productos de limpieza son ruidosos y desconocidos para la mayoría de las mascotas. Los perros ladran a la aspiradora. Los gatos se esconden y se quedan allí hasta que nos vamos. Lo mejor es una puerta cerrada entre su mascota y los cuartos que se están limpiando — un cuarto con agua y un juguete, una jaula en una esquina tranquila, o la casa de un amigo por las horas que estemos allí. Díganos dónde estará su mascota para que no la dejemos salir accidentalmente.</p><p>Para los niños aplica la misma idea. Si los niños están en casa, un área de juegos contenida o un cuarto con una película funciona bien. Trabajamos alrededor de horarios de siesta y actividades si nos avisa con anticipación. Mientras más sepamos sobre su ritmo familiar, mejor podemos adaptarnos. Vea nuestra <a href=\"/services/regular-cleaning/\">página de Limpieza Regular</a> para más información sobre cómo trabajamos en hogares con niños y mascotas.</p>',
+        },
+        {
+          heading: 'Qué dejar fuera vs qué guardar',
+          html: '<p>Algunas cosas deben quedarse fuera porque las limpiamos. Otras deben guardarse porque estorban. Aquí está la regla simple: los artículos personales de uso diario van en cajones o gabinetes. Los artículos decorativos, pequeños electrodomésticos en el mesón y cosas en los vanitorys del baño — podemos trabajar alrededor — pero entre más limpia esté la superficie, mejor será la limpieza.</p><p>Específicamente: guarde pasta de dientes, cepillos, maquillaje y herramientas para el cabello de los mesones del baño. Despeje el fregadero de la cocina de platos y limpie la comida visible de la estufa (nosotros nos encargamos del resto). Cierre las puertas de closets y gavetas del baño para que podamos aspirar el piso a su alrededor. Si tiene objetos de valor — joyas, documentos importantes, efectivo — póngalos en un cajón o caja fuerte antes de cualquier visita de servicio. Eso aplica para cualquier persona que entre a su casa, no solo nosotros. Nuestra <a href=\"/faq\">página de FAQ</a> tiene más información sobre cómo manejamos objetos de valor y seguridad durante las visitas.</p>',
+        },
+        {
+          heading: 'Acceso, estacionamiento y detalles del edificio',
+          html: '<p>Para que el equipo llegue a tiempo y empiece a trabajar de inmediato, necesitamos tres cosas confirmadas el día anterior: acceso al edificio, un lugar para estacionar la camioneta de trabajo y una alerta sobre algo inusual en su casa ese día. Códigos de puerta, nombres de conserjes, combinaciones de cajas de seguridad o códigos de cerradura inteligente — envíelos una vez en el sistema de reserva y la persona asignada los ve de forma privada solo para su visita. Nadie más del equipo tiene acceso.</p><p>El estacionamiento importa especialmente en Nueva York. Brooklyn y Manhattan tienen reglas de estacionamiento alternate-side, y San Francisco tiene sus propios horarios de limpieza de calles. Si sabe que su cuadra se barre los martes en la mañana, díganos para ajustar la hora de llegada o la ruta del equipo. Cada dato local nos ayuda a llegar a tiempo y listos para trabajar. El <a href=\"/booking\">formulario de reserva</a> tiene un campo de notas exactamente para este tipo de detalle.</p>',
+        },
+        {
+          heading: 'Por lo que no debe preocuparse',
+          html: '<p>No necesita comprar productos especiales de limpieza. No necesita tener todas las luces encendidas cuando lleguemos. No necesita estar en casa. No necesita hacer café para el equipo (aunque siempre se agradece). Y definitivamente no necesita limpiar antes de que lleguemos.</p><p>Lo que reservó es una Limpieza Regular. Eso significa que nosotros manejamos la aspiradora, el trapeado, el polvo, el restregado de baños, la limpieza de cocina, la basura y tender camas. Su única responsabilidad antes de que lleguemos es asegurarse de que las cosas alrededor de las que limpiamos no estén estorbando. Eso es todo. Si tiene preguntas sobre qué esperar en su primera visita, nuestra <a href=\"/faq\">página de FAQ</a> cubre las más comunes, o llame al <a href=\"tel:+165****7171\">(657) 737-7171</a> y pregunte.</p>',
+        },
+      ],
+      closingCta:
+        '¿Primera Limpieza Regular en camino? Reserve su cita por el <a href=\"/booking\">formulario de reserva</a> o llame al <a href=\"tel:+165****7171\">(657) 737-7171</a>. Le enviaremos una lista de preparación cuando confirmemos su cita, para que sepa exactamente qué esperar.',
+      faqs: [
+        {
+          question: '¿Tengo que estar en casa durante una Limpieza Regular?',
+          answer:
+            'No. La mayoría de nuestros clientes de Limpieza Regular nos dejan una llave con el conserje, nos dan un código de caja de seguridad o un código de cerradura inteligente, y vuelven a una casa limpia. Si quiere quedarse, también está bien — trabajamos a su alrededor. Vea nuestra <a href=\"/faq\">página de FAQ</a> para más opciones de acceso y seguridad.',
+          speakable: true,
+        },
+        {
+          question: '¿Debo recoger juguetes y desorden antes de que llegue el equipo?',
+          answer:
+            'Sí — recoger juguetes, ropa, cartas y platos marca una diferencia real. No necesita limpiar nada. Solo despeje las superficies para que podamos limpiarlas de verdad. Una caminata de diez minutos con una canasta generalmente basta. Para más consejos de preparación, vea nuestra <a href=\"/services/regular-cleaning/\">página de Limpieza Regular</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué pasa si olvidé decirle algo antes de la visita?',
+          answer:
+            'No hay problema. Deje una nota en el mesón o envíenos un mensaje de texto — revisamos los mensajes durante el día. El equipo está entrenado para adaptarse a lo que encuentre. El <a href=\"/booking\">formulario de reserva</a> también tiene una sección de notas que puede actualizar en cualquier momento antes de la visita.',
+          speakable: false,
+        },
+        {
+          question: '¿Mueven los muebles durante las Limpiezas Regulares?',
+          answer:
+            'Movemos muebles ligeros como sillas de comedor y mesas pequeñas para limpiar debajo. Los muebles pesados — sofás, camas, cómodas grandes — los limpiamos alrededor a menos que solicite moverlos al reservar. Si hay una pieza específica que quiere que movamos y limpiemos detrás, agregue una nota al <a href=\"/booking\">reservar su visita</a> y la incluimos.',
+          speakable: false,
+        },
+      ],
+    },
+  },

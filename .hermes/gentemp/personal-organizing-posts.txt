@@ -1,0 +1,395 @@
+/**
+ * Personal Organizing Blog Posts
+ * 3 Sisters Services — 3 new blog post entries for serviceSlug: 'personal-organizing'
+ *
+ * Each post follows the BlogPostContent interface from src/data/blog-posts.ts.
+ *
+ * Voice: family-owned warmth, direct, practical. Zero corporate buzzwords.
+ *
+ * IMPORTANT: These objects are designed to be inserted into the BLOG_POSTS array
+ * in src/data/blog-posts.ts, before the closing `];` at line 407.
+ */
+
+// ─────────────────────────────────────────────────────────────
+// POST 10 — Personal Organizing Cost Guide
+// ─────────────────────────────────────────────────────────────
+{
+  slug: 'personal-organizing-cost-guide',
+  category: 'Organizing Tips',
+  serviceSlug: 'personal-organizing',
+  readMinutes: 6,
+  publishedDate: '2026-06-25',
+  modifiedDate: '2026-06-25',
+  cover: '/images/blog/post-10.jpg',
+  author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+  en: {
+    title: 'How Much Does a Personal Organizer Cost? A Straight Guide',
+    description:
+      'What personal organizing actually costs in New York and California — flat fees, hourly rates, project pricing, and the questions to ask before you book.',
+    leadParagraph:
+      'The most common question we hear is also the hardest to answer with one number: how much does a personal organizer cost? The short answer is it depends — on where you live, how much stuff you have, whether you want help decluttering or full-on systems, and whether you book a single session or a full-home project. The honest answer is what you will find below: the way organizing is priced, what you usually get for each price model, and the questions you should ask before hiring anyone so you are not surprised when the invoice comes.',
+    sections: [
+      {
+        heading: 'Hourly rates vs flat project fees — what to expect',
+        html: '<p>Most personal organizers charge one of two ways. <strong>Hourly</strong> rates typically range from $75 to $200 per hour depending on experience, location, and whether you are working with one organizer or a small team. <strong>Flat project fees</strong> cover a defined scope — say, the kitchen, the master closet, and the home office — and are usually quoted after a walk-through.</p><p>Hourly makes sense when you are not sure how deep the project goes or if you want to work in short sessions over time. Flat fees make sense when you want a fixed number going in and no surprises. We quote both ways at 3 Sisters Services and will tell you which makes more sense for your situation when you talk to us through the <a href=\"/booking\">booking form</a>.</p><p>Either way, a reputable organizer gives you the rate or the project price in writing before any work starts. If a company will not give you a number until they are standing in your home, that is a red flag.</p>',
+      },
+      {
+        heading: 'What determines the final price',
+        html: '<p>Several things push the price up or down. Here are the main ones:</p><ul><li><strong>Size of the space.</strong> A studio apartment closet costs less than a three-bedroom with a garage, basement, and walk-in pantry. Most quotes start with square footage or the number of rooms.</li><li><strong>Condition of the space.</strong> A relatively tidy closet that needs better systems is a different job from a room that has not been touched in years. Be honest about the state of the space when you describe it — it helps the organizer send the right team and the right quote.</li><li><strong>Supplies and systems.</strong> Some organizers bring bins, dividers, and shelving. Others recommend products for you to buy. Ask ahead so there are no surprise charges for materials.</li><li><strong>Add-on services.</strong> Donation runs (loading and dropping off bags at a local charity), trash haul-away, and light cleaning after the organizing session usually cost extra.</li></ul><p>Our <a href=\"/faq\">FAQ page</a> covers some of these in more detail, and we are happy to walk through the variables for your specific home when you reach out.</p>',
+      },
+      {
+        heading: 'How location affects the rate',
+        html: '<p>Geography matters. Personal organizing rates in New York City — Manhattan, Brooklyn, Queens — tend to be higher than in upstate New York or parts of California outside the major metro areas. That is partly cost of doing business (rent, parking, travel time) and partly demand.</p><p>In Manhattan, rates often sit at the higher end of the range. In Brooklyn and Queens you may find more mid-range pricing, especially from small teams working within a single borough. In California, the spread follows similar logic: San Francisco and Los Angeles metro areas cost more, inland and northern areas cost less.</p><p>We serve all of these areas and adjust pricing honestly by location. If you are curious what your area looks like, <a href=\"/services/personal-organizing\">visit our personal organizing page</a> or call us to ask.</p>',
+      },
+      {
+        heading: 'Hidden costs — what is not in the quote',
+        html: '<p>A good organizer lists what is included and what is not. Here are the things that sometimes cost extra:</p><ul><li><strong>Supplies and bins.</strong> Unless the quote says "supplies included," assume the cost of bins, shelf dividers, drawer organizers, and labels is separate. Ask for a list of what they recommend so you can buy exactly what you need — sometimes cheaper on your own.</li><li><strong>Donation drop-off.</strong> Many organizers will bag donations for you but charge a fee to drive them to a charity or thrift store. It is reasonable — it takes time and gas — but know it ahead of time.</li><li><strong>Trash haul-away.</strong> Similar to donations. If you are clearing out old furniture, broken items, or things headed for the dump, confirm whether the organizer handles that or you need to call a separate service.</li><li><strong>Travel fees.</strong> Some companies charge a flat travel fee outside their primary service zone. Ask before booking, and check our <a href=\"/faq\">FAQ</a> to see how we handle this.</li></ul>',
+      },
+      {
+        heading: 'The questions to ask before you book anyone',
+        html: '<p>When you call or fill out a booking form, here are the questions that save everyone time:</p><ol><li><strong>What is your rate model — hourly, flat, or both?</strong> If hourly, what is the minimum session time? Two hours? Four? A full day?</li><li><strong>What is included in that rate?</strong> Someone to sort and declutter? Someone to set up systems? Someone to tag along to buy bins?</li><li><strong>Do you come alone or with a team?</strong> A team may finish faster but also cost more per hour because you are paying multiple people.</li><li><strong>Do I need to buy anything before you arrive?</strong> Bins, hangers, shelving — if yes, get a list so you are not making a panic run the night before.</li><li><strong>What is your cancellation policy?</strong> Life happens. A 24- to 48-hour window is standard. Anything stricter should be explained.</li></ol><p>We answer all of these directly at 3 Sisters Services. Send us a note through the <a href=\"/booking\">booking form</a> or call and we will give you the straight answers.</p>',
+      },
+    ],
+    closingCta:
+      'Ready to talk numbers for your home? Send us a note through the <a href="/booking">booking form</a> or call Monday through Saturday, 8am to 6pm. We will give you an honest quote — no pressure, no upsell.',
+    faqs: [
+      {
+        question: 'Is it cheaper to hire a personal organizer hourly or by the project?',
+        answer:
+          'It depends on the scope. For a small job like one closet or a home office, hourly is usually the better deal. For a whole-home project, a flat project fee often works out cheaper because the organizer can plan the whole job efficiently. We are happy to give you both quotes and let you pick what fits — just ask when you fill out the <a href="/booking">booking form</a>.',
+        speakable: true,
+      },
+      {
+        question: 'Do personal organizers help you declutter or just organize what you already have?',
+        answer:
+          'A good organizer does both. We help you sort through what you own, decide what stays and what goes, then build systems for what remains. If you only want the organizing part — no emotional sorting — that is fine too. Tell us upfront, and we will focus on the setup work. See our <a href="/services/personal-organizing">personal organizing page</a> for what each session covers.',
+        speakable: true,
+      },
+      {
+        question: 'How many sessions does a typical home organizing project take?',
+        answer:
+          'A single room — like a kitchen or a primary closet — usually takes one to three sessions. A whole-home project can take anywhere from three to ten sessions depending on the size and condition of the home. Every project is different, which is why we do a walk-through or a video call first. Check our <a href="/faq">FAQ</a> for more on how we estimate timing.',
+        speakable: false,
+      },
+      {
+        question: 'Do I need to buy bins and containers before the organizer arrives?',
+        answer:
+          'Not unless we give you a list. We prefer to see the space first so we can recommend the right sizes — bins that are too big invite clutter, and bins that are too small never get used. Most clients buy supplies after the first sorting session once they know what they are keeping. We explain this in more detail on our <a href="/services/personal-organizing">services page</a>.',
+        speakable: false,
+      },
+    ],
+  },
+  es: {
+    title: '¿Cuánto cuesta un organizador personal? Guía directa',
+    description:
+      'Lo que cuesta la organización personal en Nueva York y California — tarifas fijas, precios por hora, precios por proyecto y las preguntas que debe hacer antes de reservar.',
+    leadParagraph:
+      'La pregunta más común que escuchamos también es la más difícil de responder con un solo número: ¿cuánto cuesta un organizador personal? La respuesta corta es que depende — de dónde viva, cuántas cosas tenga, si quiere ayuda para ordenar o sistemas completos, y si reserva una sesión individual o un proyecto de toda la casa. La respuesta honesta es lo que encontrará aquí: cómo se fijan los precios de organización, lo que normalmente recibe por cada modelo de precio, y las preguntas que debe hacer antes de contratar a alguien para que no haya sorpresas cuando llegue la factura.',
+    sections: [
+      {
+        heading: 'Tarifas por hora vs precios fijos por proyecto — qué esperar',
+        html: '<p>La mayoría de organizadores personales cobran de una de dos formas. Las tarifas <strong>por hora</strong> generalmente van de $75 a $200 por hora dependiendo de la experiencia, la ubicación, y si trabaja con un organizador o con un equipo pequeño. Los <strong>precios fijos por proyecto</strong> cubren un alcance definido — digamos, la cocina, el clóset principal y la oficina en casa — y se cotizan después de una visita.</p><p>Por hora tiene sentido cuando no está seguro de qué tan profundo es el proyecto o si quiere trabajar en sesiones cortas con el tiempo. Precio fijo tiene sentido cuando quiere un número fijo desde el inicio sin sorpresas. En 3 Sisters Services cotizamos ambas formas y le diremos cuál tiene más sentido para su situación cuando hable con nosotros a través del <a href=\"/booking\">formulario de reserva</a>.</p><p>De cualquier forma, un organizador serio le da la tarifa o el precio del proyecto por escrito antes de empezar. Si una empresa no le da un número hasta que esté parada en su casa, eso es una señal de alerta.</p>',
+      },
+      {
+        heading: 'Qué determina el precio final',
+        html: '<p>Varias cosas suben o bajan el precio. Estas son las principales:</p><ul><li><strong>Tamaño del espacio.</strong> El clóset de un estudio cuesta menos que una casa de tres habitaciones con garaje, sótano y despensa. La mayoría de cotizaciones empiezan con metros cuadrados o número de cuartos.</li><li><strong>Condición del espacio.</strong> Un clóset relativamente ordenado que necesita mejores sistemas es un trabajo diferente a un cuarto que no se ha tocado en años. Sea honesto sobre el estado del espacio cuando lo describa — ayuda al organizador a enviar el equipo y la cotización correcta.</li><li><strong>Suministros y sistemas.</strong> Algunos organizadores traen contenedores, divisores y estantes. Otros recomiendan productos para que usted compre. Pregunte antes para que no haya cargos sorpresa por materiales.</li><li><strong>Servicios adicionales.</strong> Viajes de donación (cargar y dejar bolsas en una organización benéfica local), retiro de basura y limpieza ligera después de la sesión de organización normalmente cuestan extra.</li></ul><p>Nuestra <a href=\"/faq\">página de FAQ</a> cubre algunos de estos en más detalle, y nos encantaría hablar de las variables para su hogar cuando nos contacte.</p>',
+      },
+      {
+        heading: 'Cómo afecta la ubicación la tarifa',
+        html: '<p>La geografía importa. Las tarifas de organización personal en Nueva York — Manhattan, Brooklyn, Queens — tienden a ser más altas que en el norte del estado de Nueva York o partes de California fuera de las áreas metropolitanas. Eso es en parte por el costo de hacer negocio (renta, estacionamiento, tiempo de viaje) y en parte por la demanda.</p><p>En Manhattan, las tarifas suelen estar en el rango más alto. En Brooklyn y Queens puede encontrar precios más del rango medio, especialmente de equipos pequeños que trabajan en un solo condado. En California, la distribución sigue una lógica similar: las áreas metropolitanas de San Francisco y Los Ángeles cuestan más, las áreas del interior y del norte cuestan menos.</p><p>Atendemos todas estas áreas y ajustamos los precios honestamente por ubicación. Si tiene curiosidad sobre cómo se ve su área, <a href=\"/services/personal-organizing\">visite nuestra página de organización personal</a> o llámenos para preguntar.</p>',
+      },
+      {
+        heading: 'Costos ocultos — lo que no está en la cotización',
+        html: '<p>Un buen organizador lista lo que está incluido y lo que no. Estas son las cosas que a veces cuestan extra:</p><ul><li><strong>Suministros y contenedores.</strong> A menos que la cotización diga "suministros incluidos", asuma que el costo de contenedores, divisores de estantes, organizadores de cajones y etiquetas es aparte. Pida una lista de lo que recomiendan para que pueda comprar exactamente lo que necesita — a veces más barato por su cuenta.</li><li><strong>Entrega de donaciones.</strong> Muchos organizadores embolsan donaciones por usted pero cobran una tarifa por llevarlas a una organización benéfica o tienda de segunda mano. Es razonable — toma tiempo y gasolina — pero sépalo de antemano.</li><li><strong>Retiro de basura.</strong> Similar a las donaciones. Si está sacando muebles viejos, artículos rotos o cosas destinadas a la basura, confirme si el organizador lo maneja o si necesita llamar a un servicio aparte.</li><li><strong>Tarifas de viaje.</strong> Algunas empresas cobran una tarifa fija de viaje fuera de su zona de servicio principal. Pregunte antes de reservar, y revise nuestra <a href=\"/faq\">FAQ</a> para ver cómo manejamos esto.</li></ul>',
+      },
+      {
+        heading: 'Las preguntas que debe hacer antes de contratar a alguien',
+        html: '<p>Cuando llame o llene un formulario de reserva, estas son las preguntas que ahorran tiempo a todos:</p><ol><li><strong>¿Cuál es su modelo de tarifa — por hora, fijo, o ambos?</strong> Si es por hora, ¿cuál es el tiempo mínimo de sesión? ¿Dos horas? ¿Cuatro? ¿Un día completo?</li><li><strong>¿Qué está incluido en esa tarifa?</strong> ¿Alguien para clasificar y ordenar? ¿Alguien para montar sistemas? ¿Alguien para acompañarlo a comprar contenedores?</li><li><strong>¿Viene solo o con equipo?</strong> Un equipo puede terminar más rápido pero también costar más por hora porque está pagando a varias personas.</li><li><strong>¿Necesito comprar algo antes de que llegue?</strong> Contenedores, ganchos, estantes — si sí, pida una lista para no estar comprando a las prisas la noche anterior.</li><li><strong>¿Cuál es su política de cancelación?</strong> La vida pasa. Una ventana de 24 a 48 horas es estándar. Cualquier cosa más estricta debe ser explicada.</li></ol><p>Respondemos todas estas directamente en 3 Sisters Services. Envíenos un mensaje a través del <a href=\"/booking\">formulario de reserva</a> o llámenos y le daremos respuestas directas.</p>',
+      },
+    ],
+    closingCta:
+      '¿Listo para hablar de números para su hogar? Envíenos un mensaje por el <a href="/booking">formulario de reserva</a> o llame de lunes a sábado, 8am a 6pm. Le daremos una cotización honesta — sin presión, sin ventas adicionales.',
+    faqs: [
+      {
+        question: '¿Es más barato contratar un organizador personal por hora o por proyecto?',
+        answer:
+          'Depende del alcance. Para un trabajo pequeño como un clóset o una oficina en casa, por hora suele ser mejor. Para un proyecto de toda la casa, un precio fijo por proyecto a menudo resulta más barato porque el organizador puede planear todo el trabajo eficientemente. Nosotros le damos ambos precios y usted escoge — solo pregunte al llenar el <a href="/booking">formulario de reserva</a>.',
+        speakable: true,
+      },
+      {
+        question: '¿Los organizadores personales ayudan a ordenar o solo organizan lo que ya tiene?',
+        answer:
+          'Un buen organizador hace ambas cosas. Le ayudamos a clasificar lo que tiene, decidir qué se queda y qué se va, y luego construir sistemas para lo que queda. Si solo quiere la parte de organización — sin la clasificación emocional — también está bien. Díganos y nos enfocamos en el montaje. Vea nuestra <a href="/services/personal-organizing">página de organización personal</a> para saber qué cubre cada sesión.',
+        speakable: true,
+      },
+      {
+        question: '¿Cuántas sesiones toma un proyecto típico de organización de toda la casa?',
+        answer:
+          'Un solo cuarto — como la cocina o el clóset principal — normalmente toma de una a tres sesiones. Un proyecto de toda la casa puede tomar de tres a diez sesiones dependiendo del tamaño y la condición del hogar. Cada proyecto es diferente, por eso hacemos una visita o videollamada primero. Revise nuestra <a href="/faq">FAQ</a> para más información sobre cómo estimamos los tiempos.',
+        speakable: false,
+      },
+      {
+        question: '¿Necesito comprar contenedores y organizadores antes de que llegue el organizador?',
+        answer:
+          'No, a menos que le demos una lista. Preferimos ver el espacio primero para recomendar los tamaños correctos — contenedores muy grandes invitan al desorden, y contenedores muy pequeños nunca se usan. La mayoría de clientes compran suministros después de la primera sesión de clasificación, una vez que saben lo que van a conservar. Explicamos esto en más detalle en nuestra <a href="/services/personal-organizing">página de servicios</a>.',
+        speakable: false,
+      },
+    ],
+  },
+},
+
+// ─────────────────────────────────────────────────────────────
+// POST 11 — Getting Ready for Personal Organizing
+// ─────────────────────────────────────────────────────────────
+{
+  slug: 'getting-ready-for-personal-organizing',
+  category: 'Organizing Tips',
+  serviceSlug: 'personal-organizing',
+  readMinutes: 5,
+  publishedDate: '2026-06-25',
+  modifiedDate: '2026-06-25',
+  cover: '/images/blog/post-11.jpg',
+  author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+  en: {
+    title: 'Getting Ready for a Personal Organizer — What to Do Before We Arrive',
+    description:
+      'A no-stress guide to preparing your home for a personal organizing session — what to do, what to skip, and how to make the most of your time together.',
+    leadParagraph:
+      'The biggest worry we hear before a first organizing session is: "I am too embarrassed for someone to see this." Stop right there. We have seen everything — rooms so full you could not open the door, kitchens with every counter buried, garages that became storage units years ago. Nothing you show us will surprise us, and we will not judge. What we need from you is not a pre-cleaned house. What we need is a little bit of prep so our time together is productive. Here is exactly what to do before we arrive and what you can leave for us.',
+    sections: [
+      {
+        heading: 'The night before — sort feelings from stuff',
+        html: '<p>The most productive thing you can do the night before an organizing session is not cleaning. It is thinking. Walk through each room or area you want us to work on and make a gut-level decision about three categories for the things you see: <strong>keep</strong>, <strong>donate or sell</strong>, and <strong>trash</strong>.</p><p>You do not need to move anything yet. Just look. The act of looking honestly — without pressure — does half the work before we ever walk in. If you spot a few things you already know you want to get rid of, put them by the door. That alone saves time and mental energy the next morning.</p>',
+      },
+      {
+        heading: 'What to have on hand — and what to skip buying',
+        html: '<p>Do not go out and buy bins before we arrive. Most people buy the wrong size, the wrong shape, or twice as many as they need. We prefer to assess the space first, then recommend exactly what works. If you already have bins, boxes, or baskets you are not using, set them aside in a corner so we can see what we have to work with.</p><p>What is helpful to have ready: a clear counter or table surface where we can sort; garbage bags (any kind); a box or two for donations; and a marker and sticky notes for labeling. That is it. We bring our own tools, gloves, and labeling supplies. If we need anything specific, we will let you know.</p><p>Not sure what supplies you already need? Check our <a href=\"/faq\">FAQ</a> for a quick overview of what most sessions require.</p>',
+      },
+      {
+        heading: 'The mindset shift — this is a collaboration, not a service',
+        html: '<p>Here is the honest truth: we cannot organize your home alone. We can sort, suggest, build systems, and haul away. But the decisions about what stays and what goes are yours. That is not a weakness — it is the whole point. A home that works for someone else will not work for you, and the only person who knows what you actually need is you.</p><p>Plan to be present during the session. Not hovering — we do not need you watching every move. But nearby enough that when we hold up a stack of old notebooks and ask "keep or toss?" you can decide quickly and move on. Clients who commit to making decisions as we go finish faster, spend less, and actually stay organized afterward. Clients who want us to "just handle it" end up with a pretty system that does not fit their real life.</p>',
+      },
+      {
+        heading: 'What we do during the session',
+        html: '<p>Every session is different, but here is the general flow:</p><ol><li><strong>Walk-through.</strong> Five to ten minutes. We look at the space, confirm the priority areas, and note any special items (family heirlooms, sensitive documents, things you are not ready to address).</li><li><strong>Sort.</strong> We pull everything out of the area and group it by category. Clothes with clothes. Papers with papers. Kitchen tools with kitchen tools. This is the messiest part and it is temporary.</li><li><strong>Decide.</strong> For each group, we help you decide what stays and what goes. We ask questions; you say yes or no. It moves fast if you let it.</li><li><strong>System.</strong> We set up the space with the storage solutions that fit what you kept. This is where it starts looking like a magazine photo — except it is built around your actual stuff.</li><li><strong>Cleanup and haul.</strong> We bag donations and trash, wipe down the surfaces we touched, and show you the final result. If you want us to handle the donation drop-off, we do that too.</li></ol><p>You can read more about what each organizing session covers on our <a href=\"/services/personal-organizing\">personal organizing page</a>.</p>',
+      },
+      {
+        heading: 'What to do after we leave',
+        html: '<p>The real test of an organizing session is not how it looks when we walk out the door. It is how it looks two weeks later. Here is what keeps a space organized after the organizer leaves:</p><ul><li><strong>Give everything a home.</strong> If something does not have a designated spot, it will end up on the counter or the floor. Use the first week after the session to notice what items you are leaving out and find them a proper place.</li><li><strong>One-in-one-out.</strong> When you buy something new, let go of something old. Works for clothes, kitchen gadgets, books, and kids&apos; toys.</li><li><strong>Five-minute tidy.</strong> Set a timer for five minutes before bed. Put things back where they belong. It stops piles from growing.</li><li><strong>Book a follow-up.</strong> Many clients do an initial deep organizing session to set everything up, then book a shorter maintenance session a month or two later to tweak what is not working. We can set that up when you book through the <a href=\"/booking\">booking form</a>.</li></ul>',
+      },
+    ],
+    closingCta:
+      'Ready to finally get your space organized? Send us a note through the <a href="/booking">booking form</a> or call Monday through Saturday. We will talk through what you need and set up a session that works for your schedule.',
+    faqs: [
+      {
+        question: 'Should I clean the room before the organizer arrives?',
+        answer:
+          'No. You do not need to clean anything. We are coming to organize, not to inspect. If surfaces are dusty or there is clutter on the floor, that is normal — that is why you called us. Spend your energy on deciding what you want to keep, not on making the place look presentable for us. See our <a href="/services/personal-organizing">services page</a> for what to expect during a session.',
+        speakable: true,
+      },
+      {
+        question: 'Do I need to be home during the organizing session?',
+        answer:
+          'Yes. You need to be present to make decisions about what stays and what goes. We cannot decide for you — the whole point is that the systems fit your life, not ours. You do not need to hover, but you should be nearby enough to answer quick yes-or-no questions. Learn more about what the process looks like on our <a href="/faq">FAQ page</a>.',
+        speakable: true,
+      },
+      {
+        question: 'What if I get overwhelmed during the session?',
+        answer:
+          'That happens. It is normal. Sorting through years of accumulated stuff can bring up feelings — regret, guilt, nostalgia, anxiety. We slow down when we see a client hitting that wall. We take a break, switch rooms, or talk through the specific item that is causing the block. There is no rush. If you want to know how we handle tough decisions during sessions, our <a href="/faq">FAQ</a> covers it.',
+        speakable: false,
+      },
+      {
+        question: 'Will you tell me to throw away things I am attached to?',
+        answer:
+          'No. We will never push you to get rid of something you want to keep. Our job is to help you build a home that works for the life you actually live — not to impose our taste or minimalism standards on you. If it matters to you, it stays. We will help you find a place for it that keeps the rest of the space functional. Read more about our approach on our <a href="/services/personal-organizing">personal organizing page</a>.',
+        speakable: false,
+      },
+    ],
+  },
+  es: {
+    title: 'Prepararse para un organizador personal — qué hacer antes de que lleguemos',
+    description:
+      'Guía sin estrés para preparar su casa para una sesión de organización personal — qué hacer, qué saltarse y cómo aprovechar al máximo su tiempo juntos.',
+    leadParagraph:
+      'La mayor preocupación que escuchamos antes de una primera sesión de organización es: "me da demasiada vergüenza que alguien vea esto." Pare ahí. Lo hemos visto todo — cuartos tan llenos que no se podía abrir la puerta, cocinas con cada mostrador enterrado, garajes que se convirtieron en bodegas hace años. Nada de lo que nos muestre nos sorprenderá, y no juzgaremos. Lo que necesitamos de usted no es una casa pre-limpia. Lo que necesitamos es un poco de preparación para que nuestro tiempo juntos sea productivo. Esto es exactamente lo que debe hacer antes de que lleguemos y lo que puede dejarnos a nosotros.',
+    sections: [
+      {
+        heading: 'La noche anterior — separe sentimientos de cosas',
+        html: '<p>Lo más productivo que puede hacer la noche anterior a una sesión de organización no es limpiar. Es pensar. Camine por cada cuarto o área donde quiera que trabajemos y tome una decisión instintiva sobre tres categorías para las cosas que ve: <strong>quédate</strong>, <strong>dona o vende</strong>, y <strong>basura</strong>.</p><p>No necesita mover nada todavía. Solo mire. El acto de mirar honestamente — sin presión — hace la mitad del trabajo antes de que entremos. Si ve algunas cosas que ya sabe que quiere sacar, póngalas cerca de la puerta. Eso solo ahorra tiempo y energía mental a la mañana siguiente.</p>',
+      },
+      {
+        heading: 'Qué tener a mano — y qué no comprar',
+        html: '<p>No salga a comprar contenedores antes de que lleguemos. La mayoría de la gente compra el tamaño equivocado, la forma equivocada, o el doble de lo que necesita. Preferimos evaluar el espacio primero, luego recomendar exactamente lo que funciona. Si ya tiene contenedores, cajas o cestas que no está usando, póngalos en una esquina para que veamos con qué contamos.</p><p>Lo que es útil tener listo: una mesada o mesa despejada para clasificar; bolsas de basura (cualquier tipo); una o dos cajas para donaciones; y un marcador y notas adhesivas para etiquetar. Eso es todo. Traemos nuestras propias herramientas, guantes y suministros de etiquetado. Si necesitamos algo específico, le avisaremos.</p><p>¿No está seguro de qué suministros necesita? Revise nuestra <a href=\"/faq\">FAQ</a> para un resumen rápido de lo que la mayoría de sesiones requieren.</p>',
+      },
+      {
+        heading: 'El cambio de mentalidad — esto es colaboración, no un servicio',
+        html: '<p>Aquí está la verdad honesta: no podemos organizar su casa solos. Podemos clasificar, sugerir, construir sistemas y llevar cosas. Pero las decisiones sobre qué se queda y qué se va son suyas. Eso no es una debilidad — es el punto completo. Una casa que funciona para otra persona no funcionará para usted, y la única persona que sabe lo que realmente necesita es usted.</p><p>Planee estar presente durante la sesión. No encima — no necesitamos que nos mire a cada paso. Pero lo suficientemente cerca para que cuando levantemos una pila de cuadernos viejos y preguntemos "¿se queda o se va?" pueda decidir rápido y seguir adelante. Los clientes que se comprometen a tomar decisiones mientras trabajamos terminan más rápido, gastan menos y realmente se mantienen organizados después. Los clientes que quieren que "solo lo manejemos" terminan con un sistema bonito que no se ajusta a su vida real.</p>',
+      },
+      {
+        heading: 'Qué hacemos durante la sesión',
+        html: '<p>Cada sesión es diferente, pero este es el flujo general:</p><ol><li><strong>Recorrido.</strong> Cinco a diez minutos. Miramos el espacio, confirmamos las áreas prioritarias y notamos artículos especiales (herencias familiares, documentos sensibles, cosas que no está listo para abordar).</li><li><strong>Clasificar.</strong> Sacamos todo del área y lo agrupamos por categoría. Ropa con ropa. Papeles con papeles. Utensilios de cocina con utensilios de cocina. Esta es la parte más desordenada y es temporal.</li><li><strong>Decidir.</strong> Para cada grupo, le ayudamos a decidir qué se queda y qué se va. Hacemos preguntas; usted dice sí o no. Se mueve rápido si se deja.</li><li><strong>Sistema.</strong> Configuramos el espacio con las soluciones de almacenamiento que se ajustan a lo que guardó. Aquí es donde empieza a verse como una foto de revista — excepto que está construido alrededor de sus cosas reales.</li><li><strong>Limpieza y retiro.</strong> Embolsamos donaciones y basura, limpiamos las superficies que tocamos, y le mostramos el resultado final. Si quiere que nosotros llevemos las donaciones, también lo hacemos.</li></ol><p>Puede leer más sobre lo que cubre cada sesión de organización en nuestra <a href=\"/services/personal-organizing\">página de organización personal</a>.</p>',
+      },
+      {
+        heading: 'Qué hacer después de que nos vayamos',
+        html: '<p>La verdadera prueba de una sesión de organización no es cómo se ve cuando salimos por la puerta. Es cómo se ve dos semanas después. Esto es lo que mantiene un espacio organizado después de que el organizador se va:</p><ul><li><strong>Déle un hogar a cada cosa.</strong> Si algo no tiene un lugar designado, terminará en la mesada o el piso. Use la primera semana después de la sesión para notar qué artículos está dejando fuera y encontrarles un lugar adecuado.</li><li><strong>Uno-que-entra-uno-que-sale.</strong> Cuando compre algo nuevo, suelte algo viejo. Funciona para ropa, gadgets de cocina, libros y juguetes de niños.</li><li><strong>Orden de cinco minutos.</strong> Ponga un cronómetro de cinco minutos antes de dormir. Devuelva las cosas a donde pertenecen. Evita que se acumulen montones.</li><li><strong>Reserve un seguimiento.</strong> Muchos clientes hacen una sesión inicial profunda de organización para configurar todo, luego reservan una sesión de mantenimiento más corta uno o dos meses después para ajustar lo que no funciona. Podemos configurar eso cuando reserve a través del <a href=\"/booking\">formulario de reserva</a>.</li></ul>',
+      },
+    ],
+    closingCta:
+      '¿Listo para organizar su espacio de una vez? Envíenos un mensaje por el <a href="/booking">formulario de reserva</a> o llame de lunes a sábado. Hablaremos de lo que necesita y programaremos una sesión que funcione con su horario.',
+    faqs: [
+      {
+        question: '¿Debo limpiar el cuarto antes de que llegue el organizador?',
+        answer:
+          'No. No necesita limpiar nada. Venimos a organizar, no a inspeccionar. Si las superficies están polvorientas o hay desorden en el piso, eso es normal — para eso nos llamó. Use su energía para decidir qué quiere conservar, no para hacer que el lugar se vea presentable para nosotros. Vea nuestra <a href="/services/personal-organizing">página de servicios</a> para saber qué esperar durante una sesión.',
+        speakable: true,
+      },
+      {
+        question: '¿Necesito estar en casa durante la sesión de organización?',
+        answer:
+          'Sí. Necesita estar presente para tomar decisiones sobre qué se queda y qué se va. No podemos decidir por usted — el punto es que los sistemas se ajusten a su vida, no a la nuestra. No necesita estar encima, pero sí lo suficientemente cerca para responder preguntas rápidas de sí o no. Aprenda más sobre cómo se ve el proceso en nuestra <a href="/faq">página de FAQ</a>.',
+        speakable: true,
+      },
+      {
+        question: '¿Qué pasa si me abrumo durante la sesión?',
+        answer:
+          'Pasa. Es normal. Clasificar años de cosas acumuladas puede traer sentimientos — arrepentimiento, culpa, nostalgia, ansiedad. Disminuimos la velocidad cuando vemos a un cliente llegando a ese punto. Tomamos un descanso, cambiamos de cuarto, o hablamos del objeto específico que está causando el bloqueo. No hay prisa. Si quiere saber cómo manejamos decisiones difíciles durante las sesiones, nuestra <a href="/faq">FAQ</a> lo cubre.',
+        speakable: false,
+      },
+      {
+        question: '¿Me van a decir que tire cosas a las que les tengo cariño?',
+        answer:
+          'No. Nunca lo presionaremos para que se deshaga de algo que quiere conservar. Nuestro trabajo es ayudarle a construir un hogar que funcione para la vida que realmente vive — no imponerle nuestro gusto o estándares de minimalismo. Si es importante para usted, se queda. Le ayudaremos a encontrarle un lugar que mantenga el resto del espacio funcional. Lea más sobre nuestro enfoque en nuestra <a href="/services/personal-organizing">página de organización personal</a>.',
+        speakable: false,
+      },
+    ],
+  },
+},
+
+// ─────────────────────────────────────────────────────────────
+// POST 12 — Hiring a Personal Organizer
+// ─────────────────────────────────────────────────────────────
+{
+  slug: 'hiring-personal-organizer',
+  category: 'Hiring Guide',
+  serviceSlug: 'personal-organizing',
+  readMinutes: 7,
+  publishedDate: '2026-06-25',
+  modifiedDate: '2026-06-25',
+  cover: '/images/blog/post-12.jpg',
+  author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+  en: {
+    title: 'Hiring a Personal Organizer: What to Look For and What to Avoid',
+    description:
+      'A practical guide to finding the right personal organizer in New York or California — credentials, red flags, and how to tell if someone actually knows what they are doing.',
+    leadParagraph:
+      'Hiring a personal organizer is different from hiring almost any other home service. There is no state license for organizing, no standard certification, and no regulator checking backgrounds. Anyone can call themselves a professional organizer. That does not mean good organizers are hard to find — it just means you need to ask the right questions before you hand over your keys and your closet. Here is what we tell friends and family who ask us how to find someone who actually delivers.',
+    sections: [
+      {
+        heading: 'Credentials that matter — and the ones that do not',
+        html: '<p>There is no official license for personal organizers, but some credentials actually mean something:</p><ul><li><strong>Member of NAPO</strong> (National Association of Productivity and Organizing Professionals). This means the organizer has access to professional standards, continuing education, and a code of ethics. Not required, but it signals they take the work seriously.</li><li><strong>Insurance.</strong> Personal organizing involves moving heavy items, climbing ladders, and working in someone else&apos;s home. If the organizer drops a box on your floor or a shelf falls, who pays? A general liability policy covers accidental damage. Ask for a certificate of insurance (COI). If they cannot produce one, that is a problem.</li><li><strong>Background checks.</strong> Every person entering your home should have a current background check. Ask who runs them and how often they are renewed.</li></ul><p>At 3 Sisters Services, we carry general liability insurance, every team member has a current background check, and we share our COI on request. You can see all of this on our <a href=\"/services/personal-organizing\">personal organizing page</a> too.</p>',
+      },
+      {
+        heading: 'Red flags that should send you elsewhere',
+        html: '<p>These are the signs that the person on the other end of the phone is not who you want in your home:</p><ol><li><strong>No insurance.</strong> If they are not insured, one accidental scratch on a hardwood floor becomes your problem, not theirs.</li><li><strong>No walk-through before the quote.</strong> A serious organizer needs to see the space — in person or by video — to give you an accurate price. Anyone who quotes blind over text without seeing what they are walking into is guessing, and you will pay for that guess later.</li><li><strong>They push a specific product line.</strong> Some organizers are essentially salespeople for a container brand. A real organizer recommends what fits your space and your budget — not what pays them a commission.</li><li><strong>Vague process.</strong> If you ask "what happens during a session?" and they cannot describe a clear flow (walk-through, sort, decide, system, cleanup), they are making it up as they go.</li><li><strong>No cancellation policy or a punishing one.</strong> A 24- to 48-hour window is standard and fair. Anything shorter — or no policy at all — means you could be charged for a session you had to cancel last-minute due to something real.</li></ol><p>If you want to check our credentials and policies ahead of time, our <a href=\"/faq\">FAQ page</a> has the details.</p>',
+      },
+      {
+        heading: 'Specialization — does it matter?',
+        html: '<p>Yes, and here is why: organizing a pantry is not the same as organizing a home office, which is not the same as organizing for someone with ADHD, which is not the same as estate downsizing after a parent passes. Experience in the specific kind of organizing you need makes a huge difference in how smoothly the session goes.</p><p>When you talk to a potential organizer, ask: "What kind of organizing do you do most?" Listen for specifics. A generalist can handle most homes fine. But if you need help with a specific situation — moving a parent into assisted living, setting up systems for a neurodivergent family member, or turning a chaos-room into a functional home gym — look for someone who has done that exact thing before.</p><p>At 3 Sisters Services, we handle most home organizing jobs. If we are not the right fit for something specific, we will tell you straight and point you to someone who is. Check our <a href=\"/services/personal-organizing\">services page</a> for the types of organizing we do best.</p>',
+      },
+      {
+        heading: 'How to vet an organizer before you book',
+        html: '<p>You do not need to run a background yourself — but you should ask a few things before anyone steps into your home:</p><ul><li><strong>Ask for two references.</strong> Specifically, ask for clients who had a similar job to yours. A kitchen organizing reference is different from a whole-home reference. Call them. Ask how the process went and whether the systems held up after a month.</li><li><strong>Ask about confidentiality.</strong> Organizers see your mail, your bills, your personal papers. Ask how they handle sensitive information. A good organizer has a clear answer (we bag it and leave it for you; we do not read anything; we keep client information private).</li><li><strong>Ask about their cancellation and rescheduling policy.</strong> This is one of those things that tells you how they run their business. Flexible but fair is the right answer.</li><li><strong>Ask if they work alone or with a team.</strong> A team finishes faster. But you also need to know who is coming and whether they have all been background-checked.</li></ul><p>We answer all of these questions openly. You can start by reading our <a href=\"/faq\">FAQ</a>, or call and ask us directly.</p>',
+      },
+      {
+        heading: 'Making the decision — trusting your gut',
+        html: '<p>After you check the credentials, look for red flags, and ask the right questions, there is one more thing: do you feel comfortable with this person? Organizing is personal. Someone is going to touch your clothes, your kitchen, your kids&apos; artwork, your piles of mail. If the organizer makes you feel rushed, judged, or like you need to apologize for your home before they even start, that is not going to end well no matter how good their credentials are.</p><p>A good organizer makes you feel like you are on the same team. They ask questions. They listen. They do not make assumptions about what you need. And when they leave, the space works for you — not for their portfolio photos.</p><p>When you are ready, we would love to talk. Reach out through the <a href=\"/booking\">booking form</a> or call us Monday through Saturday. No pressure, no sales pitch — just a conversation about what you need and whether we are the right fit.</p>',
+      },
+    ],
+    closingCta:
+      'If this sounds like the kind of organizing team you want in your home, reach out through the <a href="/booking">booking form</a> or give us a call Monday through Saturday, 8am to 6pm. We will talk through your situation and give you an honest take on whether we are the right fit.',
+    faqs: [
+      {
+        question: 'Do personal organizers need to be licensed?',
+        answer:
+          'No. There is no government license for personal organizing. What matters instead is insurance (general liability), background checks for every team member, and membership in professional organizations like NAPO if they choose to pursue it. Always ask for proof of insurance before booking anyone. Read more about what to look for on our <a href="/services/personal-organizing">services page</a>.',
+        speakable: true,
+      },
+      {
+        question: 'How do I know if a personal organizer is experienced enough?',
+        answer:
+          'Ask two things: how many years they have been organizing and whether they have done a project like yours before. Then ask for two references from similar jobs and call them. Experience shows in the details — a confident process, clear communication, and systems that actually work after the organizer leaves. Our <a href="/faq">FAQ page</a> has more on what to ask.',
+        speakable: true,
+      },
+      {
+        question: 'Is it normal for an organizer to ask personal questions before the session?',
+        answer:
+          'Yes — and a good sign. The best organizers ask about your daily routines, what frustrates you about the space, whether anyone in your home has specific needs (like ADHD, mobility issues, or allergies). They are not being nosy. They are trying to build systems that work for your actual life. If an organizer never asks and just shows up with bins, that is a red flag. Learn more about our process on the <a href="/booking">booking page</a>.',
+        speakable: false,
+      },
+      {
+        question: 'What if I want to fire my organizer after the first session?',
+        answer:
+          'It happens, and you should never feel stuck. A reputable organizer will honor their cancellation policy — usually a 24-hour notice for future sessions — and you walk away owing only for the session you completed. Bad fits happen. The right organizer will understand and may even recommend someone else. Check our <a href="/faq">FAQ</a> for our cancellation policy details.',
+        speakable: false,
+      },
+    ],
+  },
+  es: {
+    title: 'Cómo contratar un organizador personal: qué buscar y qué evitar',
+    description:
+      'Guía práctica para encontrar al organizador personal adecuado en Nueva York o California — credenciales, señales de alerta y cómo saber si alguien realmente sabe lo que hace.',
+    leadParagraph:
+      'Contratar un organizador personal es diferente a contratar casi cualquier otro servicio para el hogar. No hay licencia estatal para organización, ninguna certificación estándar, ni regulador que revise antecedentes. Cualquiera puede llamarse organizador profesional. Eso no significa que sea difícil encontrar buenos organizadores — solo significa que debe hacer las preguntas correctas antes de entregar sus llaves y su clóset. Esto es lo que les decimos a amigos y familiares que nos preguntan cómo encontrar a alguien que realmente cumpla.',
+    sections: [
+      {
+        heading: 'Credenciales que importan — y las que no',
+        html: '<p>No hay licencia oficial para organizadores personales, pero algunas credenciales realmente significan algo:</p><ul><li><strong>Miembro de NAPO</strong> (National Association of Productivity and Organizing Professionals). Significa que el organizador tiene acceso a estándares profesionales, educación continua y un código de ética. No es obligatorio, pero señala que se toma el trabajo en serio.</li><li><strong>Seguro.</strong> La organización personal implica mover objetos pesados, subir escaleras y trabajar en casa de otra persona. Si el organizador deja caer una caja en su piso o un estante se cae, ¿quién paga? Una póliza de responsabilidad general cubre daños accidentales. Pida un certificado de seguro (COI). Si no pueden darle uno, eso es un problema.</li><li><strong>Verificación de antecedentes.</strong> Toda persona que entre a su hogar debe tener una verificación de antecedentes actualizada. Pregunte quién las hace y con qué frecuencia se renuevan.</li></ul><p>En 3 Sisters Services, tenemos seguro de responsabilidad general, cada miembro del equipo tiene verificación de antecedentes actualizada, y compartimos nuestro COI a pedido. Puede ver todo esto en nuestra <a href=\"/services/personal-organizing\">página de organización personal</a> también.</p>',
+      },
+      {
+        heading: 'Señales de alerta que deberían mandarlo a otro lado',
+        html: '<p>Estas son las señales de que la persona al otro lado del teléfono no es quien quiere en su casa:</p><ol><li><strong>Sin seguro.</strong> Si no están asegurados, un rayón accidental en un piso de madera se vuelve su problema, no de ellos.</li><li><strong>Sin visita antes de la cotización.</strong> Un organizador serio necesita ver el espacio — en persona o por video — para darle un precio preciso. Cualquiera que cotice a ciegas por mensaje de texto sin ver lo que va a encontrar está adivinando, y usted pagará por esa adivinanza después.</li><li><strong>Empujan una línea de productos específica.</strong> Algunos organizadores son esencialmente vendedores de una marca de contenedores. Un organizador real recomienda lo que se ajusta a su espacio y su presupuesto — no lo que les paga una comisión.</li><li><strong>Proceso vago.</strong> Si pregunta "¿qué pasa durante una sesión?" y no pueden describir un flujo claro (recorrido, clasificar, decidir, sistema, limpieza), están improvisando sobre la marcha.</li><li><strong>Sin política de cancelación o una que castiga.</strong> Una ventana de 24 a 48 horas es estándar y justa. Cualquier cosa más corta — o ninguna política — significa que podrían cobrarle una sesión que tuvo que cancelar a última hora por algo real.</li></ol><p>Si quiere revisar nuestras credenciales y políticas de antemano, nuestra <a href=\"/faq\">página de FAQ</a> tiene los detalles.</p>',
+      },
+      {
+        heading: 'Especialización — ¿importa?',
+        html: '<p>Sí, y por esto: organizar una despensa no es lo mismo que organizar una oficina en casa, que no es lo mismo que organizar para alguien con TDAH, que no es lo mismo que reducir el patrimonio después de que un padre fallece. La experiencia en el tipo específico de organización que necesita hace una gran diferencia en lo bien que va la sesión.</p><p>Cuando hable con un posible organizador, pregunte: "¿Qué tipo de organización hace más?" Escuche detalles. Un generalista puede manejar la mayoría de hogares bien. Pero si necesita ayuda con una situación específica — mudar a un padre a un asilo, configurar sistemas para un familiar neurodivergente, o convertir un cuarto de caos en un gimnasio funcional — busque a alguien que haya hecho exactamente eso antes.</p><p>En 3 Sisters Services, manejamos la mayoría de trabajos de organización del hogar. Si no somos los adecuados para algo específico, se lo diremos directamente y le recomendaremos a alguien que lo sea. Revise nuestra <a href=\"/services/personal-organizing\">página de servicios</a> para los tipos de organización que mejor hacemos.</p>',
+      },
+      {
+        heading: 'Cómo evaluar a un organizador antes de reservar',
+        html: '<p>No necesita hacer una investigación por su cuenta — pero debe preguntar algunas cosas antes de que alguien entre a su hogar:</p><ul><li><strong>Pida dos referencias.</strong> Específicamente, pida clientes que tuvieron un trabajo similar al suyo. Una referencia de organización de cocina es diferente a una de toda la casa. Llámelos. Pregunte cómo fue el proceso y si los sistemas se mantuvieron después de un mes.</li><li><strong>Pregunte sobre confidencialidad.</strong> Los organizadores ven su correo, sus facturas, sus papeles personales. Pregunte cómo manejan información sensible. Un buen organizador tiene una respuesta clara (lo embolsamos y se lo dejamos; no leemos nada; mantenemos la información del cliente privada).</li><li><strong>Pregunte sobre su política de cancelación y reprogramación.</strong> Esta es una de esas cosas que le dice cómo manejan su negocio. Flexible pero justa es la respuesta correcta.</li><li><strong>Pregunte si trabajan solos o en equipo.</strong> Un equipo termina más rápido. Pero también necesita saber quién viene y si todos tienen verificación de antecedentes.</li></ul><p>Respondemos todas estas preguntas abiertamente. Puede empezar leyendo nuestra <a href=\"/faq\">FAQ</a>, o llámenos y pregunte directamente.</p>',
+      },
+      {
+        heading: 'Tomar la decisión — confíe en su instinto',
+        html: '<p>Después de revisar las credenciales, buscar señales de alerta y hacer las preguntas correctas, queda una cosa más: ¿se siente cómodo con esta persona? La organización es personal. Alguien va a tocar su ropa, su cocina, los dibujos de sus hijos, sus pilas de correo. Si el organizador le hace sentir apurado, juzgado, o como si tuviera que disculparse por su hogar antes de empezar, eso no va a terminar bien sin importar qué tan buenas sean sus credenciales.</p><p>Un buen organizador le hace sentir que están en el mismo equipo. Hacen preguntas. Escuchan. No hacen suposiciones sobre lo que necesita. Y cuando se van, el espacio funciona para usted — no para sus fotos de portafolio.</p><p>Cuando esté listo, nos encantaría hablar. Contáctenos a través del <a href=\"/booking\">formulario de reserva</a> o llámenos de lunes a sábado. Sin presión, sin discurso de ventas — solo una conversación sobre lo que necesita y si somos la opción correcta.</p>',
+      },
+    ],
+    closingCta:
+      'Si esto suena como el equipo de organización que quiere en su hogar, contáctenos a través del <a href="/booking">formulario de reserva</a> o llámenos de lunes a sábado, 8am a 6pm. Hablaremos de su situación y le daremos una opinión honesta sobre si somos la opción correcta.',
+    faqs: [
+      {
+        question: '¿Los organizadores personales necesitan licencia?',
+        answer:
+          'No. No hay licencia gubernamental para organización personal. Lo que importa en su lugar es el seguro (responsabilidad general), verificación de antecedentes para cada miembro del equipo, y membresía en organizaciones profesionales como NAPO si deciden obtenerla. Siempre pida prueba de seguro antes de reservar a alguien. Lea más sobre qué buscar en nuestra <a href="/services/personal-organizing">página de servicios</a>.',
+        speakable: true,
+      },
+      {
+        question: '¿Cómo sé si un organizador personal tiene suficiente experiencia?',
+        answer:
+          'Pregunte dos cosas: cuántos años llevan organizando y si han hecho un proyecto como el suyo antes. Luego pida dos referencias de trabajos similares y llámelos. La experiencia se nota en los detalles — un proceso seguro, comunicación clara y sistemas que realmente funcionan después de que el organizador se va. Nuestra <a href="/faq">página de FAQ</a> tiene más sobre qué preguntar.',
+        speakable: true,
+      },
+      {
+        question: '¿Es normal que un organizador haga preguntas personales antes de la sesión?',
+        answer:
+          'Sí — y es una buena señal. Los mejores organizadores preguntan sobre sus rutinas diarias, qué le frustra del espacio, si alguien en su hogar tiene necesidades específicas (como TDAH, problemas de movilidad o alergias). No están siendo metiches. Están tratando de construir sistemas que funcionen para su vida real. Si un organizador nunca pregunta y solo llega con contenedores, eso es una señal de alerta. Conozca más sobre nuestro proceso en la <a href="/booking">página de reserva</a>.',
+        speakable: false,
+      },
+      {
+        question: '¿Qué pasa si quiero despedir a mi organizador después de la primera sesión?',
+        answer:
+          'Pasa, y nunca debe sentirse atrapado. Un organizador serio respetará su política de cancelación — generalmente un aviso de 24 horas para sesiones futuras — y usted solo paga por la sesión que completó. Las malas combinaciones pasan. El organizador correcto lo entenderá y puede incluso recomendar a otra persona. Revise nuestra <a href=\"/faq\">FAQ</a> para los detalles de nuestra política de cancelación.',
+        speakable: false,
+      },
+    ],
+  },
+},

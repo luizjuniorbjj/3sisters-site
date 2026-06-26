@@ -12,6 +12,8 @@ import { Badge } from '@/components/ui/Badge';
 import { Button } from '@/components/ui/Button';
 import { CTASection } from '@/components/sections/CTASection';
 import { slugify } from '@/lib/slugify';
+import Link from 'next/link';
+import { getPostsByService } from '@/data/blog-posts';
 
 export function generateStaticParams() {
   return SERVICE_CITY_PAGES.map((p) => ({ slug: p.citySlug, service: p.serviceSlug }));
@@ -197,6 +199,41 @@ export default function ServiceCityPageRoute({
           </div>
         </div>
       </section>
+
+      {/* Related Articles (blog mesh) */}
+      {(() => {
+        const relatedPosts = getPostsByService(sc.serviceSlug);
+        if (relatedPosts.length === 0) return null;
+        return (
+          <section className="py-16 px-4 sm:px-6 lg:px-8 bg-slate-50">
+            <div className="max-w-4xl mx-auto">
+              <h2 className="font-outfit font-bold text-3xl text-slate-900 mb-8 text-center">
+                Related articles
+              </h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                {relatedPosts.slice(0, 6).map((post) => (
+                  <Link
+                    key={post.slug}
+                    href={`/blog/${post.slug}`}
+                    className="group bg-white rounded-2xl border border-slate-200 p-6 hover:border-blue-600 hover:shadow-sm transition"
+                  >
+                    <p className="text-xs text-blue-600 uppercase tracking-wide mb-2">{post.category}</p>
+                    <h3 className="font-outfit font-semibold text-lg text-slate-900 mb-2 group-hover:text-blue-600 transition">
+                      {post.en.title}
+                    </h3>
+                    <p className="text-sm text-slate-500">{post.en.description.slice(0, 120)}...</p>
+                  </Link>
+                ))}
+              </div>
+              <div className="text-center mt-8">
+                <Link href="/blog" className="text-blue-600 hover:text-blue-700 font-medium text-sm">
+                  View all articles →
+                </Link>
+              </div>
+            </div>
+          </section>
+        );
+      })()}
 
       {/* CTA */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 bg-slate-50">

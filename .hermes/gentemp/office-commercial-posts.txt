@@ -1,0 +1,385 @@
+/**
+ * ─────────────────────────────────────────────────────────────
+ * POST 4 — Office & Commercial Cleaning Cost Guide
+ * ─────────────────────────────────────────────────────────────
+ */
+{
+    slug: 'office-commercial-cleaning-cost-guide',
+    category: 'Pricing Guide',
+    serviceSlug: 'office-commercial-cleaning',
+    readMinutes: 6,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-7.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'How Much Does Office & Commercial Cleaning Cost? A Practical Guide',
+      description:
+        'A no-nonsense breakdown of what drives commercial cleaning pricing in New York and California — square footage, frequency, add-ons, and how to get a real quote without the runaround.',
+      leadParagraph:
+        'Office cleaning pricing is simpler than most companies make it sound. You pay for square footage, frequency, and the specific work your space needs — not a mystery fee structure designed to hide add-ons until the bill arrives. We have been cleaning offices in New York and California since 2019, and we believe pricing should be transparent enough that you can compare options without a spreadsheet. This guide covers what actually affects the cost, what is usually included, and how to get an honest number for your space.',
+      sections: [
+        {
+          heading: 'What determines the cost of office cleaning',
+          html: '<p>The price tag for commercial cleaning comes down to a handful of honest variables. Here is what we look at when we quote an office:</p><ul><li><strong>Square footage.</strong> The single biggest factor. A 1,000-square-foot office takes a different amount of time than a 5,000-square-foot one, and that time is the core of the cost.</li><li><strong>Number of restrooms.</strong> Bathrooms take the most time per square foot in any commercial space. More restrooms means more labor, and the pricing reflects that.</li><li><strong>Frequency.</strong> Daily or weekly visits cost less per visit than bi-weekly or one-time cleanings, because the work stays lighter when it never piles up.</li><li><strong>Industry type.</strong> A dental office, a law firm, and a coworking space each have different cleaning needs. Medical suites require extra disinfection. Coworking spaces see higher traffic. We adjust the plan to the actual use of the space.</li><li><strong>Add-ons.</strong> Deep floor stripping and waxing, window washing, and interior fridge or cabinet cleaning are separate from the standard visit and quoted individually.</li></ul><p>No two offices are exactly the same, which is why we quote each one individually. Contact us through the <a href="/booking">booking form</a> and we will give you a clear number for yours — no obligations and no wait.</p>',
+        },
+        {
+          heading: 'How frequency changes the price per visit',
+          html: '<p>The math is straightforward: the more often we clean, the less each visit costs. Here is how it typically works:</p><ul><li><strong>Daily cleaning.</strong> Lowest per-visit cost. Each shift is lighter because the space never goes more than 24 hours between cleanings. Best for high-traffic spaces like medical offices, retail stores, or coworking floors.</li><li><strong>Weekly cleaning.</strong> The most common choice for private offices and small professional practices. One thorough visit per week keeps the space presentable for clients and comfortable for the team.</li><li><strong>Bi-weekly cleaning.</strong> A good option for low-traffic offices, storage spaces, or satellite locations that see minimal daily use. The per-visit cost is higher than weekly because more buildup accumulates between visits.</li><li><strong>One-time or deep clean.</strong> The highest per-visit cost because it is a full reset — everything from baseboards to vents. Often used for move-ins, post-renovation, or a fresh start before a recurring schedule begins.</li></ul><p>Pricing varies based on your space and schedule — use the <a href="/faq">FAQ page</a> for common questions, or reach out through <a href="/contact">our contact form</a> for a quote tailored to your office.</p>',
+        },
+        {
+          heading: 'What is included in a standard visit — and what is extra',
+          html: '<p>A standard commercial cleaning visit from 3 Sisters covers everything your office needs to stay consistently fresh. Every visit includes:</p><ul><li>Dusting desks, monitors, keyboards, and phones</li><li>Disinfecting shared equipment and high-touch surfaces</li><li>Vacuuming all carpeted areas and cleaning hard floors</li><li>Emptying trash cans and recycling bins, with new liners</li><li>Sanitizing restrooms — toilets, sinks, counters, mirrors</li><li>Refilling soap, paper towels, and hygiene supplies</li><li>Cleaning the breakroom or kitchen — countertops, microwave, sink</li><li>Wiping down door handles and light switches</li></ul><p>Services that fall outside the standard visit and are quoted separately include: interior window cleaning, deep carpet shampooing, floor stripping and waxing, organizing storage rooms, and cleaning inside refrigerators or cabinets. If you are not sure whether something is included, just ask — we keep it simple. See the full list on our <a href="/services/office-commercial-cleaning">Office &amp; Commercial Cleaning page</a>.</p>',
+        },
+        {
+          heading: 'Why commercial cleaning costs differently than residential',
+          html: '<p>Some business owners are surprised that commercial cleaning does not cost the same as residential cleaning for a similar square footage. There are good reasons:</p><ul><li><strong>Restrooms.</strong> A home has one or two bathrooms. An office often has three or more — and they see far more traffic between visits.</li><li><strong>Higher traffic surfaces.</strong> Door handles, light switches, elevator buttons, and shared equipment in an office are touched by dozens or hundreds of people per week. The cleaning standard has to match that traffic.</li><li><strong>After-hours scheduling.</strong> Most commercial cleaning happens when the office is empty — early mornings, late evenings, or weekends. That scheduling flexibility is built into the pricing.</li><li><strong>Consistency requirements.</strong> A recurring commercial client expects the same standard every visit, not a best-effort clean. That consistency requires a dedicated team that knows the space.</li></ul><p>If you are comparing commercial cleaning quotes, make sure you are comparing apples to apples — the same frequency, the same inclusions, and the same scheduling window. That is the only fair way to evaluate cost. We are happy to walk through any quote on a <a href="/contact">call or contact form submission</a>.</p>',
+        },
+        {
+          heading: 'How to get an honest quote — and what it should include',
+          html: '<p>A trustworthy commercial cleaning quote tells you three things upfront: what is included, what costs extra, and how billing works. Here is what to expect from us, and what you should demand from any company:</p><ol><li><strong>An in-person or video walk-through,</strong> or at minimum a detailed questionnaire about your square footage, layout, restroom count, and industry. Anyone quoting you a flat number without asking these questions is guessing, not quoting.</li><li><strong>A line-item breakdown.</strong> The base visit price, the frequency discount (if any), and the cost of any add-ons. No buried fees.</li><li><strong>Clear payment terms.</strong> We hold your card on file but only charge after the cleaning is done and you are satisfied. No pre-payment, no long-term contract.</li><li><strong>A simple way to adjust.</strong> If your business grows or your needs change, you adjust the schedule through a call or your client portal — no penalty, no fine print.</li></ol><p>Ready to see what your office would cost? Send your details through <a href="/booking">our booking form</a> and we will get back to you the same business day with a real quote for your space.</p>',
+        },
+      ],
+      closingCta:
+        'Get a clear, honest quote for your office or commercial space — no gimmicks, no hidden fees. Fill out the <a href="/booking">booking form</a> or call <a href="tel:+165****7171">(657) 737-7171</a> Monday through Saturday. We will walk through your space and give you a real number the same day.',
+      faqs: [
+        {
+          question: 'How much does commercial cleaning cost per square foot?',
+          answer:
+            'Commercial cleaning rates typically fall in a range based on square footage, restroom count, and frequency, but we do not publish a generic per-square-foot number because every office is different. A medical suite with three restrooms costs differently than a law office with one. Contact us through the <a href="/booking">booking form</a> and we will quote your exact space — the same business day, no obligation.',
+          speakable: false,
+        },
+        {
+          question: 'Is there a minimum commitment or long-term contract?',
+          answer:
+            'No. We do not lock you into a long-term contract. You can adjust your schedule or pause service with a quick call, and your card is only charged after each cleaning is complete. See our <a href="/faq">FAQ page</a> for more on how our billing works.',
+          speakable: true,
+        },
+        {
+          question: 'Do you charge extra for after-hours or weekend cleaning?',
+          answer:
+            'We schedule most commercial cleaning after hours, early mornings, or on weekends as part of the standard quote — we work around your business hours, not the other way around. If you need a very early morning slot or a specific weekend window, let us know when you request the quote and we will include it. Learn more on our <a href="/services/office-commercial-cleaning">Office &amp; Commercial Cleaning page</a>.',
+          speakable: true,
+        },
+        {
+          question: 'How quickly can I get a quote for my office?',
+          answer:
+            'Same business day in most cases. Send us your details through the <a href="/booking">booking form</a> with your square footage, location, and how often you want cleaning, and we will get back to you with a clear number before the end of the day.',
+          speakable: false,
+        },
+      ],
+    },
+    es: {
+      title: '¿Cuánto cuesta la limpieza de oficinas y comercios? Guía práctica',
+      description:
+        'Desglose directo de lo que determina el precio de la limpieza comercial en Nueva York y California — metros cuadrados, frecuencia, extras y cómo obtener una cotización real sin vueltas.',
+      leadParagraph:
+        'El precio de la limpieza de oficinas es más simple de lo que la mayoría de empresas hacen parecer. Se paga por metros cuadrados, frecuencia y el trabajo específico que su espacio necesita — no una estructura de tarifas misteriosa diseñada para ocultar extras hasta que llegue la factura. Limpiamos oficinas en Nueva York y California desde 2019 y creemos que los precios deben ser lo suficientemente transparentes para que pueda comparar opciones sin una hoja de cálculo. Esta guía cubre lo que realmente afecta el costo, qué suele estar incluido y cómo obtener un número honesto para su espacio.',
+      sections: [
+        {
+          heading: 'Qué determina el costo de la limpieza de oficinas',
+          html: '<p>El precio de la limpieza comercial se reduce a un puñado de variables honestas. Esto es lo que evaluamos al cotizar una oficina:</p><ul><li><strong>Metros cuadrados.</strong> El factor más importante. Una oficina de 100 m² toma un tiempo distinto que una de 500 m², y ese tiempo es el núcleo del costo.</li><li><strong>Número de baños.</strong> Los baños son lo que más tiempo toma por metro cuadrado en cualquier espacio comercial. Más baños significa más trabajo y el precio lo refleja.</li><li><strong>Frecuencia.</strong> Las visitas diarias o semanales cuestan menos por visita que las quincenales o únicas, porque el trabajo se mantiene más ligero cuando nunca se acumula.</li><li><strong>Tipo de industria.</strong> Un consultorio dental, un bufete de abogados y un espacio de coworking tienen necesidades distintas. Las suites médicas requieren desinfección extra. Los coworking tienen más tráfico. Ajustamos el plan al uso real del espacio.</li><li><strong>Extras.</strong> El decapado y encerado de pisos, la limpieza de ventanas y la limpieza interior de refrigeradores o gabinetes están fuera de la visita estándar y se cotizan individualmente.</li></ul><p>No hay dos oficinas exactamente iguales, por eso cotizamos cada una individualmente. Contáctenos a través del <a href="/booking">formulario de reserva</a> y le daremos un número claro para la suya — sin compromiso y sin espera.</p>',
+        },
+        {
+          heading: 'Cómo cambia el precio según la frecuencia',
+          html: '<p>Las matemáticas son directas: entre más seguido limpiemos, menos cuesta cada visita. Así funciona típicamente:</p><ul><li><strong>Limpieza diaria.</strong> Menor costo por visita. Cada turno es más ligero porque el espacio nunca pasa más de 24 horas sin limpieza. Ideal para espacios de alto tráfico como consultorios médicos, tiendas minoristas o pisos de coworking.</li><li><strong>Limpieza semanal.</strong> La opción más común para oficinas privadas y pequeños consultorios. Una visita completa por semana mantiene el espacio presentable para clientes y cómodo para el equipo.</li><li><strong>Limpieza quincenal.</strong> Buena opción para oficinas de bajo tráfico, bodegas o ubicaciones satélite con uso diario mínimo. El costo por visita es mayor que semanal porque se acumula más entre visitas.</li><li><strong>Limpieza única o profunda.</strong> El mayor costo por visita porque es un reinicio completo — desde zócalos hasta ventilaciones. Común para mudanzas, post-renovación o un inicio fresco antes de un calendario recurrente.</li></ul><p>El precio varía según su espacio y horario — use nuestra <a href="/faq">página de FAQ</a> para preguntas comunes, o comuníquese a través de <a href="/contact">nuestro formulario de contacto</a> para una cotización adaptada a su oficina.</p>',
+        },
+        {
+          heading: 'Qué está incluido en una visita estándar — y qué es extra',
+          html: '<p>Una visita estándar de limpieza comercial de 3 Sisters cubre todo lo que su oficina necesita para mantenerse consistentemente fresca. Cada visita incluye:</p><ul><li>Desempolvar escritorios, monitores, teclados y teléfonos</li><li>Desinfectar equipos compartidos y superficies de alto contacto</li><li>Aspirar todas las áreas alfombradas y limpiar pisos duros</li><li>Vaciar botes de basura y reciclaje, con bolsas nuevas</li><li>Sanitizar baños — inodoros, lavabos, mesones, espejos</li><li>Rellenar jabón, toallas de papel y suministros de higiene</li><li>Limpiar la cocina o breakroom — mesones, microondas, fregadero</li><li>Limpiar manijas de puertas e interruptores de luz</li></ul><p>Los servicios fuera de la visita estándar que se cotizan por separado incluyen: limpieza interior de ventanas, shampoo de alfombras, decapado y encerado de pisos, organización de bodegas y limpieza interior de refrigeradores o gabinetes. Si no está seguro si algo está incluido, solo pregunte. Vea la lista completa en nuestra página de <a href="/services/office-commercial-cleaning">Limpieza de Oficinas y Comercios</a>.</p>',
+        },
+        {
+          heading: 'Por qué la limpieza comercial cuesta diferente que la residencial',
+          html: '<p>A algunos dueños de negocio les sorprende que la limpieza comercial no cueste lo mismo que la residencial para metros cuadrados similares. Hay buenas razones:</p><ul><li><strong>Baños.</strong> Un hogar tiene uno o dos baños. Una oficina suele tener tres o más — y reciben mucho más tráfico entre visitas.</li><li><strong>Superficies de alto tráfico.</strong> Manijas, interruptores, botones de ascensor y equipos compartidos en una oficina son tocados por docenas o cientos de personas por semana. El estándar de limpieza debe igualar ese tráfico.</li><li><strong>Programación fuera de horario.</strong> La mayoría de la limpieza comercial ocurre cuando la oficina está vacía — temprano, tarde o fines de semana. Esa flexibilidad está incorporada en el precio.</li><li><strong>Requisitos de consistencia.</strong> Un cliente comercial recurrente espera el mismo estándar cada visita, no una limpieza de mejor esfuerzo. Esa consistencia requiere un equipo dedicado que conozca el espacio.</li></ul><p>Si está comparando cotizaciones de limpieza comercial, asegúrese de comparar lo mismo — la misma frecuencia, las mismas inclusiones y la misma ventana de programación. Esa es la única forma justa de evaluar el costo. Estamos felices de revisar cualquier cotización en una <a href="/contact">llamada o formulario de contacto</a>.</p>',
+        },
+        {
+          heading: 'Cómo obtener una cotización honesta — y qué debe incluir',
+          html: '<p>Una cotización de limpieza comercial confiable le dice tres cosas desde el principio: qué está incluido, qué cuesta extra y cómo funciona la facturación. Esto es lo que debe esperar de nosotros y lo que debe exigir de cualquier empresa:</p><ol><li><strong>Una visita presencial o por video,</strong> o al menos un cuestionario detallado sobre sus metros cuadrados, distribución, cantidad de baños e industria. Cualquiera que le dé un número fijo sin hacer estas preguntas está adivinando, no cotizando.</li><li><strong>Un desglose por partida.</strong> El precio base por visita, el descuento por frecuencia (si aplica) y el costo de cualquier extra. Sin cargos ocultos.</li><li><strong>Términos de pago claros.</strong> Retenemos su tarjeta pero solo cobramos después de que la limpieza esté terminada y usted esté satisfecho. Sin pago anticipado, sin contrato a largo plazo.</li><li><strong>Una forma simple de ajustar.</strong> Si su negocio crece o sus necesidades cambian, ajusta el horario con una llamada o su portal de cliente — sin penalización, sin letra pequeña.</li></ol><p>¿Listo para ver cuánto costaría su oficina? Envíe sus datos a través de <a href="/booking">nuestro formulario de reserva</a> y le responderemos el mismo día hábil con una cotización real para su espacio.</p>',
+        },
+      ],
+      closingCta:
+        'Obtenga una cotización clara y honesta para su oficina o espacio comercial — sin trucos, sin cargos ocultos. Complete el <a href="/booking">formulario de reserva</a> o llame al <a href="tel:+165****7171">(657) 737-7171</a> de lunes a sábado. Recorremos su espacio y le damos un número real el mismo día.',
+      faqs: [
+        {
+          question: '¿Cuánto cuesta la limpieza comercial por metro cuadrado?',
+          answer:
+            'Las tarifas de limpieza comercial varían según metros cuadrados, cantidad de baños y frecuencia, pero no publicamos un número genérico por metro cuadrado porque cada oficina es diferente. Una suite médica con tres baños cuesta distinto que una oficina de abogados con uno. Contáctenos a través del <a href="/booking">formulario de reserva</a> y cotizaremos su espacio exacto — el mismo día hábil, sin compromiso.',
+          speakable: false,
+        },
+        {
+          question: '¿Hay un compromiso mínimo o contrato a largo plazo?',
+          answer:
+            'No. No lo atamos a un contrato a largo plazo. Puede ajustar su horario o pausar el servicio con una llamada rápida, y su tarjeta solo se cobra después de cada limpieza. Vea nuestra <a href="/faq">página de FAQ</a> para más detalles sobre cómo funciona la facturación.',
+          speakable: true,
+        },
+        {
+          question: '¿Cobran extra por limpieza fuera de horario o fines de semana?',
+          answer:
+            'Programamos la mayoría de la limpieza comercial fuera de horario, temprano en la mañana o los fines de semana como parte de la cotización estándar — trabajamos alrededor del horario de su negocio. Si necesita un horario muy temprano o un fin de semana específico, díganoslo al solicitar la cotización y lo incluiremos. Más información en nuestra página de <a href="/services/office-commercial-cleaning">Limpieza de Oficinas y Comercios</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué tan rápido puedo obtener una cotización para mi oficina?',
+          answer:
+            'El mismo día hábil en la mayoría de los casos. Envíenos sus datos a través del <a href="/booking">formulario de reserva</a> con sus metros cuadrados, ubicación y frecuencia deseada, y le responderemos con un número claro antes de que termine el día.',
+          speakable: false,
+        },
+      ],
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────────
+  // POST 5 — Preparing Your Office for a Commercial Cleaning Visit
+  // ─────────────────────────────────────────────────────────────
+  {
+    slug: 'preparing-office-for-commercial-cleaning',
+    category: 'Cleaning Tips',
+    serviceSlug: 'office-commercial-cleaning',
+    readMinutes: 5,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-8.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'How to Prepare Your Office for a Commercial Cleaning Visit',
+      description:
+        'A practical checklist from a family-owned cleaning team — what to do before we arrive, what to secure, and what you can leave to us so the visit goes smoothly.',
+      leadParagraph:
+        'Commercial cleaning visits work best when the office is ready to be cleaned — not when the team has to work around piles of paperwork, personal items, or locked cabinets they cannot reach. We have cleaned hundreds of offices across New York and California, and we have learned that a little preparation on your side makes the difference between a good cleaning and a great one. Here is exactly what we recommend every business do before their first visit.',
+      sections: [
+        {
+          heading: 'Clear desks and common-area surfaces',
+          html: '<p>You do not need to tidy every paperclip on every desk, but the team needs to see the surfaces to clean them properly. Here is what helps most:</p><ul><li><strong>Desks.</strong> Move loose papers, sticky notes, and personal items into drawers or a tidy stack at the edge of the desk. The less on the surface, the more we can disinfect.</li><li><strong>Kitchen and breakroom counters.</strong> Put away personal mugs, lunch containers, and any open food. We clean the countertops, microwave, and sink — but we cannot clean around someone&apos;s Tupperware.</li><li><strong>Conference rooms.</strong> Clear the table of notebooks, laptops, and leftovers from the last meeting. Push chairs in or stack them if you prefer a deeper floor clean.</li><li><strong>Reception area.</strong> Tuck away magazines, brochures, and personal bags. We dust and wipe every surface in the reception area — the cleaner it starts, the better it finishes.</li></ul><p>Ten minutes of clearing before we arrive makes a real difference. If you want a walk-through of what we cover in every visit, check our <a href="/services/office-commercial-cleaning">Office &amp; Commercial Cleaning page</a>.</p>',
+        },
+        {
+          heading: 'Secure sensitive documents and valuables',
+          html: '<p>This is the most important step. We are bonded, insured, and background-checked — but you should still protect anything confidential or high-value before a cleaning team enters your space. Here is the rule we give every client:</p><ul><li><strong>Client files and confidential paperwork</strong> should be locked in filing cabinets or a private office with a door you can secure. We clean common areas and open offices, but we do not need access to client records.</li><li><strong>Cash, laptops, and personal valuables</strong> should be locked away or taken home. A reception area with unlocked drawers is an invitation we do not want you to regret.</li><li><strong>Passwords and sensitive notes</strong> left on sticky notes or whiteboards should be removed before we arrive.</li></ul><p>If your office has areas that need to stay locked during cleaning, just tell us in advance and we route around them — no questions asked. We cover our approach to security and confidentiality on the <a href="/faq">FAQ page</a>.</p>',
+        },
+        {
+          heading: 'Communicate access and after-hours instructions',
+          html: '<p>A smooth visit starts with knowing how to get in and what to do once inside. Before the first cleaning, share these details with your account manager:</p><ul><li><strong>Building access.</strong> Door codes, key locations, doorman or front-desk check-in procedures, and elevator or freight elevator requirements.</li><li><strong>Alarm system.</strong> The disarm code and re-arm code, plus any window of time we have to enter and exit before the alarm triggers.</li><li><strong>Parking.</strong> Where our team can park the van — street parking rules, loading zones, or a reserved spot in the building garage.</li><li><strong>After-hours rules.</strong> Any building policies about lights, locked zones, or security check-ins after a certain hour.</li></ul><p>We confirm all of this the day before each visit so nothing is left to chance. If you have questions about how we handle access, reach out through the <a href="/contact">contact form</a>.</p>',
+        },
+        {
+          heading: 'What your team should know beforehand',
+          html: '<p>Your employees are the ones who share the space with us. A quick heads-up goes a long way toward making everyone comfortable:</p><ul><li><strong>When we clean.</strong> If we come after hours, your team just needs to know their desks will be tidy for them in the morning. If we clean during the workday, let them know what time and which areas we will be in.</li><li><strong>What to leave out.</strong> Ask them to clear their desks of food, drinks, and loose papers before they leave for the day. A five-second sweep before heading out saves us time and gets them a better clean.</li><li><strong>Personal items.</strong> Headphones, chargers, wallets, and phones should go in a drawer or bag. We dust and wipe every surface — if it is lying out, we will move it, but it is safer in a drawer.</li><li><strong>Any special requests.</strong> If someone prefers their desk not be touched or they need a specific area left alone, tell us. We note it in the cleaning plan and respect it every visit.</li></ul><p>Most offices settle into a smooth routine after the first few visits. We learn your team&apos;s preferences and adjust without you having to repeat yourself. See how we build that rhythm on the <a href="/services/office-commercial-cleaning">Office &amp; Commercial Cleaning page</a>.</p>',
+        },
+        {
+          heading: 'What we handle so you don&apos;t have to',
+          html: '<p>This is the part that surprises new commercial clients the most — how much we do so you can focus on running your business. On every visit, our team handles:</p><ul><li>All trash and recycling — emptied, bagged, and taken to the building&apos;s disposal area</li><li>Restroom sanitation — the toilets, sinks, counters, mirrors, and floor, plus restocking soap and paper products</li><li>Floor care — vacuuming carpets, mopping hard floors, and spot-treating high-traffic areas</li><li>Kitchen and breakroom cleaning — countertops, sink, microwave exterior, and wiping down the fridge door</li><li>High-touch disinfection — door handles, light switches, elevator buttons, and shared equipment surfaces</li><li>Dusting — blinds, window sills, baseboards, and all reachable surfaces</li></ul><p>We bring our own vacuums, mops, microfiber cloths, and tools. You provide the cleaning products if you have preferences — otherwise we use our standard commercial-grade supplies. If you want to know exactly what product lines we use, just ask when you <a href="/booking">book your first visit</a>.</p>',
+        },
+      ],
+      closingCta:
+        'Ready to get your office on a reliable cleaning schedule? Send your details through the <a href="/booking">booking form</a> or call <a href="tel:+165****7171">(657) 737-7171</a>. We will walk your space, build a plan, and give you a clear quote — no contracts, no pressure.',
+      faqs: [
+        {
+          question: 'Do I need to be at the office when the cleaning team arrives?',
+          answer:
+            'Not if you do not want to be. Most of our commercial clients give us building access in advance — a door code, a key with the doorman, or a front-desk check-in — and we complete the cleaning after hours or on weekends while the office is empty. If you prefer to be there for the first visit to walk us through, that works too. See the <a href="/faq">FAQ page</a> for more on access and security.',
+          speakable: true,
+        },
+        {
+          question: 'Should I turn off computers and electronics before the cleaning?',
+          answer:
+            'Yes, we recommend shutting down or locking computers before we arrive. We dust monitor screens and keyboards, and a locked or off screen is safer for your equipment and your data. Anything on the desk should be secured in a drawer. Learn more on our <a href="/services/office-commercial-cleaning">service page</a>.',
+          speakable: false,
+        },
+        {
+          question: 'What if my office has a secure server room or lab area?',
+          answer:
+            'Just tell us which areas are off-limits and we route around them. We clean common areas, restrooms, breakrooms, and open office spaces. Restricted areas stay locked and untouched. If you want those areas cleaned by a team with special clearance, let us know when you <a href="/booking">book</a> and we will discuss options.',
+          speakable: true,
+        },
+        {
+          question: 'How do you handle offices that use shared or coworking spaces?',
+          answer:
+            'We work with the property manager or the business that holds the lease to set up a schedule that does not disrupt the shared environment. Coworking spaces typically need daily or every-other-day visits because of the traffic. We coordinate with front-desk staff and respect locked storage and private booths. Find more details on the <a href="/services/office-commercial-cleaning">Office &amp; Commercial Cleaning page</a>.',
+          speakable: false,
+        },
+      ],
+    },
+    es: {
+      title: 'Cómo preparar su oficina para una visita de limpieza comercial',
+      description:
+        'Lista práctica de un equipo familiar de limpieza — qué hacer antes de que lleguemos, qué asegurar y qué puede dejarnos a nosotros para que la visita sea sin contratiempos.',
+      leadParagraph:
+        'Las visitas de limpieza comercial funcionan mejor cuando la oficina está lista para ser limpiada — no cuando el equipo tiene que trabajar alrededor de montones de papeles, objetos personales o gabinetes cerrados a los que no pueden acceder. Hemos limpiado cientos de oficinas en Nueva York y California, y hemos aprendido que un poco de preparación de su lado marca la diferencia entre una limpieza buena y una excelente. Esto es exactamente lo que recomendamos a cada negocio antes de su primera visita.',
+      sections: [
+        {
+          heading: 'Despeje escritorios y superficies de áreas comunes',
+          html: '<p>No necesita ordenar cada clip en cada escritorio, pero el equipo necesita ver las superficies para limpiarlas adecuadamente. Esto es lo que más ayuda:</p><ul><li><strong>Escritorios.</strong> Guarde papeles sueltos, notas adhesivas y objetos personales en cajones o una pila ordenada al borde del escritorio. Cuanto menos haya en la superficie, más podemos desinfectar.</li><li><strong>Mesones de cocina y breakroom.</strong> Guarde tazas personales, recipientes de comida y cualquier alimento abierto. Limpiamos mesones, microondas y fregadero — pero no podemos limpiar alrededor del Tupperware de alguien.</li><li><strong>Sala de juntas.</strong> Despeje la mesa de cuadernos, laptops y sobras de la última reunión. Meta las sillas o apílelas si prefiere una limpieza más profunda del piso.</li><li><strong>Recepción.</strong> Guarde revistas, folletos y bolsos personales. Desempolvamos y limpiamos cada superficie en la recepción — entre más limpio empiece, mejor termina.</li></ul><p>Diez minutos de despeje antes de que lleguemos hacen una gran diferencia. Si quiere saber qué cubrimos en cada visita, vea nuestra página de <a href="/services/office-commercial-cleaning">Limpieza de Oficinas y Comercios</a>.</p>',
+        },
+        {
+          heading: 'Asegure documentos confidenciales y objetos de valor',
+          html: '<p>Este es el paso más importante. Tenemos bond, seguro y verificación de antecedentes — pero igual debe proteger lo confidencial o de alto valor antes de que un equipo de limpieza entre a su espacio. Esta es la regla que damos a cada cliente:</p><ul><li><strong>Expedientes de clientes y papeles confidenciales</strong> deben guardarse en archivadores cerrados con llave o en una oficina privada con puerta que pueda asegurar. Limpiamos áreas comunes y oficinas abiertas, pero no necesitamos acceso a registros de clientes.</li><li><strong>Efectivo, laptops y objetos de valor personales</strong> deben guardarse bajo llave o llevarse a casa. Una recepción con cajones sin seguro es una invitación que no queremos que lamente.</li><li><strong>Contraseñas y notas sensibles</strong> en notas adhesivas o pizarras deben retirarse antes de que lleguemos.</li></ul><p>Si su oficina tiene áreas que deben permanecer cerradas durante la limpieza, díganoslo con anticipación y las respetamos — sin hacer preguntas. Cubrimos nuestro enfoque de seguridad y confidencialidad en la <a href="/faq">página de FAQ</a>.</p>',
+        },
+        {
+          heading: 'Comunique acceso e instrucciones fuera de horario',
+          html: '<p>Una visita fluida comienza con saber cómo entrar y qué hacer una vez dentro. Antes de la primera limpieza, comparta estos detalles con su account manager:</p><ul><li><strong>Acceso al edificio.</strong> Códigos de puerta, ubicación de llaves, procedimientos de check-in con portero o recepción, y requisitos de ascensor o montacarga.</li><li><strong>Sistema de alarma.</strong> El código de desactivación y reactivación, más la ventana de tiempo para entrar y salir antes de que se active la alarma.</li><li><strong>Estacionamiento.</strong> Dónde puede estacionar el equipo — reglas de estacionamiento en calle, zonas de carga o un espacio reservado en el garaje del edificio.</li><li><strong>Reglas fuera de horario.</strong> Políticas del edificio sobre luces, zonas cerradas o check-in de seguridad después de cierta hora.</li></ul><p>Confirmamos todo esto el día antes de cada visita para no dejar nada al azar. Si tiene preguntas sobre cómo manejamos el acceso, comuníquese a través del <a href="/contact">formulario de contacto</a>.</p>',
+        },
+        {
+          heading: 'Lo que su equipo debe saber de antemano',
+          html: '<p>Sus empleados son quienes comparten el espacio con nosotros. Un aviso rápido ayuda a que todos estén cómodos:</p><ul><li><strong>Cuándo limpiamos.</strong> Si llegamos fuera de horario, su equipo solo necesita saber que sus escritorios estarán ordenados por la mañana. Si limpiamos durante el día, avíseles a qué hora y en qué áreas estaremos.</li><li><strong>Qué dejar fuera.</strong> Pídales que despejen sus escritorios de comida, bebidas y papeles sueltos antes de irse. Un barrido de cinco segundos antes de salir nos ahorra tiempo y les da una mejor limpieza.</li><li><strong>Objetos personales.</strong> Audífonos, cargadores, carteras y teléfonos deben ir en un cajón o bolsa. Desempolvamos y limpiamos cada superficie — si está fuera, lo moveremos, pero es más seguro en un cajón.</li><li><strong>Solicitudes especiales.</strong> Si alguien prefiere que no toquen su escritorio o que dejen un área específica intacta, díganoslo. Lo anotamos en el plan de limpieza y lo respetamos cada visita.</li></ul><p>La mayoría de oficinas establecen una rutina fluida después de las primeras visitas. Aprendemos las preferencias de su equipo y nos ajustamos sin que tenga que repetirse. Vea cómo construimos ese ritmo en la página de <a href="/services/office-commercial-cleaning">Limpieza de Oficinas y Comercios</a>.</p>',
+        },
+        {
+          heading: 'Lo que manejamos nosotros para que usted no tenga que hacerlo',
+          html: '<p>Esta es la parte que más sorprende a los nuevos clientes comerciales — cuánto hacemos para que usted pueda enfocarse en su negocio. En cada visita, nuestro equipo maneja:</p><ul><li>Toda la basura y reciclaje — vaciados, embolsados y llevados al área de desecho del edificio</li><li>Sanitización de baños — inodoros, lavabos, mesones, espejos y piso, más reabastecer jabón y productos de papel</li><li>Cuidado de pisos — aspirar alfombras, trapear pisos duros y tratar áreas de alto tráfico</li><li>Limpieza de cocina y breakroom — mesones, fregadero, exterior del microondas y limpieza de la puerta del refrigerador</li><li>Desinfección de alto contacto — manijas, interruptores, botones de ascensor y superficies de equipos compartidos</li><li>Desempolvado — persianas, alféizares, zócalos y todas las superficies accesibles</li></ul><p>Traemos nuestras propias aspiradoras, trapeadores, paños de microfibra y herramientas. Usted provee los productos de limpieza si tiene preferencias — si no, usamos nuestros suministros estándar de grado comercial. Si quiere saber exactamente qué líneas de productos usamos, solo pregunte cuando <a href="/booking">reserve su primera visita</a>.</p>',
+        },
+      ],
+      closingCta:
+        '¿Listo para poner su oficina en un calendario de limpieza confiable? Envíe sus datos a través del <a href="/booking">formulario de reserva</a> o llame al <a href="tel:+165****7171">(657) 737-7171</a>. Recorremos su espacio, creamos un plan y le damos una cotización clara — sin contratos, sin presiones.',
+      faqs: [
+        {
+          question: '¿Necesito estar en la oficina cuando llegue el equipo de limpieza?',
+          answer:
+            'No si no quiere. La mayoría de nuestros clientes comerciales nos dan acceso al edificio por adelantado — un código de puerta, una llave con el portero o un check-in en recepción — y completamos la limpieza fuera de horario o los fines de semana mientras la oficina está vacía. Si prefiere estar para la primera visita para mostrarnos, también funciona. Vea la <a href="/faq">página de FAQ</a> para más información sobre acceso y seguridad.',
+          speakable: true,
+        },
+        {
+          question: '¿Debo apagar las computadoras antes de la limpieza?',
+          answer:
+            'Sí, recomendamos apagar o bloquear las computadoras antes de que lleguemos. Limpiamos pantallas de monitores y teclados, y una pantalla bloqueada o apagada es más segura para su equipo y sus datos. Todo lo que esté en el escritorio debe guardarse en un cajón. Más información en nuestra <a href="/services/office-commercial-cleaning">página de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Qué pasa si mi oficina tiene un cuarto de servidores o área de laboratorio?',
+          answer:
+            'Solo díganos qué áreas son restringidas y las respetamos. Limpiamos áreas comunes, baños, breakrooms y oficinas abiertas. Las áreas restringidas se quedan cerradas y sin tocar. Si quiere que esas áreas sean limpiadas por un equipo con autorización especial, díganoslo al <a href="/booking">reservar</a> y discutiremos opciones.',
+          speakable: true,
+        },
+        {
+          question: '¿Cómo manejan las oficinas que usan espacios compartidos o coworking?',
+          answer:
+            'Trabajamos con el administrador de la propiedad o el negocio que tiene el contrato de arrendamiento para establecer un horario que no interrumpa el ambiente compartido. Los espacios de coworking típicamente necesitan visitas diarias o cada dos días por el alto tráfico. Coordinamos con el personal de recepción y respetamos las áreas de almacenamiento cerradas y los cubículos privados. Más detalles en la página de <a href="/services/office-commercial-cleaning">Limpieza de Oficinas y Comercios</a>.',
+          speakable: false,
+        },
+      ],
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────────
+  // POST 6 — Hiring a Commercial Cleaning Company: What to Look For
+  // ─────────────────────────────────────────────────────────────
+  {
+    slug: 'hiring-commercial-cleaning-company',
+    category: 'Hiring Guide',
+    serviceSlug: 'office-commercial-cleaning',
+    readMinutes: 7,
+    publishedDate: '2026-06-25',
+    modifiedDate: '2026-06-25',
+    cover: '/images/blog/post-9.jpg',
+    author: { name: 'The 3 Sisters Family', role: 'Family Owners' },
+    en: {
+      title: 'Hiring a Commercial Cleaning Company: A No-Nonsense Guide for Business Owners',
+      description:
+        'What to look for when hiring a commercial cleaning company in New York and California — insurance, industry fit, scheduling, and the red flags that should send you elsewhere.',
+      leadParagraph:
+        'Hiring a cleaning company for your business is different from hiring one for your home. The stakes are higher — your team works in that space every day, your clients walk through it, and the standard has to be consistent week after week. We have been on both sides of this relationship: we are a family-owned cleaning company, but we are also business owners ourselves. This guide covers what we believe every business owner should ask before signing up with a commercial cleaning provider.',
+      sections: [
+        {
+          heading: 'What to look for in a commercial cleaning company',
+          html: '<p>Start with the basics that separate a real operating company from a lead-gen broker or a gig-worker platform:</p><ul><li><strong>Bonded and insured.</strong> Ask for a certificate of insurance (COI) before the first visit. A real company sends it within a business day. If they hesitate or cannot provide one, do not proceed.</li><li><strong>Background-checked team.</strong> Every cleaner entering your office should have a current background check. Ask who runs the checks and how often they are renewed. We run ours before anyone steps foot in a client space, and we renew annually.</li><li><strong>A real person who answers the phone.</strong> You should be able to reach someone during business hours — Monday through Saturday, 8am to 6pm — without navigating a phone tree or waiting for a callback from a chatbot. That person should know your account by name.</li><li><strong>A consistent team.</strong> The same crew should show up every visit. Rotating strangers means no one learns your space, your preferences, or the quirks of your building. We send the same dedicated team to every recurring commercial account.</li><li><strong>Transparent pricing.</strong> The quote should list what is included, what costs extra, and when you get charged. No hidden fees, no surprise surcharges. See our <a href="/services/office-commercial-cleaning">Office &amp; Commercial Cleaning page</a> for what a standard visit includes.</li></ul><p>If a company checks all five of those boxes, you are in a good place to move forward.</p>',
+        },
+        {
+          heading: 'Industry-specific cleaning — why one size doesn&apos;t fit all',
+          html: '<p>A dental office and a law firm share an address sometimes, but they do not share a cleaning protocol. The right commercial cleaning company adjusts the work to the actual use of the space:</p><ul><li><strong>Medical and dental offices.</strong> Exam rooms and treatment areas have clinical sterilization handled by your team. We focus on reception, waiting areas, restrooms, floors, and shared surfaces — scheduled around patient hours so we are never in the way.</li><li><strong>Law firms and accounting offices.</strong> Confidentiality is the priority. A background-checked crew that respects locked offices and document areas is non-negotiable. We clean around closed doors and never touch client files.</li><li><strong>Retail stores and storefronts.</strong> High-traffic floors, fitting rooms, and front-of-house areas that need to look presentable during operating hours. We often clean retail spaces overnight or early morning before the doors open.</li><li><strong>Coworking and shared spaces.</strong> High-turnover common areas, kitchens, and restrooms that see heavy daily use. These spaces typically need more frequent visits — daily or every-other-day — to stay guest-ready.</li></ul><p>If your industry is not listed here, ask the cleaning company how they would adapt to your specific space. A good team has an answer, not a generic sales pitch. Reach out through our <a href="/contact">contact form</a> if you want to talk through your specific needs.</p>',
+        },
+        {
+          heading: 'Scheduling, access, and after-hours considerations',
+          html: '<p>Commercial cleaning happens on your schedule, not the cleaning company&apos;s. Before you hire anyone, confirm how they handle these logistics:</p><ul><li><strong>After-hours availability.</strong> Most businesses prefer cleaning when the office is empty. Make sure the company offers early morning, evening, or weekend slots as part of their standard service — not as a premium add-on.</li><li><strong>Building access.</strong> Ask how they manage door codes, alarm systems, and front-desk check-ins. A company that has cleaned in your building or neighborhood before will know the quirks already.</li><li><strong>Consistent scheduling.</strong> Your cleaning should happen on the same day at roughly the same time every visit. If the company cannot commit to a fixed schedule, they will struggle with consistency.</li><li><strong>Communication when something changes.</strong> Holidays, building closures, and weather events happen. The company should proactively confirm or adjust the schedule, not leave you wondering whether they will show up.</li></ul><p>We handle all of this in our standard service. For more on how we manage access and after-hours cleaning, check the <a href="/faq">FAQ page</a>.</p>',
+        },
+        {
+          heading: 'Red flags when hiring commercial cleaners',
+          html: '<p>Some warning signs are subtle. Others should end the conversation immediately:</p><ol><li><strong>No certificate of insurance on request.</strong> If they cannot produce a COI within a business day, they likely do not carry insurance. Walk away.</li><li><strong>Flat quote without seeing your space.</strong> A real commercial quote depends on square footage, restroom count, industry, and frequency. A flat number without those details means hidden fees later.</li><li><strong>High-pressure contract terms.</strong> A twelve-month commitment with a steep cancellation penalty is a sign they expect clients to want to leave. Reputable companies earn retention through quality, not contracts.</li><li><strong>No dedicated point of contact.</strong> If every call goes to a different person who does not know your account, you will spend your time managing the cleaning company instead of the other way around.</li><li><strong>Unclear pricing on add-ons.</strong> If they cannot tell you upfront what extras like window cleaning, floor waxing, or deep carpet cleaning cost, the surprise will come on the invoice.</li></ol><p>A straight answer on all five points is the minimum standard. If you have questions about any of these, our <a href="/faq">FAQ page</a> covers how we handle each one.</p>',
+        },
+        {
+          heading: 'How to know you found the right team',
+          html: '<p>When you find the right commercial cleaning company, it feels straightforward. Here is what that looks like:</p><ul><li><strong>They listen first.</strong> Before they quote you, they ask about your space, your hours, your industry, and your priorities. They take notes and come back with a plan that matches what you described.</li><li><strong>They communicate simply.</strong> The quote is clear. The schedule is clear. The billing is clear. You never have to ask for clarification on what you are paying for.</li><li><strong>They treat your space with respect.</strong> The team arrives on time, works without disrupting anything, and leaves the space better than they found it. They lock up behind themselves and confirm the work is done.</li><li><strong>They get better over time.</strong> After a few visits, they know your office well enough to notice when something is off — and they tell you before you notice yourself.</li><li><strong>They are easy to reach.</strong> When you need to adjust the schedule, add a service, or ask a question, one call or message gets you a real answer from someone who knows you.</li></ul><p>That is the standard we hold ourselves to at 3 Sisters. If it sounds like what you are looking for, <a href="/booking">book a visit</a> and we will show you what a family-owned approach to commercial cleaning looks like.</p>',
+        },
+      ],
+      closingCta:
+        'Looking for a commercial cleaning partner that checks every item on this list? Send your details through the <a href="/booking">booking form</a> or call <a href="tel:+165****7171">(657) 737-7171</a> Monday through Saturday. Same-day quotes, no obligation, and no long-term contracts.',
+      faqs: [
+        {
+          question: 'How do I verify a commercial cleaning company is properly insured?',
+          answer:
+            'Ask for a certificate of insurance (COI) before the first visit. A reputable company sends a current COI within one business day. The COI should show general liability coverage and workers&apos; compensation. If they cannot produce it or make excuses, that is a hard pass. See our <a href="/services/office-commercial-cleaning">Office &amp; Commercial Cleaning page</a> for more on our insurance and bonding.',
+          speakable: true,
+        },
+        {
+          question: 'What questions should I ask before signing a commercial cleaning contract?',
+          answer:
+            'Ask these five: Are you bonded and insured? Do you run background checks on all cleaners? Will the same team come every visit? What is included in the standard price and what costs extra? What is the cancellation policy? If the answers are clear and direct, you are in good hands. If they are vague, keep looking. Our <a href="/faq">FAQ page</a> covers all of these in detail.',
+          speakable: true,
+        },
+        {
+          question: 'How often should a commercial office be cleaned?',
+          answer:
+            'It depends on your space and traffic. Most private offices do well with weekly cleaning. Medical offices, retail stores, and coworking spaces typically need daily or every-other-day visits. Low-traffic satellite offices can manage with bi-weekly. We recommend a schedule based on your industry and how the space is used. Get a recommendation by reaching out through the <a href="/contact">contact form</a>.',
+          speakable: false,
+        },
+        {
+          question: 'Can I switch cleaning companies easily if I am not satisfied?',
+          answer:
+            'Yes, and you should never feel trapped. A good cleaning company earns your business every visit. If you are with a company that requires a long notice period or charges penalties for canceling, that is a red flag. We do not require long-term contracts — you can adjust or cancel your schedule with a quick call. Check our <a href="/services/office-commercial-cleaning">service page</a> for details on how we structure our commercial accounts.',
+          speakable: true,
+        },
+      ],
+    },
+    es: {
+      title: 'Cómo contratar una empresa de limpieza comercial: guía directa para dueños de negocio',
+      description:
+        'Qué buscar al contratar una empresa de limpieza comercial en Nueva York y California — seguro, adaptación a su industria, programación y las señales de alerta.',
+      leadParagraph:
+        'Contratar una empresa de limpieza para su negocio es diferente que contratar una para su casa. Lo que está en juego es mayor — su equipo trabaja en ese espacio todos los días, sus clientes lo visitan y el estándar tiene que ser consistente semana tras semana. Hemos estado en ambos lados de esta relación: somos una empresa familiar de limpieza, pero también somos dueños de negocio. Esta guía cubre lo que creemos que todo dueño de negocio debe preguntar antes de contratar un proveedor de limpieza comercial.',
+      sections: [
+        {
+          heading: 'Qué buscar en una empresa de limpieza comercial',
+          html: '<p>Empiece con lo básico que separa a una empresa operativa real de un broker de leads o una plataforma de trabajadores independientes:</p><ul><li><strong>Bond y seguro.</strong> Pida un certificado de seguro (COI) antes de la primera visita. Una empresa real lo envía en un día hábil. Si dudan o no pueden darlo, no continúe.</li><li><strong>Equipo con antecedentes verificados.</strong> Cada persona que entre a su oficina debe tener una verificación de antecedentes vigente. Pregunte quién hace las verificaciones y cada cuánto se renuevan. Nosotros las hacemos antes de que alguien ponga un pie en el espacio de un cliente, y las renovamos anualmente.</li><li><strong>Una persona real que conteste el teléfono.</strong> Debe poder contactar a alguien en horario laboral — lunes a sábado, 8am a 6pm — sin navegar un árbol telefónico o esperar la devolución de llamada de un chatbot. Esa persona debe conocer su cuenta por nombre.</li><li><strong>Un equipo consistente.</strong> El mismo equipo debe llegar cada visita. Rotar desconocidos significa que nadie aprende su espacio, sus preferencias o las peculiaridades de su edificio. Enviamos el mismo equipo dedicado a cada cuenta comercial recurrente.</li><li><strong>Precios transparentes.</strong> La cotización debe listar qué está incluido, qué cuesta extra y cuándo se cobra. Sin cargos ocultos, sin recargos sorpresa. Vea nuestra página de <a href="/services/office-commercial-cleaning">Limpieza de Oficinas y Comercios</a> para lo que incluye una visita estándar.</li></ul><p>Si una empresa cumple los cinco puntos, está en buen lugar para seguir adelante.</p>',
+        },
+        {
+          heading: 'Limpieza por industria — por qué una talla no sirve para todas',
+          html: '<p>Un consultorio dental y un bufete de abogados a veces comparten dirección, pero no comparten un protocolo de limpieza. La empresa de limpieza comercial correcta ajusta el trabajo al uso real del espacio:</p><ul><li><strong>Consultorios médicos y dentales.</strong> Las áreas de examen y tratamiento tienen esterilización clínica manejada por su equipo. Nosotros nos enfocamos en recepción, salas de espera, baños, pisos y superficies compartidas — programado alrededor del horario de pacientes.</li><li><strong>Bufetes de abogados y contadores.</strong> La confidencialidad es la prioridad. Un equipo con verificación de antecedentes que respete oficinas cerradas y áreas de documentos es no negociable. Limpiamos alrededor de puertas cerradas y nunca tocamos archivos de clientes.</li><li><strong>Tiendas minoristas y locales comerciales.</strong> Pisos de alto tráfico, probadores y áreas frontales que deben verse presentables durante el horario laboral. A menudo limpiamos tiendas por la noche o temprano antes de que abran.</li><li><strong>Coworking y espacios compartidos.</strong> Áreas comunes de alto uso, cocinas y baños con uso diario intenso. Estos espacios típicamente necesitan visitas más frecuentes — diarias o cada dos días — para mantenerse listos para huéspedes.</li></ul><p>Si su industria no está listada aquí, pregunte a la empresa de limpieza cómo se adaptarían a su espacio específico. Un buen equipo tiene una respuesta, no un discurso de ventas genérico. Comuníquese a través de nuestro <a href="/contact">formulario de contacto</a> si quiere hablar de sus necesidades específicas.</p>',
+        },
+        {
+          heading: 'Programación, acceso y consideraciones fuera de horario',
+          html: '<p>La limpieza comercial ocurre en su horario, no en el de la empresa de limpieza. Antes de contratar a alguien, confirme cómo manejan estas logísticas:</p><ul><li><strong>Disponibilidad fuera de horario.</strong> La mayoría de negocios prefiere la limpieza cuando la oficina está vacía. Asegúrese de que la empresa ofrezca horarios temprano, tarde o fines de semana como parte del servicio estándar — no como un extra con recargo.</li><li><strong>Acceso al edificio.</strong> Pregunte cómo manejan códigos de puerta, sistemas de alarma y check-ins con recepción. Una empresa que haya limpiado en su edificio o vecindario antes ya conocerá los detalles.</li><li><strong>Programación consistente.</strong> Su limpieza debe ocurrir el mismo día y aproximadamente a la misma hora cada visita. Si la empresa no puede comprometerse a un horario fijo, tendrá problemas con la consistencia.</li><li><strong>Comunicación cuando algo cambia.</strong> Los feriados, cierres de edificio y eventos climáticos ocurren. La empresa debe confirmar o ajustar el horario de forma proactiva, no dejarle preguntándose si llegarán.</li></ul><p>Manejamos todo esto en nuestro servicio estándar. Para más información sobre cómo gestionamos acceso y limpieza fuera de horario, vea la <a href="/faq">página de FAQ</a>.</p>',
+        },
+        {
+          heading: 'Señales de alerta al contratar limpieza comercial',
+          html: '<p>Algunas señales de advertencia son sutiles. Otras deberían terminar la conversación de inmediato:</p><ol><li><strong>Sin certificado de seguro a pedido.</strong> Si no pueden producir un COI en un día hábil, probablemente no tienen seguro. Váyase.</li><li><strong>Cotización fija sin ver su espacio.</strong> Una cotización comercial real depende de metros cuadrados, cantidad de baños, industria y frecuencia. Un número fijo sin esos detalles significa cargos ocultos después.</li><li><strong>Términos contractuales de alta presión.</strong> Un compromiso de doce meses con penalización por cancelación es señal de que esperan que los clientes quieran irse. Las empresas serias retienen por calidad, no por contratos.</li><li><strong>Sin punto de contacto dedicado.</strong> Si cada llamada va a una persona diferente que no conoce su cuenta, terminará administrando a la empresa de limpieza en lugar de al revés.</li><li><strong>Precios poco claros en extras.</strong> Si no pueden decirle de antemano cuánto cuestan extras como limpieza de ventanas, encerado de pisos o lavado profundo de alfombras, la sorpresa llegará en la factura.</li></ol><p>Una respuesta directa en los cinco puntos es el estándar mínimo. Si tiene preguntas sobre alguno de estos, nuestra <a href="/faq">página de FAQ</a> cubre cómo manejamos cada uno.</p>',
+        },
+        {
+          heading: 'Cómo saber que encontró al equipo correcto',
+          html: '<p>Cuando encuentra la empresa de limpieza comercial correcta, se siente directo. Así es como se ve:</p><ul><li><strong>Escuchan primero.</strong> Antes de cotizarle, preguntan sobre su espacio, su horario, su industria y sus prioridades. Toman notas y vuelven con un plan que coincide con lo que describió.</li><li><strong>Se comunican de forma simple.</strong> La cotización es clara. El horario es claro. La facturación es clara. Nunca tiene que pedir aclaración sobre lo que está pagando.</li><li><strong>Tratan su espacio con respeto.</strong> El equipo llega a tiempo, trabaja sin interrumpir nada y deja el espacio mejor de lo que lo encontraron. Cierran con llave al salir y confirman que el trabajo está hecho.</li><li><strong>Mejoran con el tiempo.</strong> Después de unas visitas, conocen su oficina lo suficiente para notar si algo está fuera de lugar — y le avisan antes de que usted lo note.</li><li><strong>Son fáciles de contactar.</strong> Cuando necesita ajustar el horario, añadir un servicio o hacer una pregunta, una llamada o mensaje le da una respuesta real de alguien que lo conoce.</li></ul><p>Ese es el estándar al que nos sometemos en 3 Sisters. Si suena a lo que busca, <a href="/booking">reserve una visita</a> y le mostraremos cómo se ve un enfoque familiar de limpieza comercial.</p>',
+        },
+      ],
+      closingCta:
+        '¿Busca un aliado de limpieza comercial que cumpla cada punto de esta lista? Envíe sus datos a través del <a href="/booking">formulario de reserva</a> o llame al <a href="tel:+165****7171">(657) 737-7171</a> de lunes a sábado. Cotizaciones el mismo día, sin compromiso y sin contratos a largo plazo.',
+      faqs: [
+        {
+          question: '¿Cómo verifico que una empresa de limpieza comercial tenga seguro?',
+          answer:
+            'Pida un certificado de seguro (COI) antes de la primera visita. Una empresa seria envía un COI vigente en un día hábil. El COI debe mostrar cobertura de responsabilidad general y compensación laboral. Si no pueden producirlo o ponen excusas, es una señal de no seguir. Vea nuestra página de <a href="/services/office-commercial-cleaning">Limpieza de Oficinas y Comercios</a> para más información sobre nuestro seguro y bond.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué preguntas debo hacer antes de firmar un contrato de limpieza comercial?',
+          answer:
+            'Pregunte estas cinco: ¿Tienen bond y seguro? ¿Verifican antecedentes de todo el personal? ¿Vendrá el mismo equipo cada visita? ¿Qué está incluido en el precio estándar y qué cuesta extra? ¿Cuál es la política de cancelación? Si las respuestas son claras y directas, está en buenas manos. Si son vagas, siga buscando. Nuestra <a href="/faq">página de FAQ</a> cubre todas estas en detalle.',
+          speakable: true,
+        },
+        {
+          question: '¿Cada cuánto debe limpiarse una oficina comercial?',
+          answer:
+            'Depende de su espacio y tráfico. La mayoría de oficinas privadas funcionan bien con limpieza semanal. Consultorios médicos, tiendas minoristas y coworking típicamente necesitan visitas diarias o cada dos días. Oficinas satélite de bajo tráfico pueden manejarse con visitas quincenales. Recomendamos un horario basado en su industria y cómo se usa el espacio. Obtenga una recomendación contactándonos a través del <a href="/contact">formulario de contacto</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Puedo cambiar de empresa de limpieza fácilmente si no estoy satisfecho?',
+          answer:
+            'Sí, y nunca debe sentirse atrapado. Una buena empresa de limpieza se gana su negocio en cada visita. Si está con una empresa que requiere un largo período de aviso o cobra penalizaciones por cancelar, eso es una señal de alerta. Nosotros no requerimos contratos a largo plazo — puede ajustar o cancelar su horario con una llamada rápida. Vea nuestra <a href="/services/office-commercial-cleaning">página de servicio</a> para detalles sobre cómo estructuramos nuestras cuentas comerciales.',
+          speakable: true,
+        },
+      ],
+    },
+  },

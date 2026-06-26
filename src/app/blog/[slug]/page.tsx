@@ -12,6 +12,8 @@ import {
   generateBlogSpeakableSchema,
 } from '@/lib/blog-schema';
 import { Calendar, Clock, ChevronLeft } from 'lucide-react';
+import { SERVICE_CITY_PAGES } from '@/data/service-city';
+import { getCityBySlug } from '@/data/cities';
 
 interface PageProps {
   params: { slug: string };
@@ -182,6 +184,56 @@ export default function BlogPostPage({ params }: PageProps) {
           </div>
         </div>
       </section>
+
+      {/* Service Areas — onde oferecemos este serviço */}
+      {(() => {
+        const cityPages = SERVICE_CITY_PAGES.filter(
+          (sc) => sc.serviceSlug === post.serviceSlug
+        );
+        const citySlugs = cityPages
+          .map((sc) => sc.citySlug)
+          .filter((slug, i, arr) => arr.indexOf(slug) === i);
+        if (citySlugs.length === 0) return null;
+        return (
+          <section className="py-16 px-4 sm:px-6 lg:px-8">
+            <div className="max-w-3xl mx-auto">
+              <h2 className="font-outfit font-bold text-3xl text-slate-900 mb-6 text-center">
+                Available in your area
+              </h2>
+              <p className="text-lg text-slate-600 text-center mb-8">
+                We offer {post.en.title.toLowerCase()} in the following cities:
+              </p>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                {citySlugs.map((slug) => {
+                  const city = getCityBySlug(slug);
+                  return (
+                    <Link
+                      key={slug}
+                      href={`/cities/${slug}/${post.serviceSlug}/`}
+                      className="bg-white border border-slate-200 rounded-2xl p-5 hover:border-blue-600 hover:shadow-sm transition text-center"
+                    >
+                      <span className="font-outfit font-semibold text-lg text-slate-900">
+                        {city?.name || slug}
+                      </span>
+                      <span className="text-sm text-slate-500 block mt-1">
+                        {city?.stateAbbr || ''}
+                      </span>
+                    </Link>
+                  );
+                })}
+              </div>
+              <div className="text-center mt-8">
+                <Link
+                  href={`/services/${post.serviceSlug}/`}
+                  className="text-blue-600 hover:text-blue-700 font-medium text-sm"
+                >
+                  View our {post.serviceSlug.split('-').join(' ')} service →
+                </Link>
+              </div>
+            </div>
+          </section>
+        );
+      })()}
 
       <CTASection />
     </>
