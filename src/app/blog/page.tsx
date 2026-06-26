@@ -63,14 +63,17 @@ export default function BlogPage() {
       <section className="py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {BLOG_POSTS.map((post) => (
+            {BLOG_POSTS.map((post, i) => {
+              const hasImage = ['how-to-prepare-for-deep-cleaning', 'hiring-cleaning-service-nyc', 'airbnb-cleaning-checklist'].includes(post.slug);
+              return (
               <Link
                 key={post.slug}
                 href={`/blog/${post.slug}`}
                 className="group block bg-white rounded-2xl border border-slate-200 overflow-hidden hover:shadow-lg transition-shadow"
               >
                 <article>
-                  {/* Image */}
+                  {/* Image — only first 3 posts */}
+                  {hasImage && (
                   <div className="aspect-[16/9] overflow-hidden bg-slate-50">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
@@ -79,6 +82,7 @@ export default function BlogPage() {
                       className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300"
                     />
                   </div>
+                  )}
 
                   <div className="p-6">
                     {/* Meta */}
@@ -108,7 +112,8 @@ export default function BlogPage() {
                   </div>
                 </article>
               </Link>
-            ))}
+              );
+            })}
           </div>
 
           {/* View All */}
