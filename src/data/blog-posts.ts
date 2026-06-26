@@ -626,7 +626,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'The quote we give you is the price you pay. If a cleaning takes longer than expected for reasons on our side — a new cleaner learning the space, unexpected complexity — we do not charge extra. Our <a href=\"/faq\">FAQ page</a> has more on our satisfaction and billing policies.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
     },
     es: {
       title: 'Guía de precios de limpieza regular: lo que paga',
@@ -683,7 +708,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'La cotización que le damos es el precio que paga. Si una limpieza toma más tiempo del esperado por razones de nuestro lado — una persona nueva aprendiendo el espacio, complejidad inesperada — no cobramos extra. Nuestra <a href=\"/faq\">página de FAQ</a> tiene más sobre nuestras políticas de satisfacción y facturación.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
     },
   },
 
@@ -744,7 +794,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           answer: 'Yes. Recurring clients can adjust individual visits — add an extra bathroom, focus on the kitchen, skip the guest room. Leave a note when you book or call us the morning of the visit. Adjust through the <a href="/booking">booking portal</a>.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
     },
     es: {
       title: 'Cómo preparar su hogar para una visita de Limpieza Regular',
@@ -794,7 +869,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           answer: 'Sí. Deje una nota al reservar o llámenos la mañana de la visita. Ajuste por el <a href="/booking">portal de reservas</a>.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
     },
   },
 
@@ -862,7 +962,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'Book at least one week ahead during peak moving season (June through August and December through January). Off-peak, three to four days is usually enough. We can handle rush bookings inside 48 hours when we have availability — just call <a href="tel:+165****7171">(657) 737-7171</a> and ask. The earlier you <a href="/booking">book</a>, the easier it is to get your preferred day and time.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
     },
     es: {
       title: 'Guía de Costos de Limpieza de Mudanza — Qué Esperar en 2026',
@@ -919,7 +1044,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'Reserve al menos una semana antes durante temporada alta (junio a agosto y diciembre a enero). Fuera de temporada, tres o cuatro días suele ser suficiente. Podemos manejar reservas de último minuto dentro de 48 horas cuando tenemos disponibilidad — solo llame al <a href="tel:+165****7171">(657) 737-7171</a> y pregunte. Mientras más temprano <a href="/booking">reserve</a>, más fácil es obtener el día y la hora que prefiere.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
     },
   },
 
@@ -987,7 +1137,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'Yes. A “professionally cleaned” apartment from a building management company is not always the same standard as our cleaning. We have walked into plenty of “just cleaned” apartments that still had crumbs, dust, and fingerprints everywhere. We clean to our standard, not the landlord&apos;s minimum. <a href=\"/booking\">Book us</a> and we will make it right.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
     },
     es: {
       title: 'Guía de Preparación de Mudanza de Entrada: Qué Limpiar Antes de Desempacar',
@@ -1044,7 +1219,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'Sí. Un apartamento con “limpieza profesional” de la administración del edificio no siempre tiene el mismo estándar que el nuestro. Hemos entrado a muchos apartamentos “recién limpios” que aún tenían migas, polvo y huellas por todas partes. Limpiamos a nuestro estándar, no al mínimo del arrendador. <a href=\"/booking\">Resérvenos</a> y lo dejaremos bien.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
     },
   },
 
@@ -1112,7 +1312,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'If you send us your landlord&apos;s move-out checklist or walk-through requirements before the cleaning, we work directly from that list. If something on that list is missed, let us know within 24 hours and we come back to fix it at no charge. That is our family guarantee. <a href=\"/booking\">Book with confidence</a> — we stand behind the work until your landlord signs off.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
     },
     es: {
       title: 'Cómo Contratar una Limpieza de Mudanza: Lo Que Debe Buscar',
@@ -1169,7 +1394,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'Si nos envía la lista de verificación de mudanza de su arrendador o los requisitos de la inspección antes de la limpieza, trabajamos directamente de esa lista. Si algo de esa lista se omite, avísenos dentro de 24 horas y volvemos a arreglarlo sin costo. Esa es nuestra garantía familiar. <a href=\"/booking\">Reserve con confianza</a> — respaldamos el trabajo hasta que su arrendador lo apruebe.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
     },
   },
 
@@ -1237,7 +1487,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'Same business day in most cases. Send us your details through the <a href="/booking">booking form</a> with your square footage, location, and how often you want cleaning, and we will get back to you with a clear number before the end of the day.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
     },
     es: {
       title: '¿Cuánto cuesta la limpieza de oficinas y comercios? Guía práctica',
@@ -1294,7 +1569,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'El mismo día hábil en la mayoría de los casos. Envíenos sus datos a través del <a href="/booking">formulario de reserva</a> con sus metros cuadrados, ubicación y frecuencia deseada, y le responderemos con un número claro antes de que termine el día.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
     },
   },
 
@@ -1362,7 +1662,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'We work with the property manager or the business that holds the lease to set up a schedule that does not disrupt the shared environment. Coworking spaces typically need daily or every-other-day visits because of the traffic. We coordinate with front-desk staff and respect locked storage and private booths. Find more details on the <a href="/services/office-commercial-cleaning">Office &amp; Commercial Cleaning page</a>.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
     },
     es: {
       title: 'Cómo preparar su oficina para una visita de limpieza comercial',
@@ -1419,7 +1744,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'Trabajamos con el administrador de la propiedad o el negocio que tiene el contrato de arrendamiento para establecer un horario que no interrumpa el ambiente compartido. Los espacios de coworking típicamente necesitan visitas diarias o cada dos días por el alto tráfico. Coordinamos con el personal de recepción y respetamos las áreas de almacenamiento cerradas y los cubículos privados. Más detalles en la página de <a href="/services/office-commercial-cleaning">Limpieza de Oficinas y Comercios</a>.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
     },
   },
 
@@ -1487,7 +1837,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'Yes, and you should never feel trapped. A good cleaning company earns your business every visit. If you are with a company that requires a long notice period or charges penalties for canceling, that is a red flag. We do not require long-term contracts — you can adjust or cancel your schedule with a quick call. Check our <a href="/services/office-commercial-cleaning">service page</a> for details on how we structure our commercial accounts.',
           speakable: true,
         },
-      ],
+      
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
     },
     es: {
       title: 'Cómo contratar una empresa de limpieza comercial: guía directa para dueños de negocio',
@@ -1544,7 +1919,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
             'Sí, y nunca debe sentirse atrapado. Una buena empresa de limpieza se gana su negocio en cada visita. Si está con una empresa que requiere un largo período de aviso o cobra penalizaciones por cancelar, eso es una señal de alerta. Nosotros no requerimos contratos a largo plazo — puede ajustar o cancelar su horario con una llamada rápida. Vea nuestra <a href="/services/office-commercial-cleaning">página de servicio</a> para detalles sobre cómo estructuramos nuestras cuentas comerciales.',
           speakable: true,
         },
-      ],
+      
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
     },
   },
 
@@ -1612,7 +2012,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           'Not unless we give you a list. We prefer to see the space first so we can recommend the right sizes — bins that are too big invite clutter, and bins that are too small never get used. Most clients buy supplies after the first sorting session once they know what they are keeping. We explain this in more detail on our <a href="/services/personal-organizing">services page</a>.',
         speakable: false,
       },
-    ],
+    
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
   },
   es: {
     title: '¿Cuánto cuesta un organizador personal? Guía directa',
@@ -1669,7 +2094,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           'No, a menos que le demos una lista. Preferimos ver el espacio primero para recomendar los tamaños correctos — contenedores muy grandes invitan al desorden, y contenedores muy pequeños nunca se usan. La mayoría de clientes compran suministros después de la primera sesión de clasificación, una vez que saben lo que van a conservar. Explicamos esto en más detalle en nuestra <a href="/services/personal-organizing">página de servicios</a>.',
         speakable: false,
       },
-    ],
+    
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
   },
 },
 
@@ -1737,7 +2187,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           'No. We will never push you to get rid of something you want to keep. Our job is to help you build a home that works for the life you actually live — not to impose our taste or minimalism standards on you. If it matters to you, it stays. We will help you find a place for it that keeps the rest of the space functional. Read more about our approach on our <a href="/services/personal-organizing">personal organizing page</a>.',
         speakable: false,
       },
-    ],
+    
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
   },
   es: {
     title: 'Prepararse para un organizador personal — qué hacer antes de que lleguemos',
@@ -1794,7 +2269,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           'No. Nunca lo presionaremos para que se deshaga de algo que quiere conservar. Nuestro trabajo es ayudarle a construir un hogar que funcione para la vida que realmente vive — no imponerle nuestro gusto o estándares de minimalismo. Si es importante para usted, se queda. Le ayudaremos a encontrarle un lugar que mantenga el resto del espacio funcional. Lea más sobre nuestro enfoque en nuestra <a href="/services/personal-organizing">página de organización personal</a>.',
         speakable: false,
       },
-    ],
+    
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
   },
 },
 
@@ -1862,7 +2362,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           'It happens, and you should never feel stuck. A reputable organizer will honor their cancellation policy — usually a 24-hour notice for future sessions — and you walk away owing only for the session you completed. Bad fits happen. The right organizer will understand and may even recommend someone else. Check our <a href="/faq">FAQ</a> for our cancellation policy details.',
         speakable: false,
       },
-    ],
+    
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
   },
   es: {
     title: 'Cómo contratar un organizador personal: qué buscar y qué evitar',
@@ -1919,7 +2444,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           'Pasa, y nunca debe sentirse atrapado. Un organizador serio respetará su política de cancelación — generalmente un aviso de 24 horas para sesiones futuras — y usted solo paga por la sesión que completó. Las malas combinaciones pasan. El organizador correcto lo entenderá y puede incluso recomendar a otra persona. Revise nuestra <a href=\"/faq\">FAQ</a> para los detalles de nuestra política de cancelación.',
         speakable: false,
       },
-    ],
+    
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
   },
 },
 
@@ -1980,7 +2530,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           answer: 'No — most clients leave us a door code or key and come back to a fresh home. If you prefer to be there, that is also fine. We will work around your routine. See our <a href="/faq">FAQ page</a> for more on scheduling and access.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
     },
     es: {
       title: '¿Cuánto cuesta una Limpieza Profunda? Guía directa',
@@ -2030,7 +2605,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           answer: 'No — la mayoría de clientes nos deja una llave o código y vuelve a una casa fresca. Vea nuestra <a href="/faq">página de FAQ</a> para más información.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
     },
   },
 
@@ -2091,7 +2691,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           answer: 'We are bonded and insured. If accidental damage occurs during a deep cleaning, our insurance covers it. We also photograph and log the condition of every room before we start. Call <a href="tel:+165****7171">(657) 737-7171</a> with any concerns.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
     },
     es: {
       title: 'Cómo contratar un servicio de Limpieza Profunda — qué preguntar',
@@ -2136,7 +2761,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           answer: 'Tenemos bond y seguro completos. Si ocurre un daño accidental, nuestro seguro lo cubre. Llame al <a href="tel:+165****7171">(657) 737-7171</a>.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
     },
   },
 
@@ -2197,7 +2847,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           answer: 'Start with what you pay per turnover and set your cleaning fee at or above that amount. Look at competitor fees in your neighborhood and adjust by length of stay. Use the <a href="/services/airbnb-cleaning">Airbnb Cleaning page</a> for what professional turnovers include.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
     },
     es: {
       title: '¿Cuánto cuesta la limpieza de Airbnb? Guía para anfitriones',
@@ -2242,7 +2917,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           answer: 'Traemos herramientas. Usted provee productos y sábanas. Vea nuestra <a href="/faq">página de FAQ</a>.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
     },
   },
 
@@ -2303,7 +3003,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           answer: 'Yes — route bundling means one team handles two or more units in the same neighborhood in a single shift. Better per-unit pricing and tighter timing. Call <a href="tel:+165****7171">(657) 737-7171</a> to discuss your portfolio.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: 'How do I get an accurate quote for my home?',
+          answer:
+            'Tell us your square footage, number of bedrooms and bathrooms, and any add-ons. We give you a clear, itemized quote the same business day. Start with our <a href="/booking">booking form</a>.',
+          speakable: true,
+        },
+        {
+          question: 'Is your team insured and background-checked?',
+          answer:
+            'Yes — every 3 Sisters cleaner is bonded, insured, and background-checked. We share our certificate of insurance on request. Every team member is screened and trained before their first visit.',
+          speakable: true,
+        },
+        {
+          question: 'What areas do you serve?',
+          answer:
+            'We serve Manhattan, Brooklyn, and Queens in New York, and San Francisco in California. Check our <a href="/cities">service areas page</a> to see if we cover your neighborhood.',
+          speakable: false,
+        },
+        {
+          question: 'What is your cancellation policy?',
+          answer:
+            'We require 24-hour notice for cancellations. Recurring clients can skip or reschedule through their <a href="/booking">booking portal</a>.',
+          speakable: false,
+        },
+],
     },
     es: {
       title: 'Cómo contratar un servicio de limpieza Airbnb — guía para anfitriones',
@@ -2348,7 +3073,32 @@ export const BLOG_POSTS: BlogPostContent[] = [
           answer: 'Sí. Un equipo cubre varias unidades en el mismo barrio. Mejores tarifas. Llame al <a href="tel:+165****7171">(657) 737-7171</a>.',
           speakable: false,
         },
-      ],
+      
+        {
+          question: '¿Cómo obtengo una cotización precisa?',
+          answer:
+            'Díganos metros cuadrados, habitaciones y baños. Le damos una cotización detallada el mismo día. Use <a href="/booking">nuestro formulario</a>.',
+          speakable: true,
+        },
+        {
+          question: '¿Su equipo tiene seguro y antecedentes verificados?',
+          answer:
+            'Sí. Cada limpiador es bonded, asegurado y con antecedentes verificados. Enviamos el COI a pedido.',
+          speakable: true,
+        },
+        {
+          question: '¿Qué áreas cubren?',
+          answer:
+            'Manhattan, Brooklyn y Queens en NY, y San Francisco en CA. Vea <a href="/cities">nuestras áreas de servicio</a>.',
+          speakable: false,
+        },
+        {
+          question: '¿Cuál es su política de cancelación?',
+          answer:
+            'Aviso de 24 horas. Ajuste por <a href="/booking">nuestro portal</a>.',
+          speakable: false,
+        },
+],
     },
   },
 ];
