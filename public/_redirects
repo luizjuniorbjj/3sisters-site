@@ -1,0 +1,53 @@
+# Legacy WordPress URL redirects — preserve link equity on DNS cutover
+# Old WP page-sitemap (3sistersservices.com) -> new Next.js paths. Updated 2026-05-30.
+
+# Service pages (old WP slugs -> new)
+/office-cleaning-services/      /services/office-commercial-cleaning/   301
+/office-cleaning-services       /services/office-commercial-cleaning/   301
+/regular-cleaning-services/     /services/regular-cleaning/        301
+/regular-cleaning-services      /services/regular-cleaning/        301
+/airbnb-cleaning-services/      /services/airbnb-cleaning/         301
+/airbnb-cleaning-services       /services/airbnb-cleaning/         301
+/deep-cleaning-services/        /services/deep-cleaning/           301
+/deep-cleaning-services         /services/deep-cleaning/           301
+/move-in-out-cleaning/          /services/move-in-out-cleaning/    301
+/move-in-out-cleaning           /services/move-in-out-cleaning/    301
+/personal-organizer-services/   /services/personal-organizing/    301
+/personal-organizer-services    /services/personal-organizing/    301
+
+# Info pages
+/frequently-asked-questions/    /faq/        301
+/frequently-asked-questions     /faq/        301
+/cleaning-checklists/           /services/   301
+/cleaning-checklists            /services/   301
+/terms-of-service/              /legal/terms/   301
+/terms-of-service               /legal/terms/   301
+
+# Booking flow — native form fires generate_lead inline + shows in-page success;
+# /booking-success/ is a Launch27 artifact, removed (ADR-3S-002 D4).
+/booking-success/               /booking/    301
+/booking-success                /booking/    301
+
+# Note: /, /services/, /booking/ keep the same path on the new site — no redirect needed.
+
+# Legacy WP homepage variant still indexed in Bing (was 404) -> home.
+/home-2/    /    301
+/home-2     /    301
+
+# Florida retired — NY + CA only (WS-B / ADR-3S-001). Preserve link equity:
+# service×city cells -> matching service page; city hubs + state page -> home.
+/cities/fort-lauderdale-fl/:service/    /services/:service/    301
+/cities/fort-lauderdale-fl/             /                      301
+/cities/boca-raton-fl/:service/         /services/:service/    301
+/cities/boca-raton-fl/                  /                      301
+/cities/parkland-fl/:service/           /services/:service/    301
+/cities/parkland-fl/                    /                      301
+/cities/weston-fl/:service/             /services/:service/    301
+/cities/weston-fl/                      /                      301
+/cities/delray-beach-fl/:service/       /services/:service/    301
+/cities/delray-beach-fl/                /                      301
+/cities/lighthouse-point-fl/:service/   /services/:service/    301
+/cities/lighthouse-point-fl/            /                      301
+/cities/southwest-ranches-fl/:service/  /services/:service/    301
+/cities/southwest-ranches-fl/           /                      301
+/states/florida/                        /                      301

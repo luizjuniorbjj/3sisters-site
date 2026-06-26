@@ -1,0 +1,10 @@
+export { HeroSection } from './HeroSection';
+export { ServicesSection } from './ServicesSection';
+export { WhyChooseSection } from './WhyChooseSection';
+export { WhatWeDoSection } from './WhatWeDoSection';
+export { TestimonialsSection } from './TestimonialsSection';
+export { PricingSection } from './PricingSection';
+export { BookingSection } from './BookingSection';
+export { BookingCta } from './BookingCta';
+export { BlogSection } from './BlogSection';
+export { CTASection } from './CTASection';

@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap');
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+  body {
+    @apply font-body text-dark bg-white antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+@layer components {
+  .container-main {
+    @apply max-w-container mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  .section-padding {
+    @apply py-section-sm lg:py-section;
+  }
+  .text-gradient {
+    @apply bg-gradient-to-r from-primary to-primary-400 bg-clip-text text-transparent;
+  }
+  .highlight-underline {
+    @apply relative;
+    background-image: linear-gradient(transparent 60%, #DEF7EC 60%);
+  }
+}
