@@ -78,6 +78,8 @@ interface ApiEstimate {
     final_amount?: string;
     [key: string]: string | undefined;
   };
+  // ADR-005: 'valid' | 'invalid' | 'inactive' | 'expired' | 'exhausted' | null
+  coupon_status?: string | null;
   formatted: {
     subtotal?: string;
     discount?: string;
@@ -226,6 +228,7 @@ const BookingSectionInner = () => {
     date: '',
     time: '',
     instructions: '',
+    couponCode: '',     // ADR-005 — promo code (opcional)
     terms: false,
     smsConsent: false,   // #3 — TCPA SMS consent (opt-in)
     website: '',         // honeypot
@@ -429,6 +432,8 @@ const BookingSectionInner = () => {
           // address → per-location sales tax in the live estimate
           state: form.state || null,
           zip_code: form.zip || null,
+          // ADR-005: só o CÓDIGO vai. O percentual é resolvido no servidor.
+          coupon_code: form.couponCode.trim() || null,
         }),
       });
       if (res.ok) {
@@ -442,7 +447,7 @@ const BookingSectionInner = () => {
     } finally {
       setEstimateLoading(false);
     }
-  }, [selectedService, form.extras, form.frequencyId, form.state, form.zip]);
+  }, [selectedService, form.extras, form.frequencyId, form.state, form.zip, form.couponCode]);
 
   useEffect(() => {
     const t = setTimeout(fetchEstimate, 500);
@@ -626,6 +631,7 @@ const BookingSectionInner = () => {
       // (ends the fragile name-match fallback).
       service_id: selectedService.id,
       frequency_id: form.frequencyId || undefined,
+      coupon_code: form.couponCode.trim() || undefined,   // ADR-005 — servidor re-valida
       extras: extrasLabels,  // text names — kept for the email/lead message
       // #1 — structured extras so the booking is priced + persisted as line items
       extra_items: form.extras.map((id) => ({ extra_id: id, qty: 1 })),
@@ -873,12 +879,41 @@ const BookingSectionInner = () => {
                 <span>{estimate.formatted.subtotal}</span>
               </div>
             )}
-            {estimate?.formatted.discount && parseFloat(estimate.breakdown.discount_amount || '0') > 0 && (
-              <div className="flex justify-between text-green-700">
-                <span className="text-xs uppercase tracking-wide">Discount</span>
-                <span>−{estimate.formatted.discount}</span>
-              </div>
-            )}
+            {/* ADR-005 — as linhas de desconto são PARCELAS, nunca o total.
+                `discount_amount` do backend é a SOMA (frequência + cupom); exibi-lo
+                junto da parcela do cupom mostrava dois "−$26.00" com um total que
+                subtraía só $26 — parecia erro de conta. Aqui cada linha mostra de
+                onde o desconto veio, e elas somam exatamente o que saiu do total. */}
+            {(() => {
+              const total = parseFloat(estimate?.breakdown.discount_amount || '0');
+              if (!estimate || total <= 0) return null;
+              const promo = parseFloat(estimate.breakdown.coupon_discount_amount || '0');
+              // Fallback: se o backend não mandar a parcela da frequência (snapshot
+              // antigo), a diferença resolve — as duas sempre somam o total.
+              const freq = estimate.breakdown.frequency_discount_amount != null
+                ? parseFloat(estimate.breakdown.frequency_discount_amount)
+                : total - promo;
+              return (
+                <>
+                  {freq > 0 && (
+                    <div className="flex justify-between text-green-700">
+                      <span className="text-xs uppercase tracking-wide">
+                        Discount{selectedFreq ? ` (${selectedFreq.name})` : ''}
+                      </span>
+                      <span>−${freq.toFixed(2)}</span>
+                    </div>
+                  )}
+                  {promo > 0 && (
+                    <div className="flex justify-between text-green-700">
+                      <span className="text-xs uppercase tracking-wide">
+                        Promo {estimate.breakdown.coupon_code ? `(${estimate.breakdown.coupon_code})` : ''}
+                      </span>
+                      <span>−${promo.toFixed(2)}</span>
+                    </div>
+                  )}
+                </>
+              );
+            })()}
             {estimate?.formatted.tax && parseFloat(estimate.breakdown.tax_amount || '0') > 0 && (
               <div className="flex justify-between text-slate-500">
                 <span className="text-xs uppercase tracking-wide">Sales tax</span>
@@ -1173,6 +1208,54 @@ const BookingSectionInner = () => {
                 placeholder="Access instructions, parking notes, pets, areas to skip, etc. (optional)"
                 className={inputCls}
               />
+            </div>
+
+            {/* STEP 9 — Promo code (ADR-005) */}
+            <div>
+              <div className="flex items-baseline gap-2 mb-3">
+                <span className="text-xs font-semibold text-blue-600 uppercase tracking-wider">Step 9</span>
+                <h3 className="font-outfit font-bold text-lg text-slate-900">Promo code</h3>
+              </div>
+              <input
+                type="text"
+                value={form.couponCode}
+                onChange={(e) => update('couponCode', e.target.value)}
+                placeholder="Have a code? Enter it here (optional)"
+                autoComplete="off"
+                autoCapitalize="characters"
+                spellCheck={false}
+                maxLength={40}
+                aria-describedby="promo-feedback"
+                className={inputCls}
+              />
+              {/* Retorno ao digitar. O estimate roda com debounce de 500ms, então
+                  o silêncio enquanto `estimateLoading` evita piscar "invalid" no
+                  meio de um código que ainda está sendo digitado. */}
+              <div id="promo-feedback" aria-live="polite" className="mt-2 min-h-[1.25rem]">
+                {form.couponCode.trim() && !estimateLoading && estimate?.coupon_status === 'valid' && (() => {
+                  // A parcela do CUPOM, não `formatted.discount` — este é o desconto
+                  // TOTAL (frequência + cupom) e diria "$65.00 off" para um código
+                  // que deu $26, com a frequência levando o resto.
+                  const promo = parseFloat(estimate.breakdown.coupon_discount_amount || '0');
+                  return (
+                    <p className="text-sm text-green-700 font-medium">
+                      Code applied — {promo > 0 ? `$${promo.toFixed(2)} off` : 'discount applied'}
+                    </p>
+                  );
+                })()}
+                {form.couponCode.trim() && !estimateLoading && estimate?.coupon_status === 'expired' && (
+                  <p className="text-sm text-amber-700">This code has expired.</p>
+                )}
+                {form.couponCode.trim() && !estimateLoading && estimate?.coupon_status === 'exhausted' && (
+                  <p className="text-sm text-amber-700">This code has reached its limit.</p>
+                )}
+                {form.couponCode.trim() && !estimateLoading
+                  && (estimate?.coupon_status === 'invalid' || estimate?.coupon_status === 'inactive') && (
+                  <p className="text-sm text-slate-500">
+                    We couldn&apos;t find that code. Check the spelling — you can still book without it.
+                  </p>
+                )}
+              </div>
             </div>
 
             {/* Honeypot */}
