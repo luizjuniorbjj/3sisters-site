@@ -45,7 +45,7 @@ interface ApiService {
   name: string;
   slug: string;
   category: string | null;
-  tier: 'basic' | 'deep' | 'premium' | null;
+  tier: 'basic' | 'deep' | 'premium' | 'move_out' | null;
   bedrooms: number | null;
   bathrooms: number | null;
   base_price: string | null;
@@ -104,7 +104,29 @@ const TIER_LABEL: Record<string, string> = {
   basic: 'Basic',
   deep: 'Deep',
   premium: 'Premium',
+  move_out: 'Move In/Move Out',
 };
+
+// Move In/Move Out services come from the API with bedrooms/bathrooms/tier NULL —
+// the DB `tier` column only accepts basic|deep|premium, so the size/tier they belong
+// to lives in the service name. Parse it here so they group like any other service.
+const parseMoveInOut = (name: string): Pick<ApiService, 'bedrooms' | 'bathrooms' | 'tier'> | null => {
+  const lower = (name || '').toLowerCase();
+  if (!lower.includes('move in')) return null;
+  if (lower.includes('studio')) return { bedrooms: 0, bathrooms: 1, tier: 'move_out' };
+  const m = name.match(/(\d+)\s*Rooms?\s*[×x]\s*(\d+)\s*Bathrooms?/i);
+  if (!m) return null;
+  const beds = parseInt(m[1], 10);
+  const baths = parseInt(m[2], 10);
+  if (isNaN(beds) || isNaN(baths)) return null;
+  return { bedrooms: beds, bathrooms: baths, tier: 'move_out' };
+};
+
+const normalizeServices = (list: ApiService[]): ApiService[] =>
+  list.map((s) => {
+    const parsed = parseMoveInOut(s.name || '');
+    return parsed ? { ...s, ...parsed } : s;
+  });
 
 // Helper: size key from service (used to group services by size)
 const sizeKey = (s: ApiService): string => {
@@ -222,7 +244,7 @@ const BookingSectionInner = () => {
     state: 'NY',
     zip: '',
     sizeKey: '',         // e.g. 'studio', '2r-1b'  — empty until user actively selects
-    tier: '' as '' | 'basic' | 'deep' | 'premium',
+    tier: '' as '' | 'basic' | 'deep' | 'premium' | 'move_out',
     extras: [] as string[],   // extra IDs
     frequencyId: '',     // frequency UUID
     date: '',
@@ -272,7 +294,7 @@ const BookingSectionInner = () => {
         const [sJson, eJson, fJson] = (await Promise.all([
           sRes.json(), eRes.json(), fRes.json(),
         ])) as [ApiService[], ApiExtra[], ApiFrequency[]];
-        setServices(sJson);
+        setServices(normalizeServices(sJson));
         setExtras(eJson);
         setFrequencies(fJson);
 
@@ -324,8 +346,8 @@ const BookingSectionInner = () => {
     for (const s of services) {
       if (sizeKey(s) === form.sizeKey && s.tier) set.add(s.tier);
     }
-    // Order: basic, deep, premium
-    return (['basic', 'deep', 'premium'] as const).filter((t) => set.has(t));
+    // Order: basic, deep, premium, move_out
+    return (['basic', 'deep', 'premium', 'move_out'] as const).filter((t) => set.has(t));
   }, [services, form.sizeKey]);
 
   // Resolve current selected service (size + tier) → service object
