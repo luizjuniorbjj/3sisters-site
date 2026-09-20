@@ -9,8 +9,8 @@
 export interface CityPage {
   slug: string;
   name: string;
-  stateAbbr: 'FL' | 'NY' | 'CA';
-  stateName: 'Florida' | 'New York' | 'California';
+  stateAbbr: 'FL' | 'NY' | 'CA' | 'NJ';
+  stateName: 'Florida' | 'New York' | 'California' | 'New Jersey';
   county: string;
   coords: { lat: number; lng: number };
   wikidataQID: string;
@@ -449,6 +449,83 @@ const ALL_CITY_PAGES: CityPage[] = [
       },
     ],
     neighbors: [],
+  },
+  {
+    slug: 'hoboken-nj',
+    name: 'Hoboken',
+    stateAbbr: 'NJ',
+    stateName: 'New Jersey',
+    county: 'Hudson County',
+    coords: { lat: 40.743991, lng: -74.032363 },
+    wikidataQID: 'Q138338',
+    neighborhoods: [
+      'Uptown / Maxwell Place',
+      'Washington Street Corridor',
+      'Southwest Hoboken',
+      'Midtown',
+    ],
+    introFactual: `Hoboken sits directly across the Hudson River from Manhattan in Hudson County, New Jersey. Known as the Mile Square City, it is one of the most walkable, dense communities in the nation, home to about 60,419 residents (U.S. Census) living in historic brownstones, brick walkups, and waterfront luxury high-rises. 3 Sisters Services provides professional, bonded, and insured cleaning across Hoboken — trilingual on every visit since 2019.`,
+    serviceContext: `Hoboken connects seamlessly to our Manhattan routes via the PATH train. With high renter turnover, strict municipal parking rules, and a dense concentration of four-story historic walkups, cleaning in Hoboken demands stamina, punctuality, and attention to detail. We provide regular maintenance cleaning, thorough deep cleans, move-in/move-out resets, Airbnb turnovers, and commercial office cleaning. Every cleaner on our Hoboken crew is bonded, background-checked, and speaks English, Spanish, and Portuguese.`,
+    faqs: [
+      {
+        q: `Which Hoboken neighborhoods do you serve?`,
+        a: `We serve all of Hoboken — Uptown, Maxwell Place, the Washington Street corridor, Midtown, and Southwest Hoboken are all on our regular weekly routes. If your address is within Hoboken city limits, we cover it.`,
+      },
+      {
+        q: `Do you clean historic brownstones and walkups without elevators in Hoboken?`,
+        a: `Yes — historic brownstones and multi-story walkup apartments are routine work for our Hoboken team. We clean floor by floor with careful attention to stairs, baseboards, and pre-war fixtures.`,
+      },
+      {
+        q: `Can you meet luxury waterfront high-rise COI requirements in Hoboken?`,
+        a: `Yes — 3 Sisters Services is fully bonded and insured. We routinely provide certificates of insurance (COI) for luxury high-rises along the Hoboken waterfront like Maxwell Place and Shipyard.`,
+      },
+      {
+        q: `Do you offer move-in and move-out turnover cleaning in Hoboken?`,
+        a: `Yes — because of Hoboken's active rental market, move-in and move-out deep cleaning is one of our most requested services. We scrub inside cabinets, appliances, bathrooms, and floors so your unit is move-in ready or deposit-cleared.`,
+      },
+      {
+        q: `Do you offer cleaning services in Spanish or Portuguese in Hoboken?`,
+        a: `Yes — our entire team is trilingual in English, Spanish, and Portuguese. Walkthroughs, quotes, and scheduling can all be conducted in the language you prefer.`,
+      },
+    ],
+    neighbors: ['jersey-city-nj', 'manhattan-ny'],
+  },
+  {
+    slug: 'jersey-city-nj',
+    name: 'Jersey City',
+    stateAbbr: 'NJ',
+    stateName: 'New Jersey',
+    county: 'Hudson County',
+    coords: { lat: 40.7178, lng: -74.0431 },
+    wikidataQID: 'Q26339',
+    neighborhoods: [
+      'Downtown / Paulus Hook',
+      'Newport / Exchange Place',
+      'Journal Square',
+      'The Heights',
+      'Hamilton Park',
+    ],
+    introFactual: `Jersey City is New Jersey's second-largest city, home to approximately 292,449 residents (U.S. Census) along the Hudson River waterfront facing Lower Manhattan. With a booming downtown financial district, luxury waterfront towers, and historic brownstone neighborhoods, 3 Sisters Services delivers bonded, insured, and trilingual cleaning across Jersey City.`,
+    serviceContext: `Jersey City's fast-paced residential market includes everything from high-rise doorman apartments in Newport and Exchange Place to Victorian row homes in Hamilton Park and Paulus Hook. We handle recurring housekeeping, one-time deep cleaning resets, move-in/move-out cleans, and commercial office cleaning. We coordinate directly with building management for elevator bookings and COI clearance.`,
+    faqs: [
+      {
+        q: `Which Jersey City neighborhoods do you serve?`,
+        a: `We clean across Jersey City — Downtown, Paulus Hook, Newport, Exchange Place, Hamilton Park, Journal Square, and The Heights are all on our regular service routes.`,
+      },
+      {
+        q: `Can you provide a Certificate of Insurance (COI) for Jersey City high-rise buildings?`,
+        a: `Yes — we are bonded and insured, and our staff is background-checked. We regularly issue building-specific COIs for Newport, Exchange Place, and Paulus Hook property managers.`,
+      },
+      {
+        q: `Do you clean commercial offices in Jersey City?`,
+        a: `Yes — we offer scheduled commercial cleaning for offices, financial suites, and retail locations across Jersey City, including after-hours and weekend service.`,
+      },
+      {
+        q: `Do you offer bilingual support in Jersey City?`,
+        a: `Yes — our team is trilingual in English, Spanish, and Portuguese. Estimates, instructions, and customer service are available in your preferred language.`,
+      },
+    ],
+    neighbors: ['hoboken-nj', 'manhattan-ny'],
   },
 ];
 

@@ -17,7 +17,7 @@ export interface StateCityRef {
 export interface StatePage {
   slug: string;
   name: string;
-  abbr: 'FL' | 'NY' | 'CA';
+  abbr: 'FL' | 'NY' | 'CA' | 'NJ';
   coords: { lat: number; lng: number };
   wikidataQID: string;
   introFactual: string;
@@ -68,6 +68,19 @@ const ALL_STATE_PAGES: StatePage[] = [
     serviceContext: `San Francisco work covers single-family homes, condos, and Airbnb turnovers across the city. Our team handles the variation in building stock — Victorians in Pacific Heights, mid-century homes in the Sunset, modern condos SoMa, and rentals near tourist corridors. Trilingual (EN/ES/PT) service available for the city's Hispanic and Latin-American homeowner base.`,
     cities: [
       { name: 'San Francisco', slug: 'san-francisco-ca', county: 'San Francisco County', hasPage: true },
+    ],
+  },
+  {
+    slug: 'new-jersey',
+    name: 'New Jersey',
+    abbr: 'NJ',
+    coords: { lat: 40.7282, lng: -74.0776 },
+    wikidataQID: 'Q1408',
+    introFactual: `Northern New Jersey and the Hudson River waterfront are part of 3 Sisters Services' core coverage area. We run cleaning routes across Hoboken, Jersey City, and neighboring Hudson County communities — brownstones, luxury high-rises, and lofts. Bonded, insured, and trilingual (EN/ES/PT).`,
+    serviceContext: `Hudson County cleaning connects directly with our NYC routes via the PATH corridor. Hoboken brownstones and Jersey City high-rise waterfront communities near Newport and Exchange Place are on our regular schedule. We handle weekly, bi-weekly, one-time deep cleans, and Move-In/Move-Out work with full building COI compliance.`,
+    cities: [
+      { name: 'Hoboken', slug: 'hoboken-nj', county: 'Hudson County', hasPage: true },
+      { name: 'Jersey City', slug: 'jersey-city-nj', county: 'Hudson County', hasPage: true },
     ],
   },
 ];

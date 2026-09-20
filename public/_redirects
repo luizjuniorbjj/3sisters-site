@@ -51,3 +51,19 @@
 /cities/southwest-ranches-fl/:service/  /services/:service/    301
 /cities/southwest-ranches-fl/           /                      301
 /states/florida/                        /                      301
+
+# Flat URLs to canonical Next.js matrix paths (preserve backward-compatibility)
+/deep-cleaning-hoboken/                 /cities/hoboken-nj/deep-cleaning/       301
+/deep-cleaning-hoboken                  /cities/hoboken-nj/deep-cleaning/       301
+/regular-cleaning-hoboken/              /cities/hoboken-nj/regular-cleaning/    301
+/regular-cleaning-hoboken               /cities/hoboken-nj/regular-cleaning/    301
+/deep-cleaning-jersey-city/             /cities/jersey-city-nj/deep-cleaning/   301
+/deep-cleaning-jersey-city              /cities/jersey-city-nj/deep-cleaning/   301
+/deep-cleaning-manhattan/               /cities/manhattan-ny/deep-cleaning/     301
+/deep-cleaning-manhattan                /cities/manhattan-ny/deep-cleaning/     301
+/deep-cleaning-brooklyn/                /cities/brooklyn-ny/deep-cleaning/      301
+/deep-cleaning-brooklyn                 /cities/brooklyn-ny/deep-cleaning/      301
+/deep-cleaning-queens/                  /cities/queens-ny/deep-cleaning/        301
+/deep-cleaning-queens                   /cities/queens-ny/deep-cleaning/        301
+/deep-cleaning-san-francisco/           /cities/san-francisco-ca/deep-cleaning/ 301
+/deep-cleaning-san-francisco            /cities/san-francisco-ca/deep-cleaning/ 301

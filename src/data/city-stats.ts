@@ -139,6 +139,33 @@ export const CITY_STATS: CityStats[] = [
       { label: 'U.S. Census Bureau (ACS 2024) via Census Reporter', url: 'http://censusreporter.org/profiles/16000US0667000-san-francisco-ca/' },
     ],
   },
+  // ─── New Jersey tier (Hudson County) ───
+  {
+    slug: 'hoboken-nj',
+    population: 60419,
+    medianHomeValue: '$750,000–$1,200,000',
+    renterPct: 68.5,
+    medianYearBuilt: 1950,
+    climateNote:
+      'Urban waterfront opposite Manhattan: high renter turnover, four-story historic walkups without elevators, and strict street sweeping and parking rules shape cleaner arrivals.',
+    sources: [
+      { label: 'U.S. Census Bureau' },
+      { label: 'Zillow' },
+    ],
+  },
+  {
+    slug: 'jersey-city-nj',
+    population: 292449,
+    medianHomeValue: '$550,000–$850,000',
+    renterPct: 70.2,
+    medianYearBuilt: 1965,
+    climateNote:
+      'Hudson River waterfront: dense mix of luxury high-rise doorman buildings in Newport and Exchange Place alongside historic brownstones in Downtown and Paulus Hook.',
+    sources: [
+      { label: 'U.S. Census Bureau' },
+      { label: 'Zillow' },
+    ],
+  },
 ];
 
 export function getCityStats(slug: string): CityStats | undefined {

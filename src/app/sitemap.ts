@@ -31,8 +31,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/cities/brooklyn-ny/`, lastModified, changeFrequency: 'monthly', priority: 0.85 },
     { url: `${BASE_URL}/cities/queens-ny/`, lastModified, changeFrequency: 'monthly', priority: 0.85 },
     { url: `${BASE_URL}/cities/san-francisco-ca/`, lastModified, changeFrequency: 'monthly', priority: 0.85 },
+    { url: `${BASE_URL}/cities/hoboken-nj/`, lastModified, changeFrequency: 'monthly', priority: 0.85 },
+    { url: `${BASE_URL}/cities/jersey-city-nj/`, lastModified, changeFrequency: 'monthly', priority: 0.85 },
     { url: `${BASE_URL}/states/new-york/`, lastModified, changeFrequency: 'monthly', priority: 0.9 },
     { url: `${BASE_URL}/states/california/`, lastModified, changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${BASE_URL}/states/new-jersey/`, lastModified, changeFrequency: 'monthly', priority: 0.9 },
     { url: `${BASE_URL}/legal/privacy/`, lastModified, changeFrequency: 'yearly', priority: 0.3 },
     { url: `${BASE_URL}/legal/terms/`, lastModified, changeFrequency: 'yearly', priority: 0.3 },
     // Service × City matrix cells (Wave 5.x) — high-intent local pages
