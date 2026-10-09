@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { SERVICE_CITY_PAGES } from '@/data/service-city';
+import { getAllBlogSlugs } from '@/data/blog-posts';
 
 // Final production domain (DNS cutover target).
 const BASE_URL = 'https://3sistersservices.com';
@@ -23,9 +24,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/contact/`, lastModified, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${BASE_URL}/team/`, lastModified, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${BASE_URL}/blog/`, lastModified, changeFrequency: 'monthly', priority: 0.7 },
-    { url: `${BASE_URL}/blog/how-to-prepare-for-deep-cleaning/`, lastModified, changeFrequency: 'monthly', priority: 0.6 },
-    { url: `${BASE_URL}/blog/hiring-cleaning-service-nyc/`, lastModified, changeFrequency: 'monthly', priority: 0.6 },
-    { url: `${BASE_URL}/blog/airbnb-cleaning-checklist/`, lastModified, changeFrequency: 'monthly', priority: 0.6 },
+    // Same source as the blog routes (generateStaticParams) — every published post is listed.
+    ...getAllBlogSlugs().map((slug) => ({
+      url: `${BASE_URL}/blog/${slug}/`,
+      lastModified,
+      changeFrequency: 'monthly' as const,
+      priority: 0.6,
+    })),
     // Florida city hubs retired (WS-B / ADR-3S-001) — 301 -> home in _redirects.
     { url: `${BASE_URL}/cities/manhattan-ny/`, lastModified, changeFrequency: 'monthly', priority: 0.85 },
     { url: `${BASE_URL}/cities/brooklyn-ny/`, lastModified, changeFrequency: 'monthly', priority: 0.85 },
